@@ -36,7 +36,7 @@ Meeting is the place where individual team member show their personal opinion an
 
 As a result of Super Good Process, we can achieve;
 
-  * Task of practice and optimization for for the Status of the project goal achieved
+  * Task of practice and optimization for the Status of the project goal achieved
   * Task of practice and optimization for the Status of ideal and self-organizing team
   * Task of practice and optimization for Super Good Process itself
 
