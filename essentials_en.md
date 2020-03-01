@@ -1,4 +1,4 @@
-# Project Sprint Essentials
+ToDo# Project Sprint Essentials
 This document is defining the core concept and framework of Project Sprint, to give the essential understanding of it.
 
 ## Principle
@@ -16,7 +16,7 @@ By going and back these two activities and Super Good Process iteratively and re
 ## Activity
 There are 2 types of activities by each member in the project.
 
-**Deliverable Activity** is for individual member to complete assigned TODOs and generate **Output** for incremental deliverables.
+**Deliverable Activity** is for individual member to complete assigned ToDos and generate **Output** for incremental deliverables.
 
 **Mental Activity** is for individual member to come up with anything about the team or the project itself, resulting in **Tension** which should be shared with the team.
 
