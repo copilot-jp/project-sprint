@@ -24,7 +24,7 @@ Defining the core concept and framework of Project Sprint, to give the essential
 
 * [Project Sprint Essentials](https://copilot-jp.github.io/project-sprint/essentials_en.html)
 
-## SuperGoodMeetins
+## SuperGoodMeetings
 
 複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツール。
 Project Sprint をサポートするプロジェクト構造や入力項目を持つ。
