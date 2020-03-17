@@ -1,6 +1,6 @@
 title: Project Sprint
 author:
-  name: motoi
+  name: "Project Sprint Project"
   # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Project Sprint: Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
@@ -47,8 +47,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - essentials_en.md
 
 # Build settings
 theme: minima
