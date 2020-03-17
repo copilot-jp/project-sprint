@@ -3,7 +3,7 @@ author:
   # name: GitHub User
   # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Project Sprint: Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
+  Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 show_excerpts: false # set to true to show excerpts on the homepage
 google_analytics: UA-160350510-1
 
