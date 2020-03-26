@@ -1,6 +1,6 @@
 # The Project Sprint Documentation
 
-Repository for ![the Project Sprint site](projectsprint.org) hosted by GitHub Pages and build with Minima Template.
+Repository for ![the Project Sprint site](https://projectsprint.org) hosted by GitHub Pages and build with Minima Template.
 
 ## The Project Sprint
 
@@ -10,4 +10,4 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 You can reach the maintainers of this project at:
 
-![Slack](projectsprint.slack.com)
+![Slack](https://projectsprint.slack.com)
