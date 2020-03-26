@@ -14,17 +14,17 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 プロジェクトスプリントのコアとなる概念とフレームワークについての定義を示し、理解を与えることを目的としたドキュメント。
 
-* [プロジェクトスプリント エッセンシャルズ](https://copilot-jp.github.io/project-sprint/essentials.html)
+* [プロジェクトスプリント エッセンシャルズ](https://projectsprint.org/essentials/)
 
-エッセンシャルズに記載されている内容のうち、スーパーグッドプロセスについて、その詳細を記述し、さらに深い理解を与えることを目的としたドキュメント。
+プロジェクトスプリントをより完全なかたちで導入・運用するために必要となる概念とフレームワークについての定義を示し、理解を与えることを目的としているドキュメント。
 
-* [プロジェクトスプリント エッセンシャルズ ディテイルズ スーパーグッドプロセス編](https://copilot-jp.github.io/project-sprint/details_supergoodprocess.html)
+* [プロジェクトスプリント アドバンス](https://projectsprint.org/advance/)
 
 ### English
 
 Defining the core concept and framework of Project Sprint, to give the essential understanding of it.
 
-* [Project Sprint Essentials](https://copilot-jp.github.io/project-sprint/essentials_en.html)
+* [Project Sprint Essentials](https://projectsprint.org/en/)
 
 ## SuperGoodMeetings
 
