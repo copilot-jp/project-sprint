@@ -6,6 +6,16 @@ Repository for [the Project Sprint site](https://projectsprint.org) hosted by Gi
 
 Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
+## Releases
+
+#### v0.8 (Apr 3rd, 2020)
+
+- First Releases
+  - index (JA/EN)
+  - Project Sprint Essentials (JA)
+  - Project Sprint Essentials (EN)
+  - Project Sprint Details Super Good Process (JA)
+
 ## Discussion Community
 
 You can reach the maintainers of this project at:

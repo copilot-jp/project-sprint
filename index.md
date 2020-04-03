@@ -8,7 +8,7 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ![Project Sprint](images/pjs_logo.png)
 
-## Project Sprint Essentials
+## Project Sprint Essentials v0.8
 
 ### 日本語
 
@@ -25,6 +25,16 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 Defining the core concept and framework of Project Sprint, to give the essential understanding of it.
 
 * [Project Sprint Essentials](https://copilot-jp.github.io/project-sprint/essentials_en.html)
+
+### Releases
+
+#### v0.8 (Apr 3rd, 2020)
+
+- First Releases
+  - index (JA/EN)
+  - Project Sprint Essentials (JA)
+  - Project Sprint Essentials (EN)
+  - Project Sprint Details Super Good Process (JA)
 
 ## SuperGoodMeetings
 
