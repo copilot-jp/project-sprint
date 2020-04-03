@@ -1,7 +1,7 @@
 title: Project Sprint
 author:
-  # name: GitHub User
-  # email: your-email@domain.com
+   name: PJS Contributors
+   email: projectsprint@copilot.jp
 description: > # this means to ignore newlines until "show_excerpts:"
   Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  copilot-jp
+    # github:  copilot-jp
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
