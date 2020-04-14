@@ -4,8 +4,8 @@ This document is defining the core concept and framework of Project Sprint, to g
 ## Principle
 In the framework of Project Sprint, what is happening in the project is classified into 3 types as follows.
 
-1. **Deliverable Activity** by each member, to make the incremental deliverables.
-2. **Mental Activity** by each member, to build up the self-organizing team.
+1. **Progress Activity** by each member, to make the incremental deliverables.
+2. **Teaming Activity** by each member, to build up the self-organizing team.
 3. **Process**, the system enabling all members to sync up, resulting in more and more practice and optimization.
 
 By going and back these two activities and Process iteratively and regularly, the team can achieve below TO-BE Status simultaneously.
@@ -16,9 +16,9 @@ By going and back these two activities and Process iteratively and regularly, th
 ## Activity
 There are 2 types of activities by each member in the project.
 
-**Deliverable Activity** is for individual member to complete assigned ToDos and generate **Output** for incremental deliverables.
+**Progress Activity** is for individual member to complete assigned ToDos and generate **Output** for incremental deliverables.
 
-**Mental Activity** is for individual member to come up with anything about the team or the project itself, resulting in **Tension** which should be shared with the team.
+**Teaming Activity** is for individual member to come up with anything about the team or the project itself, resulting in **Tension** which should be shared with the team.
 
 ## Process
 
@@ -56,10 +56,10 @@ The Project Sprint needs some roles for its installation and actual use.
 For each role can be covered by more than one person.
 
 #### Progress Management
-The role to lead practice and optimization of Deliverable Activity for the Status of the project goal achieved.
+The role to lead practice and optimization of Progress Activity for the Status of the project goal achieved.
 
 #### Team Management
-The role to practice and optimization of Mental Activity for the Status of ideal and self-organizing team.
+The role to practice and optimization of Teaming Activity for the Status of ideal and self-organizing team.
 
 #### Process Admin
 The role to lead practice and optimization of Process.
