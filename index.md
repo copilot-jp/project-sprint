@@ -24,6 +24,13 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
   - Project Sprint Essentials (EN)
   - Project Sprint Details Super Good Process (JA)
 
+### v0.8.1 (Apr 27th, 2020)
+
+  - v0.8.1 Releases
+    - Project Sprint Essentials (JA)
+    - Project Sprint Advance (JA)
+    - Project Sprint Plug-in (JA)
+
 ## SuperGoodMeetings
 
 複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツール。
