@@ -18,10 +18,14 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ### v0.8.1 (Apr 28th, 2020)
 
-- v0.8.1 Releases
-  - Project Sprint Essentials (JA)
-  - Project Sprint Advance (JA)
-  - Project Sprint Plug-in (JA)
+- JA
+  - プロセスの呼称変更(スーパーグッドプロセス->プロセス)
+  - プロジェクトを行う主体としてプロジェクトチームを定義(Essentials)
+  - プログレス、プロセス、チーミングをPJSが扱うプロジェクトを構成する3つのドメインとして定義(Essentials)
+  - ステータスの定義を改善(Essentials)
+  - エッセンシャルズ内の全てのロールをプラグインに移行
+- EN
+  - Change name 'Super Good Process' to 'Process'
 
 ### v0.8 (Apr 3rd, 2020)
 
