@@ -4,7 +4,7 @@ layout: home
 
 ![Project Sprint](images/pjs_logo.png)
 
-## Project Sprint Essentials v0.8
+## Project Sprint Essentials v0.8.1
 
 Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 

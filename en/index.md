@@ -4,7 +4,7 @@
 
 Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
-## Project Sprint v0.8 Documents
+## Project Sprint v0.8.1 Documents
 
 Defining the core concept and framework of Project Sprint, to give the essential understanding of it.
 
