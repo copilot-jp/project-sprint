@@ -16,6 +16,13 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
+### v0.8.1 (Apr 28th, 2020)
+
+- v0.8.1 Releases
+  - Project Sprint Essentials (JA)
+  - Project Sprint Advance (JA)
+  - Project Sprint Plug-in (JA)
+
 ### v0.8 (Apr 3rd, 2020)
 
 - First Releases
@@ -23,13 +30,6 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
   - Project Sprint Essentials (JA)
   - Project Sprint Essentials (EN)
   - Project Sprint Details Super Good Process (JA)
-
-### v0.8.1 (Apr 28th, 2020)
-
-  - v0.8.1 Releases
-    - Project Sprint Essentials (JA)
-    - Project Sprint Advance (JA)
-    - Project Sprint Plug-in (JA)
 
 ## SuperGoodMeetings
 
