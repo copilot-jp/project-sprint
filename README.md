@@ -8,6 +8,21 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
+### v0.8.1 (Apr 28th, 2020)
+
+- JA
+  - 呼称変更：スーパーグッドプロセス -> プロセス
+　- 呼称変更：デリバラブル・アクティビティ -> プログレス・アクティビティ
+　- 呼称変更：メンタル・アクティビティ -> チーミング・アクティビティ
+  - プログレス、プロセス、チーミングを、プロジェクトスプリントが扱うプロジェクトを構成する3つのドメインとして定義(Essentials)
+  - ステータスの定義を改善(Essentials)
+  - エッセンシャルズ内の全てのロールをプラグインに移行
+
+- EN
+  - Change the name 'Super Good Process' to 'Process'
+  - Change the name ‘Deliverable Activity’ to ‘Progress Activity’
+  - Change the name ‘Mental Activity’ to ‘Teaming Activity’
+
 #### v0.8 (Apr 3rd, 2020)
 
 - First Releases

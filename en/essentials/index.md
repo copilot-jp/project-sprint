@@ -4,11 +4,11 @@ This document is defining the core concept and framework of Project Sprint, to g
 ## Principle
 In the framework of Project Sprint, what is happening in the project is classified into 3 types as follows.
 
-1. **Deliverable Activity** by each member, to make the incremental deliverables.
-2. **Mental Activity** by each member, to build up the self-organizing team.
-3. **Super Good Process**, the system enabling all members to sync up, resulting in more and more practice and optimization.
+1. **Progress Activity** by each member, to make the incremental deliverables.
+2. **Teaming Activity** by each member, to build up the self-organizing team.
+3. **Process**, the system enabling all members to sync up, resulting in more and more practice and optimization.
 
-By going and back these two activities and Super Good Process iteratively and regularly, the team can achieve below TO-BE Status simultaneously.
+By going and back these two activities and Process iteratively and regularly, the team can achieve below TO-BE Status simultaneously.
 
 * Status of the project goal achieved
 * Status of the ideal self-organizing team built up
@@ -16,15 +16,15 @@ By going and back these two activities and Super Good Process iteratively and re
 ## Activity
 There are 2 types of activities by each member in the project.
 
-**Deliverable Activity** is for individual member to complete assigned ToDos and generate **Output** for incremental deliverables.
+**Progress Activity** is for individual member to complete assigned ToDos and generate **Output** for incremental deliverables.
 
-**Mental Activity** is for individual member to come up with anything about the team or the project itself, resulting in **Tension** which should be shared with the team.
+**Teaming Activity** is for individual member to come up with anything about the team or the project itself, resulting in **Tension** which should be shared with the team.
 
-## Super Good Process
+## Process
 
-Super Good Process is the unique system of Project Sprint, which enables activities by individual member to contribute to the Status of project overall in the most efficient and effective ways.
+Process is the unique system of Project Sprint, which enables activities by individual member to contribute to the Status of project overall in the most efficient and effective ways.
 
-Super Good Process has Meeting and Agenda as its component.
+Process has Meeting and Agenda as its component.
 
 **Meeting** : the opportunity to share the time and place together among all team members.
 
@@ -34,15 +34,15 @@ Agenda works as the focus point, which enables team member concentration on the 
 
 Meeting is the place where individual team member show their personal opinion and feelings explicitly or implicitly, so that they can sync up with each other.
 
-As a result of Super Good Process, we can achieve;
+As a result of Process, we can achieve;
 
   * Task of practice and optimization for the Status of the project goal achieved
   * Task of practice and optimization for the Status of ideal and self-organizing team
-  * Task of practice and optimization for Super Good Process itself
+  * Task of practice and optimization for Process itself
 
 ## Status
 
-By going and back these two activities and Super Good Process iteratively and regularly, the team can achieve below TO-BE Status.
+By going and back these two activities and Process iteratively and regularly, the team can achieve below TO-BE Status.
 
 * Status of the project goal achieved
 * Status of the ideal self-organizing team built up
@@ -56,13 +56,13 @@ The Project Sprint needs some roles for its installation and actual use.
 For each role can be covered by more than one person.
 
 #### Progress Management
-The role to lead practice and optimization of Deliverable Activity for the Status of the project goal achieved.
+The role to lead practice and optimization of Progress Activity for the Status of the project goal achieved.
 
 #### Team Management
-The role to practice and optimization of Mental Activity for the Status of ideal and self-organizing team.
+The role to practice and optimization of Teaming Activity for the Status of ideal and self-organizing team.
 
 #### Process Admin
-The role to lead practice and optimization of Super Good Process.
+The role to lead practice and optimization of Process.
 
 #### Sprint Master
 The role to support installation of Project Sprint which is defined in this document.
