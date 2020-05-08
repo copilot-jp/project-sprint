@@ -8,12 +8,18 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
+### v0.8.2 (Mar 8th, 2020)
+
+- JA/EN
+  - Figure: Unify terms(Essentials)
+  - Figure: Adding domain section(Essentials)
+
 ### v0.8.1 (Apr 28th, 2020)
 
 - JA
   - 呼称変更：スーパーグッドプロセス -> プロセス
-　- 呼称変更：デリバラブル・アクティビティ -> プログレス・アクティビティ
-　- 呼称変更：メンタル・アクティビティ -> チーミング・アクティビティ
+  - 呼称変更：デリバラブル・アクティビティ -> プログレス・アクティビティ
+  - 呼称変更：メンタル・アクティビティ -> チーミング・アクティビティ
   - プログレス、プロセス、チーミングを、プロジェクトスプリントが扱うプロジェクトを構成する3つのドメインとして定義(Essentials)
   - ステータスの定義を改善(Essentials)
   - エッセンシャルズ内の全てのロールをプラグインに移行
