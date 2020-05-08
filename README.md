@@ -35,4 +35,4 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 You can reach the maintainers of this project at:
 
-[Slack](https://projectsprint.slack.com)
+[Slack](http://slack.projectsprint.org/)
