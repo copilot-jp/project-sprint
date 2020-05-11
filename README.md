@@ -29,7 +29,7 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
   - Change the name ‘Deliverable Activity’ to ‘Progress Activity’
   - Change the name ‘Mental Activity’ to ‘Teaming Activity’
 
-#### v0.8 (Apr 3rd, 2020)
+### v0.8 (Apr 3rd, 2020)
 
 - First Releases
   - index (JA/EN)
