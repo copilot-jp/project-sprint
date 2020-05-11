@@ -8,7 +8,7 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
-### v0.8.2 (Mar 8th, 2020)
+### v0.8.2 (Mar 13th, 2020)
 
 - JA/EN
   - Figure: Unify terms(Essentials)
