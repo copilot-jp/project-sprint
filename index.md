@@ -4,7 +4,7 @@ layout: home
 
 ![Project Sprint](images/pjs_logo.png)
 
-## Project Sprint Essentials v0.8.1
+## Project Sprint Documents
 
 Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
@@ -15,6 +15,12 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 * [日本語](ja/index.html)
 
 ## Releases
+
+### v0.8.2 (Mar 13th, 2020)
+
+- JA/EN
+  - Figure: Unify terms(Essentials)
+  - Figure: Adding domain section(Essentials)
 
 ### v0.8.1 (Apr 28th, 2020)
 
