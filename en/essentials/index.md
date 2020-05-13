@@ -68,4 +68,4 @@ The role to lead practice and optimization of Process.
 The role to support installation of Project Sprint which is defined in this document.
 
 ##### Blueprint of Project Sprint
-![プロジェクトスプリント概念図](../images/essentials.png)
+![Project Sprint Conceptual Diagram](../images/essentials.png)
