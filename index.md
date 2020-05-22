@@ -16,7 +16,13 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
-### v0.8.2 (Mar 13th, 2020)
+### v0.8.3 (May 23rd, 2020)
+
+- JA
+  - アジェンダの定義を変更(Essentials / Advance)
+  - アドバンス内から予約ロールの概念を撤廃
+
+### v0.8.2 (May 13th, 2020)
 
 - JA/EN
   - Figure: Unify terms(Essentials)
