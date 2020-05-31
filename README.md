@@ -1,12 +1,27 @@
-# The Project Sprint Documentation
+# このリポジトリとは
 
-Repository for [the Project Sprint site](https://projectsprint.org) hosted by GitHub Pages and build with Minima Template.
+ようこそ！このリポジトリには、[Project Sprint](https://projectsprint.org) のウェブサイトをビルドするために必要な全アセットが格納されています。貢献に興味を持っていただきありがとうございます！
 
-## The Project Sprint
+## コントビューターを歓迎します
 
-Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
+GitHubの画面右上にあるForkボタンをクリックすると、ご利用のGitHubアカウントに紐付いた本リポジトリのコピーが作成されます。このコピーのことをフォークと呼びます。フォークリポジトリの中ではお好きなように変更を加えていただいて構いません。加えた変更をこのリポジトリに追加したい任意のタイミングにて、フォークリポジトリからPull Reqeustを作成してください。
 
-## Releases
+Pull Requestが作成されると、レビュー担当者が責任を持って明確かつ実用的なフィードバックを返します。 Pull Requestの所有者は作成者であるため、ご自身で作成したPull Requestを編集し、フィードバックに対応するのはご自身の役目です。
+また、状況によっては2人以上のレビュアーからフィードバックが返されたり、アサインされていないレビュー担当者からのフィードバックが来ることがある点もご注意ください。
+レビュー担当者は1週間に1回程度のフィードバックを提供するために最善を尽くしますが、応答時間は状況に応じて異なる場合があります。
+
+## ロールや相談相手の一覧
+@Satoshi-Matsumoto コンテンツ・文章関連
+@kikuchiharuma 図表関連, projectsprint.org のテクニカル関連
+@motoi どうしたらよいか迷った事象の解決関連
+
+## Slackや毎週のディスカッションなどへの参加案内
+
+本プロジェクトのコントリビューターには以下の方法で連絡することができます。
+[Slackコミュニティ](https://projectsprint.slack.com/) #project_sprint チャンネル
+[ユーザー登録](https://slack.projectsprint.org/)
+
+## リリースノート
 
 ### v0.8.3 (May 23rd, 2020)
 
@@ -42,9 +57,3 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
   - Project Sprint Essentials (JA)
   - Project Sprint Essentials (EN)
   - Project Sprint Details Super Good Process (JA)
-
-## Discussion Community
-
-You can reach the maintainers of this project at:
-
-[Slack](http://slack.projectsprint.org/)
