@@ -11,15 +11,18 @@ Pull Requestが作成されると、レビュー担当者が責任を持って�
 また、状況によっては2人以上のレビュアーからフィードバックが返されたり、アサインされていないレビュー担当者からのフィードバックが来ることがある点もご注意ください。  
 レビュー担当者は1週間に1回程度のフィードバックを提供するために最善を尽くしますが、応答時間は状況に応じて異なる場合があります。
 
-## ロールや相談相手の一覧
-@Satoshi-Matsumoto コンテンツ・文章関連  
-@kikuchiharuma 図表関連, projectsprint.org のテクニカル関連  
-@motoi どうしたらよいか迷った事象の解決相談  
+## 相談相手の一覧
+
+| 主に関係している領域 | GitHub Username |
+| --- | --- |
+| コンテンツ・文章関連 | @Satoshi-Matsumoto |
+| 図表関連, projectsprint.org のテクニカル関連 | @kikuchiharuma |
+| どうしたらよいか迷った事象の解決 | @motoi |
 
 ## Slackや毎週のディスカッションなどへの参加案内
-本プロジェクトのコントリビューターには以下の方法で連絡することができます。  
-[Slackコミュニティ](https://projectsprint.slack.com/) #project_sprint チャンネル  
-[ユーザー登録](https://slack.projectsprint.org/)
+本プロジェクトのコントリビューターにSlackにて連絡することができます。  
+毎週行われているミーティング開催情報などもこちらで連絡させていただきます。  
+[Slackコミュニティ](https://projectsprint.slack.com/) #project_sprint チャンネル [ユーザー登録はこちら](https://slack.projectsprint.org/)
 
 ## リリースノート
 
