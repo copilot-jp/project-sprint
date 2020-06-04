@@ -16,6 +16,15 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
+### v0.8.4 (Jun 4th, 2020)
+
+- JA
+- プログレスドメイン、チーミングドメインにおける"理想の状態"を明確化(Eseentials)
+- プログレス・ステータス、チーミング・ステータスが把握されるタイミングを明示 (Essentials)
+- 成果物、成果（アウトカム）、アウトプットについての定義を明確化し、概念図もこれに合わせアップデート (Essentials）
+- ミーティングの意義についての記述を充実、実現できることについて明確化(Advance)
+- ロールの性質についての記述を充実し、どのような状態が望ましいかも明確化(Advance)
+
 ### v0.8.3 (May 23rd, 2020)
 
 - JA
