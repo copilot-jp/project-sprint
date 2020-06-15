@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Project Sprint"
+---
+
 <img alt="Project Sprint" src="../images/pjs_logo.png" width="50%" />
 
 ## Project Sprint
