@@ -8,11 +8,11 @@ layout: home
 
 Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
-* [English](en/index.html)
+* [English](en/index.md)
 
 多様性のあるメンバーによる部門/組織横断のチームが、不確実性の高い環境・状況で、複雑なアウトプットを行うプロジェクトを推進するためのフレームワークとメソッド。
 
-* [日本語](ja/index.html)
+* [日本語](ja/index.md)
 
 ## Releases
 
