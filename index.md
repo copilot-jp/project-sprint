@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Project Sprint](images/pjs_logo.png)
+<img alt="Project Sprint" src="images/pjs_logo.png" width="50%" />
 
 ## Project Sprint Documents
 
