@@ -1,4 +1,9 @@
-Project Sprint Essentials
+---
+layout: post
+title: "Project Sprint Essentials"
+image: https://projectsprint.org/images/pjs_og.png
+---
+
 This document is defining the core concept and framework of Project Sprint, to give the essential understanding of it.
 
 ## Principle

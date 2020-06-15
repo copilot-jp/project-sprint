@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Release Notes"
+image: https://projectsprint.org/images/pjs_og.png
 ---
 
 ### v0.8.4 (Jun 4th, 2020)
