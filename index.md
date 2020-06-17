@@ -8,13 +8,20 @@ layout: home
 
 Frameworks and methods for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
-* [English](en/index.html)
+* [English](en/index.md)
 
 多様性のあるメンバーによる部門/組織横断のチームが、不確実性の高い環境・状況で、複雑なアウトプットを行うプロジェクトを推進するためのフレームワークとメソッド。
 
-* [日本語](ja/index.html)
+* [日本語](ja/index.md)
 
 ## Releases
+
+### v0.9.0 (Jun 17th, 2020)
+
+- JA
+  - ドキュメント体系を刷新。従来Essentials / Details / Advance / Plug-inと分けられていたものを、理論編および基礎編と、任意で利用できる補足的事項を説明したプラグインの構成に変更。理論編と基礎編はさらに、ベーシックとアドバンスの2つにわけられる。理論編と実践編それぞれのベーシックを総称して、プロジェクトスプリント エッセンシャルズ と呼ぶ。
+  - 刷新されたドキュメント体系に併せてページ間のリンク遷移を調整
+  - チームメンバーがプロジェクトスプリントの中で担う役割の名称をロールに統一（ファンクションの用語の廃止）
 
 ### v0.8.4 (Jun 4th, 2020)
 
