@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "プロジェクトスプリント CODE 実践編 アドバンス"
+image: https://projectsprint.org/images/pjs_og.png
 ---
 
 このドキュメントは、プロジェクトスプリント [CODE 実践編 ベーシック](../practice/basic.md)で述べられた基本的内容よりもさらに応用的内容を説明している。
