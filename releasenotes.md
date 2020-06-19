@@ -3,6 +3,8 @@ layout: post
 title: "Release Notes"
 ---
 
+## CODE
+
 ### v0.9.0 (Jun 17th, 2020)
 
 - JA
@@ -53,3 +55,21 @@ title: "Release Notes"
   - Project Sprint Essentials (JA)
   - Project Sprint Essentials (EN)
   - Project Sprint Details Super Good Process (JA)
+
+## Site
+
+### v1.0.0 (Jun 22nd, 2020)
+
+- Added
+  - Unified Release Notes Page
+  - Google Tag Manager
+  - Open Graph meta data, favicon, page title, etc.
+- Updated
+  - heading style(h5, h6)
+- Deleted
+  - Google Analytics
+
+### v0.8.0 (Apr 3rd, 2020)
+
+- First Release
+  - Thanks a lot to Jekyll + Minima
