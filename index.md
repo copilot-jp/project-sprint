@@ -3,7 +3,7 @@ layout: home
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-<img alt="Project Sprint" src="../images/pjs_logo.png" width="50%" />
+<img alt="Project Sprint" src="images/pjs_logo.png" width="50%" />
 
 ## Project Sprint Documents
 
