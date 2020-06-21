@@ -8,6 +8,9 @@ Frameworks and methods for a diverse and cross-functional teams to drive project
 
 ## Releases
 
+### v1.0.0 
+
+
 ### v0.9.0 (Jun 17th, 2020)
 
 - JA
