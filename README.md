@@ -13,11 +13,11 @@ Pull Requestが作成されると、レビュー担当者が責任を持って�
 
 ## 相談相手の一覧
 
-| 主に関係している領域 | GitHub Username |
+| 相談したいこと | 相談相手のGitHub Username |
 | --- | --- |
-| コンテンツ・文章関連 | @Satoshi-Matsumoto |
-| 図表関連, projectsprint.org のテクニカル関連 | @kikuchiharuma |
-| どうしたらよいか迷った事象の解決 | @motoi |
+| projectsprint.orgに記載されている文章に関すること | @Satoshi-Matsumoto |
+| projectsprint.orgに記載されている図表に関すること、または projectsprint.org のサイト仕様に関すること | @kikuchiharuma |
+| そのほか、どうしたらよいかわからないことすべて | @motoi |
 
 ## Slackや毎週のディスカッションなどへの参加案内
 本プロジェクトのコントリビューターにSlackにて連絡することができます。  
