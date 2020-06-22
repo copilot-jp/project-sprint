@@ -1,4 +1,10 @@
-![Project Sprint](../images/pjs_logo.png)
+---
+layout: post
+title: "Project Sprint"
+image: https://projectsprint.org/images/pjs_og.png
+---
+
+<img alt="Project Sprint" src="../images/pjs_logo.png" width="50%" />
 
 ## Project Sprint
 

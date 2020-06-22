@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.post-content {
+
+  h5 {
+    @include relative-font-size(1.2);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.15);
+    }
+  }
+
+  h6 {
+    @include relative-font-size(1.15);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.1);
+    }
+  }
+
+}
