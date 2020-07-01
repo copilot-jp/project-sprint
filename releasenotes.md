@@ -5,6 +5,8 @@ title: "Release Notes"
 
 ## CODE
 
+### v1.0.0 
+
 ### v0.9.0 (Jun 17th, 2020)
 
 - JA
