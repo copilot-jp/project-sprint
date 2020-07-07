@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Project Sprint Contributors / projectsprint@copilot.jp
 show_excerpts: false # set to true to show excerpts on the homepage
-google_analytics: UA-160350510-1
+# google_analytics: UA-160350510-1
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -48,7 +48,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - essentials_en.md
+ - releasenotes.md
 
 # Build settings
 theme: minima
