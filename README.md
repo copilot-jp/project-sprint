@@ -56,4 +56,4 @@ Pull Requestが作成されると、レビュー担当者が責任を持って�
 
 ## リリースノート
 
-* [Release Notes](/releasenotes.html)
+* [Release Notes](https://projectsprint.org/releasenotes.html)
