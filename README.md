@@ -43,6 +43,16 @@ Pull Requestが作成されると、レビュー担当者が責任を持って�
 レビュー担当者は1週間に1回程度のフィードバックを提供するために最善を尽くしますが、応答時間は状況に応じて異なる場合があります。
 
 #### Issueによる参加
+[Issue一覧](https://github.com/copilot-jp/project-sprint/issues)右上にあるNew Issueボタンから、新しいIssueを作成し、このリポジトリに関するあらゆることを自由にディスカッションすることができます。
+
+議論されることとしては、例えば、
+- [Project Sprint](https://projectsprint.org) のウェブサイトで示されているProject Sprintに関する記述内容
+- [Project Sprint](https://projectsprint.org) のウェブサイトそのものに関する質問事項(デザインやリンク構造など）
+などがありますが、こうした内容に限らず、自由にIssueを立てることができます。
+
+Issueを作成する際には、タイトルと本文は必ず記載するようにしてください。Assignees、Labels、Projects、Milestoneといった項目は、Issueをハンドリングする専属のコントリビューター @Satoshi-Matsumoto によって設定されるため、記入の必要はありません。
+
+Issueが作成された後、 @Satoshi-Matsumoto がそのIssueに対応するべきかどうか、その理由、対応するならばその進行方法、対応すべき期日について検討します。必要であれば、Issue作成者と会話しながらこれらの点を決定していきます。
 
 #### 相談相手
 
