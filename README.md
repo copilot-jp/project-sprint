@@ -1,4 +1,4 @@
-> このリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。 - Discussion in this Repository should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else and cannot use Japanese, please contact @Satoshi-Matsumoto.
+`このリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。 - Discussion in this Repository should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else and cannot use Japanese, please contact @Satoshi-Matsumoto.`
 
 # このリポジトリについて
 ようこそ！このリポジトリには、[Project Sprint](https://projectsprint.org) のウェブサイトをビルドするために必要な全アセットが格納されています。貢献に興味を持っていただきありがとうございます！
