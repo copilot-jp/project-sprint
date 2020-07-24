@@ -39,6 +39,10 @@ This is the Repository for [the Project Sprint site](https://projectsprint.org) 
 
 * [For Contributors](https://projectsprint.org/contribute.html)
 
+## リリースマネジメント
+
+* [Release Management](https://projectsprint.org/releasemanagement.html)
+
 ## リリースノート
 
 * [Release Notes](https://projectsprint.org/releasenotes.html)
