@@ -22,6 +22,12 @@ Issueを作成する際には、タイトルと本文は必ず記載するよう
 
 Issueが作成された後、 @Satoshi-Matsumoto がそのIssueに対応するべきかどうか、その理由、対応するならばその進行方法、対応すべき期日について検討します。必要であれば、Issue作成者と会話しながらこれらの点を決定していきます。
 
+#### 変更内容の反映
+
+Pull RequestやIssue上での議論を経て加えられた変更内容は、定期的なタイミングで[Project Sprint](https://projectsprint.org) のウェブサイトに反映されます。
+
+変更箇所は[リリースノート](https://projectsprint.org/releasenotes.html)に記載されるほか、[Slackコミュニティ https://projectsprint.slack.com/](https://projectsprint.slack.com/) の #release_note チャンネル内でもアナウンスされます。
+
 #### GitHub上での相談相手
 
 | 相談したい内容 | 相談相手の GitHub Username |
