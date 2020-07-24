@@ -6,9 +6,6 @@ image: https://projectsprint.org/images/pjs_og.png
 
 このドキュメントは、プロジェクトスプリント [CODE 理論編 ベーシック](../theory/basic.md)で述べられた基本的内容よりもさらに応用的な内容を説明している。
 
-## 共通事項
-特になし。
-
 ---
 ## プロセス編
 
