@@ -58,14 +58,20 @@ title: "Release Notes"
 
 ## Site
 
+### v1.0.1 (Jul 28th, 2020)
+
+- Updated
+  - Bolder heading styles (h1 - h6)
+  - Change heading sizes to recognize hierarchy easier
+
 ### v1.0.0 (Jun 22nd, 2020)
 
 - Added
-  - Unified Release Notes Page
+  - Unified release notes page
   - Google Tag Manager
   - Open Graph meta data, favicon, page title, etc.
 - Updated
-  - heading style(h5, h6)
+  - Changing heading style (h5, h6)
 - Deleted
   - Google Analytics
 
