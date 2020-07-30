@@ -1,6 +1,6 @@
-`このリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。
+このリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。
 
-This is the Repository for [the Project Sprint site](https://projectsprint.org) hosted by GitHub Pages and build with Minima Template. Project Sprint is the methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations. Discussion in this Repository should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else and cannot use Japanese, please contact @Satoshi-Matsumoto in English.`
+This is the repository for [the Project Sprint site](https://projectsprint.org) hosted by GitHub Pages and build with Minima Template. Project Sprint is the methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations. Discussion in this repository should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else though you cannot use Japanese, please contact [@Satoshi-Matsumoto](https://github.com/Satoshi-Matsumoto) in English.
 
 # このリポジトリについて
 ようこそ！このリポジトリには、[Project Sprint](https://projectsprint.org) のウェブサイトをビルドするために必要な全アセットが格納されています。貢献に興味を持っていただきありがとうございます！
@@ -38,10 +38,6 @@ This is the Repository for [the Project Sprint site](https://projectsprint.org) 
 ## コントリビューターとしての参加の方法
 
 * [For Contributors](https://projectsprint.org/contribute.html)
-
-## リリースマネジメント
-
-* [Release Management](https://projectsprint.org/releasemanagement.html)
 
 ## リリースノート
 
