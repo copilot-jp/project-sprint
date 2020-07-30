@@ -39,10 +39,6 @@
 
 * [For Contributors](https://projectsprint.org/contribute.html)
 
-## リリースマネジメント
-
-* [Release Management](https://projectsprint.org/releasemanagement.html)
-
 ## リリースノート
 
 * [Release Notes](https://projectsprint.org/releasenotes.html)
