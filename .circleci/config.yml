@@ -13,4 +13,6 @@ jobs:
           name: Which bundler?
           command: bundle -v
       - ruby/bundle-install
-      - bundle exec jekyll serve
+      - jekyll:
+          name: Start site build
+          command: bundle exec jekyll serve
