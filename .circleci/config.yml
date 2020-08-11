@@ -14,5 +14,9 @@ jobs:
           command: bundle -v
       - ruby/bundle-install
       - run:
-          name: Start site build
+          name: Jekyll build
           command: bundle exec jekyll serve
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - _site
