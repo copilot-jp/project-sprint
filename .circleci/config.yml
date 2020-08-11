@@ -16,7 +16,5 @@ jobs:
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
-      - persist_to_workspace:
-          root: ./
-          paths:
-            - _site
+      - store_artifacts:
+          path: _site
