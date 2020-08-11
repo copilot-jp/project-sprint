@@ -70,6 +70,7 @@ title: "Release Notes"
 
 - Added
   - Setting files for local preview
+  - Narrower heading styles (800 to 600)
 
 ### v1.0.1 (Jul 28th, 2020)
 
