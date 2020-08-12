@@ -66,6 +66,12 @@ title: "Release Notes"
 
 ## Site
 
+### v1.0.2 (Aug 17th, 2020)
+
+- Added
+  - Gemfile
+  - Narrower heading styles (800 to 600)
+
 ### v1.0.1 (Jul 28th, 2020)
 
 - Updated
