@@ -4,16 +4,6 @@ orbs:
   heroku: circleci/heroku@1.2.0
   ruby: circleci/ruby@1.1.0
 
-workflows:
-  heroku_deploy:
-    jobs:
-      - build
-      - heroku/push-docker-image:
-          requires:
-            - build
-          filters:
-            branches:
-              only: dev-site-v1.1.0
 jobs:
   build:
     docker:
@@ -26,3 +16,19 @@ jobs:
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
+  deploy:
+    executor: heroku/default
+    steps:
+      - heroku/install
+      - heroku/push-docker-image:
+          requires:
+            - build
+          filters:
+            branches:
+              only: dev-site-v1.1.0
+
+workflows:
+  heroku_deploy:
+    jobs:
+      - build
+      - deploy
