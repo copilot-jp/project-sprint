@@ -20,7 +20,9 @@ jobs:
       - image: circleci/ruby:2.7.1
     steps:
       - checkout
-      - ruby/bundle-install
+      - run:
+          name: Bundle install
+          command: bundle install
       - run:
           name: Jekyll build
           command: bundle exec jekyll serve
