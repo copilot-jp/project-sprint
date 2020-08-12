@@ -8,7 +8,7 @@ workflows:
   heroku_deploy:
     jobs:
       - build
-      - heroku/deploy-via-git:
+      - heroku/push-docker-image:
           requires:
             - build
           filters:
