@@ -29,8 +29,8 @@ workflows:
     jobs:
       - build
       - deploy
-          requires:
-            - build
-          filters:
-            branches:
-              only: dev-site-v1.1.0
+        requires:
+          - build
+        filters:
+          branches:
+            only: dev-site-v1.1.0
