@@ -1,20 +1,25 @@
 version: 2.1
-orbs:
-  ruby: circleci/ruby@0.1.2
 
+orbs:
+  heroku: circleci/heroku@0.0.10.
+
+workflows:
+  heroku_deploy:
+    jobs:
+      - build
+      - heroku/deploy-via-git:
+          requires:
+            - build
+          filters:
+            branches:
+              only: dev-site-v1.1.0
 jobs:
   build:
     docker:
       - image: circleci/ruby:2.7.1
-    executor: ruby/default
     steps:
       - checkout
-      - run:
-          name: Which bundler?
-          command: bundle -v
       - ruby/bundle-install
       - run:
           name: Jekyll build
-          command: bundle exec jekyll build
-      - store_artifacts:
-          path: _site
+          command: bundle exec jekyll serve
