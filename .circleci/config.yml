@@ -25,4 +25,4 @@ jobs:
           command: bundle install
       - run:
           name: Jekyll build
-          command: bundle exec jekyll serve
+          command: bundle exec jekyll build
