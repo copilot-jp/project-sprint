@@ -16,17 +16,12 @@ jobs:
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
-          
+
   deploy:
     executor: heroku/default
     steps:
       - heroku/install
-      - heroku/push-docker-image:
-          requires:
-            - build
-          filters:
-            branches:
-              only: dev-site-v1.1.0
+      - heroku/push-docker-image
 
 workflows:
   version: 2.1
@@ -34,3 +29,8 @@ workflows:
     jobs:
       - build
       - deploy
+          requires:
+            - build
+          filters:
+            branches:
+              only: dev-site-v1.1.0
