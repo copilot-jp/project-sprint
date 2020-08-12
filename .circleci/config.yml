@@ -24,7 +24,9 @@ jobs:
       - run:
           name: Prepare Heroku Container
           command: heroku stack:set container
-      - heroku/push-docker-image
+      - run:
+          name: Push to Heroku
+          command: git push heroku master
 
 workflows:
   version: 2.1
