@@ -22,7 +22,8 @@ jobs:
     steps:
       - heroku/install
       - run:
-        command: heroku stack:set container
+          name: Prepare Heroku Container
+          command: heroku stack:set container
       - heroku/push-docker-image
 
 workflows:
