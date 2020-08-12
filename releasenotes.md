@@ -69,7 +69,7 @@ title: "Release Notes"
 ### v1.1.0 (Aug 17th, 2020)
 
 - Added
-  - Setting files for local preview
+  - Gemfile for build automation
   - Narrower heading styles (800 to 600)
 
 ### v1.0.1 (Jul 28th, 2020)
