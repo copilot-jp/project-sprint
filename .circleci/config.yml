@@ -28,6 +28,7 @@ jobs:
               only: dev-site-v1.1.0
 
 workflows:
+  version: 2.1
   build_and_deploy:
     jobs:
       - build
