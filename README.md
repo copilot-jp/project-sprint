@@ -39,6 +39,20 @@ This is the repository for [the Project Sprint site](https://projectsprint.org) 
 
 * [For Contributors](https://projectsprint.org/contribute.html)
 
+## Running the website locally using Jekyll
+
+1. To test the website locally, you have to install Ruby and Jekyll. See instruction here: https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
+
+2. Open Terminal and navigate to your local source directory.
+
+3. Run build process to type this:
+
+```
+bundle exec jekyll serve
+```
+
+4. Open browser and navigate to http://localhost:4000
+
 ## リリースノート
 
 * [Release Notes](https://projectsprint.org/releasenotes.html)
