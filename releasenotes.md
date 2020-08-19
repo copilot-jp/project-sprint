@@ -70,6 +70,14 @@ title: "Release Notes"
 
 ## Site
 
+### v1.0.2 (Aug 17th, 2020)
+
+- Added
+  - Gemfile
+- Updated
+  - Narrower heading styles (800 to 600)
+  - Readme: How to run a local server
+
 ### v1.0.1 (Jul 28th, 2020)
 
 - Updated
