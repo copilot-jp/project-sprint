@@ -6,7 +6,7 @@
 
 #### はじめに
   - [このチュートリアルの構成](../tutorial/section1/section1-1.md)
-  - [Project Sprint 101](../section1/section1-2.md)
+  - [Project Sprint 101](../tutorial/section1/section1-2.md)
 
 #### 準備しよう
 - [プロジェクトのゴールとマイルストーンを設定する](../tutorial/section2/section2-1.md)
