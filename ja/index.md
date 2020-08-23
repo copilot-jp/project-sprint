@@ -32,8 +32,8 @@ Manualとは、プロジェクトスプリントを導入する方法につい�
 
 対象読者と参照すべきタイミング：プロジェクトスプリントに初めて触れる人が、その知識を習得し、実際に導入できるようになりたいとき
 
-* [Tutorial](../ja/manual/tips/index.md)
-* [Tips](../ja/manual/tutorial/index.md)
+* [Tutorial](../ja/manual/tutorial/index.md)
+* [Tips](../ja/manual/tips/index.md)
 
 ##### ドキュメントの比較表
 
