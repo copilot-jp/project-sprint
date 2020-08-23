@@ -20,7 +20,7 @@ CODEはいわばプロジェクトスプリントの仕様であり、このチ�
 チュートリアルを超え、さらに深い理解を得たい方は、ぜひこちらをご参照ください。
 
 #### ユーザーコミュニティ
-プロジェクトスプリントは *XXXXXXライセンス* でサポートされるオープンなメソッドです。このメソッドは、**Project Sprint Contributers** と呼ばれる有志のユーザーによって定義 / 改善を繰り返してかたちづくられています。
+プロジェクトスプリントは[CC BY-SA 4.0ライセンス](https://projectsprint.org/LICENCE)でサポートされるオープンなメソッドです。このメソッドは、**Project Sprint Contributers** と呼ばれる有志のユーザーによって定義 / 改善を繰り返してかたちづくられています。
 
 ユーザーはいくつかの手段を通じて、自らもContributersの一人としてProject Sprintに主体的に関わることができます。
 
@@ -36,4 +36,4 @@ CODEは構造化されたドキュメント群としてGithub上で管理され�
 
 - https://github.com/copilot-jp/project-sprint
 
-Github上でのissueのあげ方その後の取り扱いについて詳しくは *README* をご欄ください。
+Github上でのissueのあげ方その後の取り扱いについて詳しくは[README](https://github.com/copilot-jp/project-sprint)をご欄ください。
