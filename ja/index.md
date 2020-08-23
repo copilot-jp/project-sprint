@@ -16,14 +16,14 @@ CODEとは、プロジェクトスプリントの理論や実践について説�
 対象読者と参照すべきタイミング：すでにプロジェクトスプリントについてのある程度の知識を持ち、実際に導入している人が、厳密な定義について、詳細に理解したいとき
 
 * 理論編
-  - [ベーシック](../ja/theory/basic.md)
-  - [アドバンス](../ja/theory/advance.md)
+  - [ベーシック](../ja/code/theory/basic.md)
+  - [アドバンス](../ja/code/theory/advance.md)
 
 * 実践編
-  - [ベーシック](../ja/practice/basic.md)
-  - [アドバンス](../ja/practice/advance.md)
+  - [ベーシック](../ja/code/practice/basic.md)
+  - [アドバンス](../ja/code/practice/advance.md)
 
-* [プラグイン](../ja/plug-in/index.md)
+* [プラグイン](../ja/code/plug-in/index.md)
 
 ## Project Sprint チュートリアル
 
