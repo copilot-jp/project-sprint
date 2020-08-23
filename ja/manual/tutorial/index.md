@@ -5,7 +5,7 @@
 ### 目次
 
 #### はじめに
-  - [このチュートリアルの構成](../section1/section1-1.md)
+  - [このチュートリアルの構成](../tutorial/section1/section1-1.md)
   - [Project Sprint 101](../section1/section1-2.md)
 
 #### 準備しよう
