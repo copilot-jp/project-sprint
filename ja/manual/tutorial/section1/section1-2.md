@@ -1,4 +1,8 @@
-# プロジェクトスプリント チュートリアル
+---
+layout: post
+title: "プロジェクトスプリント チュートリアル"
+image: https://projectsprint.org/images/pjs_og.png
+---
 
 ## はじめに
 

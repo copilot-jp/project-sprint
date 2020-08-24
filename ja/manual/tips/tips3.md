@@ -1,4 +1,8 @@
-# Tips
+---
+layout: post
+title: "Tips"
+image: https://projectsprint.org/images/pjs_og.png
+---
 
 ## Tips3
 

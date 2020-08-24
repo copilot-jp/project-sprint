@@ -1,4 +1,8 @@
-# Project Sprint Manual
+---
+layout: post
+title: "Project Sprint Manual"
+image: https://projectsprint.org/images/pjs_og.png
+---
 
 ## Tutorial
 
