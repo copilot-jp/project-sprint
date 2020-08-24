@@ -35,9 +35,9 @@ CODEはいわばプロジェクトスプリントの仕様であり、このチ�
 
 オフラインでのミートアップ情報や、プロジェクトスプリントを行うための強力なサポートツールSuper Good Meetingsについての情報を得ることもできます。
 
-##### 2. Github上での議論
-CODEは構造化されたドキュメント群としてGithub上で管理されています。もしCODE上の記述についての改善案がある場合は、以下のGithubリポジトリにアクセスして、議論用のissueをたてることができます。
+##### 2. GitHub上での議論
+CODEは構造化されたドキュメント群としてGitHub上で管理されています。もしCODE上の記述についての改善案がある場合は、以下のGitHubリポジトリにアクセスして、議論用のissueをたてることができます。
 
 - https://github.com/copilot-jp/project-sprint
 
-Github上でのissueのあげ方その後の取り扱いについて詳しくは[README](https://github.com/copilot-jp/project-sprint)をご欄ください。
+GitHub上でのissueのあげ方その後の取り扱いについて詳しくは[README](https://github.com/copilot-jp/project-sprint)をご欄ください。
