@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Project Sprint Manual"
+title: "Tips"
 image: https://projectsprint.org/images/pjs_og.png
 ---
-
-## Tips
 
 ### 目次
 
@@ -15,6 +13,6 @@ image: https://projectsprint.org/images/pjs_og.png
 5. [実務で使いやすいロールの設定](../tips/tips5.md)
 6. [ ロールシートの利用](../tips/tips6.md)
 7. [ミーティング環境についてのノウハウ](../tips/tips7.md)
-8. [アジェンダに含まれているとよい全要素](../tips/tip8.md)
+8. [アジェンダに含まれているとよい全要素](../tips/tips8.md)
 9. [代表的な振り返りの手法](../tips/tips9.md)
 10. [テンショントリアージの進め方](../tips/tips10.md)
