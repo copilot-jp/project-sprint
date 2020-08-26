@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Tips"
+title: "Tips8: アジェンダに含まれているとよい全要素"
 image: https://projectsprint.org/images/pjs_og.png
 ---
-
-## Tips8
-
-### アジェンダに含まれているとよい全要素
 
 Section3-1で解説したように、ミーティングのアジェンダとしては次の要素が必要です。
 

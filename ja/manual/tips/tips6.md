@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Tips"
+title: "Tips6: ロールシートの利用"
 image: https://projectsprint.org/images/pjs_og.png
 ---
-
-## Tips6
-
-### ロールシートの利用
 
 Section2-2で記載した通り、ロールとは「チームメンバー個々人の役割」のことです。
 ロールとチームメンバーは一対一の関係になるとは限らず、またロールの種類も決まったものはない一方、決まったロールはきちんと明文化して合意する必要があります。
