@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "プロジェクトスプリント チュートリアル"
+title: "このチュートリアルの構成"
 image: https://projectsprint.org/images/pjs_og.png
 ---
-
-## はじめに
-
-### このチュートリアルの構成
 
 この記事では、チュートリアル全体の構成を説明します。
 

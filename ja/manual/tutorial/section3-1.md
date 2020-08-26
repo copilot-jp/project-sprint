@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "プロジェクトスプリント チュートリアル"
+title: "ミーティングの準備をする"
 image: https://projectsprint.org/images/pjs_og.png
 ---
-
-## やってみよう
-
-### ミーティングの準備をする
 
 この記事の内容はプロジェクトスプリントにおける「プロセスドメイン」にあたります。
 

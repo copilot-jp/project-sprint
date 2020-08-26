@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "プロジェクトスプリント チュートリアル"
+title: "Project Sprint 101"
 image: https://projectsprint.org/images/pjs_og.png
 ---
-
-## はじめに
-
-### Project Sprint 101
 
 この記事では、プロジェクトスプリントの概要を説明し、「準備しよう」「やってみよう」「改善しよう」における個別のドキュメントの内容を理解しやすくします。
 
