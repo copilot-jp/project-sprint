@@ -56,7 +56,7 @@ title: "Release Notes"
   - Change the name ‘Deliverable Activity’ to ‘Progress Activity’
   - Change the name ‘Mental Activity’ to ‘Teaming Activity’
 
-### v0.8 (Apr 3rd, 2020)
+### v0.8.0 (Apr 3rd, 2020)
 
 - First Releases
   - index (JA/EN)
