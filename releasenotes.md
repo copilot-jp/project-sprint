@@ -64,6 +64,14 @@ title: "Release Notes"
   - Project Sprint Essentials (EN)
   - Project Sprint Details Super Good Process (JA)
 
+## Manual
+
+### v0.8.0 (Aug 31st, 2020)
+
+- First Releases
+  - Tutorial
+  - Tips
+
 ## Site
 
 ### v1.0.2 (Aug 17th, 2020)
