@@ -19,6 +19,12 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 * [Release Notes](releasenotes.md)
 
+## Contributing
+
+* [GitHub](https://github.com/copilot-jp/project-sprint)
+
+* [GitHubを通じた参加方法](contributing.md)
+
 ## SuperGoodMeetings
 
 複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツール。
