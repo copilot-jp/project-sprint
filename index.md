@@ -25,6 +25,10 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 * [GitHubを通じた参加方法](contributing.md)
 
+## License
+
+Released under the [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/) license. See [LICENSE](LICENCE).
+
 ## SuperGoodMeetings
 
 複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツール。
