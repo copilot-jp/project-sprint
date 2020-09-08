@@ -23,7 +23,7 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 * [GitHub Repository](https://github.com/copilot-jp/project-sprint)
 
-* [GitHubを通じた参加方法](contributing.md)
+* [コントリビューターとしての参加の方法](contributing.md)
 
 ## License
 
