@@ -1,10 +1,12 @@
 title: Project Sprint
-author:
-   # name: Project Sprint Contributors
-   # email: projectsprint@copilot.jp
+
+author: Project Sprint Contributors
+email: projectsprint@copilot.jp
+
 description: > # this means to ignore newlines until "show_excerpts:"
-  Project Sprint Contributors / projectsprint@copilot.jp
+
 show_excerpts: false # set to true to show excerpts on the homepage
+
 # google_analytics: UA-160350510-1
 
 # Minima date format
