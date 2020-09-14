@@ -26,6 +26,6 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ----
 ##### このページと関係するTips
-- [実務で使いやすいロールの設定](../manual/tips/tips5.md)
-- [ロールシートの利用](../manual/tips/tips6.md)
-- [プロジェクトの環境整備](../manual/tips/tips4.md)
+- [実務で使いやすいロールの設定](../tips/tips5.md)
+- [ロールシートの利用](../tips/tips6.md)
+- [プロジェクトの環境整備](../tips/tips4.md)

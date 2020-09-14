@@ -34,8 +34,8 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ---
 ##### このページと関係するTips
-- [実務で使いやすいロールの設定](../manual/tips/tips5.md)
-- [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/アウトカム/成果物）](../manual/tips/tips3.md)
-- [ミーティング環境についてのノウハウ](../manual/tips/tips7.md)
-- [プロジェクトの環境整備](../manual/tips/tips4.md)
-- [アジェンダに含まれているとよい全要素](../manual/tips/tips8.md)
+- [実務で使いやすいロールの設定](../tips/tips5.md)
+- [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/アウトカム/成果物）](../tips/tips3.md)
+- [ミーティング環境についてのノウハウ](../tips/tips7.md)
+- [プロジェクトの環境整備](../tips/tips4.md)
+- [アジェンダに含まれているとよい全要素](../tips/tips8.md)
