@@ -28,5 +28,5 @@ image: https://projectsprint.org/images/pjs_og.png
 ----
 ##### このページと関係するTips
 - [プロジェクトの時間軸を整理するための便利な考え方（トラック/イベント/フェーズ)](../tips/tips1.md)
-- [ミーティング環境についてのノウハウ](../tips/tips7md)
+- [ミーティング環境についてのノウハウ](../tips/tips7.md)
 - [プロジェクトの環境整備](../tips/tips4.md)
