@@ -135,5 +135,5 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ##### このページと関係するTips
 
-- [アジェンダに含まれているとよい全要素](../manual/tips/tips8.md)
-- [テンショントリアージの進め方](../manual/tips/tips10.md)
+- [アジェンダに含まれているとよい全要素](../tips/tips8.md)
+- [テンショントリアージの進め方](../tips/tips10.md)

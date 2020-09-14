@@ -29,4 +29,4 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ----
 ##### このページと関係するTips
-- [マイルストーンマップの利用](../manual/tips/tips2.md)
+- [マイルストーンマップの利用](../tips/tips2.md)

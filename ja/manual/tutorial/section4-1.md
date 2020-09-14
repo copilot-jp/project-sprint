@@ -23,5 +23,5 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ----
 ##### このページと関係するTips
-- [代表的な振り返りの手法](../manual/tips/tips9.md)
-- [実務で使いやすいロールの設定](../manual/tips/tips5.md)
+- [代表的な振り返りの手法](../tips/tips9.md)
+- [実務で使いやすいロールの設定](../tips/tips5.md)
