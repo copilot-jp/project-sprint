@@ -66,6 +66,12 @@ title: "Release Notes"
 
 ## Manual
 
+### v0.8.1 (Sep 14th, 2020)
+
+- JA
+  - 各ページ末尾のリンク切れを修正
+
+
 ### v0.8.0 (Aug 31st, 2020)
 
 - First Releases
