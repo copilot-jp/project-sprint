@@ -5,6 +5,10 @@ title: "Release Notes"
 
 ## CODE
 
+### v1.1.0 (MM DD,YYYY)
+
+- JA
+
 ### v1.0.0 (Jul 31st, 2020)
 
 - JA
