@@ -5,6 +5,10 @@ title: "Release Notes"
 
 ## CODE
 
+### v1.1.0 (MM DD,YYYY)
+
+- JA
+
 ### v1.0.0 (Jul 31st, 2020)
 
 - JA
@@ -56,13 +60,27 @@ title: "Release Notes"
   - Change the name ‘Deliverable Activity’ to ‘Progress Activity’
   - Change the name ‘Mental Activity’ to ‘Teaming Activity’
 
-### v0.8 (Apr 3rd, 2020)
+### v0.8.0 (Apr 3rd, 2020)
 
 - First Releases
   - index (JA/EN)
   - Project Sprint Essentials (JA)
   - Project Sprint Essentials (EN)
   - Project Sprint Details Super Good Process (JA)
+
+## Manual
+
+### v0.8.1 (Sep 14th, 2020)
+
+- JA
+  - Tutorial各ページ末尾のTipsへのリンク切れを修正
+
+
+### v0.8.0 (Aug 31st, 2020)
+
+- First Releases
+  - Tutorial
+  - Tips
 
 ## Site
 

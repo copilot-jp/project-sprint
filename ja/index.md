@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Project Sprint"
+title: "Project Sprint Documents"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
 <img alt="Project Sprint" src="../images/pjs_logo.png" width="50%" />
-
-# Project Sprint Documents
 
 ## Project Sprint CODE
 
@@ -16,24 +14,24 @@ CODEとは、プロジェクトスプリントの理論や実践について説�
 対象読者と参照すべきタイミング：すでにプロジェクトスプリントについてのある程度の知識を持ち、実際に導入している人が、厳密な定義について、詳細に理解したいとき
 
 * 理論編
-  - [ベーシック](../ja/theory/basic.md)
-  - [アドバンス](../ja/theory/advance.md)
+  - [ベーシック](../ja/code/theory/basic.md)
+  - [アドバンス](../ja/code/theory/advance.md)
 
 * 実践編
-  - [ベーシック](../ja/practice/basic.md)
-  - [アドバンス](../ja/practice/advance.md)
+  - [ベーシック](../ja/code/practice/basic.md)
+  - [アドバンス](../ja/code/practice/advance.md)
 
-* [プラグイン](../ja/plug-in/index.md)
+* [プラグイン](../ja/code/plug-in/index.md)
 
-## Project Sprint チュートリアル
+## Project Sprint Manual
 
-チュートリアルとは、プロジェクトスプリントを導入する方法について、順を追って理解していくためのドキュメント。
+Manualとは、プロジェクトスプリントを導入する方法について、読みながら理解していくためのドキュメント。
+順を追って読むことでプロジェクトスプリントについて理解することができるTutorialと、実務において役に立つ情報を個別に記載したTipsから構成される。
 
 対象読者と参照すべきタイミング：プロジェクトスプリントに初めて触れる人が、その知識を習得し、実際に導入できるようになりたいとき
 
-* 現在作成中
-
-
+* [Tutorial](../ja/manual/tutorial/index.md)
+* [Tips](../ja/manual/tips/index.md)
 
 ##### ドキュメントの比較表
 
