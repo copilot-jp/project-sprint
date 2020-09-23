@@ -74,7 +74,7 @@ title: "Release Notes"
 
 ## Site
 
-### v1.0.3 (Sep XX, 2020)
+### v1.0.3 (Sep 27th, 2020)
 
 - Added
   - Show CC-BY-SA-4.0 License
