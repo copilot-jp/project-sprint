@@ -16,3 +16,4 @@ image: https://projectsprint.org/images/pjs_og.png
 8. [アジェンダに含まれているとよい全要素](tips8.md)
 9. [代表的な振り返りの手法](tips9.md)
 10. [テンショントリアージの進め方](tips10.md)
+11. [タスク作成のコツ](tips11.md)
