@@ -80,6 +80,13 @@ title: "Release Notes"
 
 ## Site
 
+### v1.0.3 (Sep 27th, 2020)
+
+- Added
+  - Show CC-BY-SA-4.0 License
+  - Info for Contributors
+  - Link to GitHub Repository
+
 ### v1.0.2 (Aug 17th, 2020)
 
 - Added

@@ -39,6 +39,12 @@ This is the repository for [the Project Sprint site](https://projectsprint.org) 
 
 * [For Contributors](https://projectsprint.org/contribute.html)
 
+## Deployment / Staging Site
+
+* projectsprint.org is built from the master branch and hosted by GitHub Pages. Merging to master branch means site release.
+
+* Any pull request against master branch has its preview site build and hosted automatically by Netlify. To get link for a PR see GitHub Pull Request Checks.
+
 ## Running the website locally using Jekyll
 
 1. To test the website locally, you have to install Ruby and Jekyll. See instruction here: https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
