@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips11: タスク作成のコツ"
+title: "Tips11: チームが納得できて作業効率のよいタスクの設定方法"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

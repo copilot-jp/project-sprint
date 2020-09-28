@@ -137,4 +137,4 @@ image: https://projectsprint.org/images/pjs_og.png
 
 - [アジェンダに含まれているとよい全要素](../tips/tips8.md)
 - [テンショントリアージの進め方](../tips/tips10.md)
-- [タスク作成のコツ](../tips/tips11.md)
+- [チームが納得できて作業効率のよいタスクの設定方法](../tips/tips11.md)
