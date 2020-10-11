@@ -66,6 +66,12 @@ title: "Release Notes"
 
 ## Manual
 
+### v1.0.0 (Oct 31th, 2020)
+
+- JA
+  - 
+
+
 ### v0.9.0 (Sep 30th, 2020)
 
 - JA
