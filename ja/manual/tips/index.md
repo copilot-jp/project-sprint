@@ -17,3 +17,4 @@ image: https://projectsprint.org/images/pjs_og.png
 9. [代表的な振り返りの手法](tips9.md)
 10. [テンショントリアージの進め方](tips10.md)
 11. [チームが納得できて作業効率のよいタスクの設定方法](tips11.md)
+12. [ミーティングを定例開催にする理由](tips12.md)
