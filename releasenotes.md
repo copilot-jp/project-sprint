@@ -5,6 +5,10 @@ title: "Release Notes"
 
 ## CODE
 
+### v1.1.0 (MM DD,YYYY)
+
+- JA
+
 ### v1.0.0 (Jul 31st, 2020)
 
 - JA
@@ -65,6 +69,12 @@ title: "Release Notes"
   - Project Sprint Details Super Good Process (JA)
 
 ## Manual
+
+### v1.0.0 (Oct 31th, 2020)
+
+- JA
+  - 
+
 
 ### v0.9.0 (Sep 30th, 2020)
 
