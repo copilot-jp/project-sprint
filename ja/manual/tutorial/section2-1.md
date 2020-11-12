@@ -51,7 +51,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ##### ゴールとマイルストーンの関係
 ![ゴールとマイルストーンの関係](/ja/images/goal-milestone.png)
-([Project Sprint CODE 理論編ベーシック](/ja/code/theory/basic.md)より引用）
+([Project Sprint CODE 理論編ベーシック](../../code/theory/basic.md)より引用）
 
 #### 設定したゴールとマイルストーンの扱い
 設定したゴールとマイルストーンは、いつでもチームメンバーが参照できる状態にしておきます。
