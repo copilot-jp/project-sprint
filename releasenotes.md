@@ -93,7 +93,7 @@ title: "Release Notes"
 
 ## Site
 
-### v1.0.4 (Oct 31st, 2020)
+### v1.0.4 (Nov 19th, 2020)
 
 - Added
   - 404 error page
