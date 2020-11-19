@@ -128,6 +128,11 @@ title: "Release Notes"
 
 ## Site
 
+### v1.0.4 (Nov 19th, 2020)
+
+- Added
+  - 404 error page
+
 ### v1.0.3 (Sep 27th, 2020)
 
 - Added
