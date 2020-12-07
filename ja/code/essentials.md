@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "プロジェクトスプリント CODE 理論編 ベーシック"
+title: "プロジェクトスプリント CODE エッセンシャルズ"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
