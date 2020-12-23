@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips12: アジェンダの分類"
+title: "Tips14: アジェンダの分類"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
