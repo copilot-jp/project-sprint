@@ -9,7 +9,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 Methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
-# Project Sprint Documents
+# Project Sprint CODE
 
 * [日本語](ja/index.md)
 
