@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Tutorial"
+title: "Project Sprint CODE Tutorial"
 image: https://projectsprint.org/images/pjs_og.png
 ---
+
+このドキュメント群は、プロジェクトスプリントの基本的な概念の説明と実践方法が順を追って説明されている。
 
 ### 目次
 

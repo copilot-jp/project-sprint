@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Appendix"
+title: "Project Sprint CODE Reference"
 image: https://projectsprint.org/images/pjs_logo.png
 type: article
 ---
 
-## Reference
-以下の理論・メソッド・文献・概念を参考にしながら、様々なプロジェクトで実践した経験則をProject Sprint というメソッドとしてまとめている。
+このドキュメントは、プロジェクトスプリントプロジェクトスプリントの背景にある諸メソッド・概念・文献について記載されている。
+
+プロジェクトスプリントは、以下の理論・メソッド・文献・概念を参考にしながら、様々なプロジェクトで実践した経験則をもとに独立したメソッドとしてまとめられている。
 
 ### Manifesto for Agile Software Development
 アジャイルソフトウェア開発宣言と12の原則の価値に共感している。  

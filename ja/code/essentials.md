@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "プロジェクトスプリント CODE エッセンシャルズ"
+title: "Project Sprint CODE Essentials"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-このドキュメントは、プロジェクトスプリントプロジェクトスプリントに必須の内容を説明している。
+このドキュメントは、プロジェクトスプリントプロジェクトスプリントのコアとなる重要概念について説明されている。
 
 
 ## プロジェクトスプリントの原理
@@ -64,19 +64,3 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ##### プロジェクトスプリント概念図
 ![プロジェクトスプリント概念図](/ja/images/essentials.png)
-
----
-
-## Project Sprint CODE
-
-CODEとは、プロジェクトスプリントの理論や実践について説明したドキュメント群である。理論編および基礎編と、任意で利用できる補足的事項を説明したプラグインから構成される。理論編と基礎編はさらに、ベーシックとアドバンスの2つにわけられる。理論編と実践編それぞれのベーシックを総称して、**プロジェクトスプリント エッセンシャルズ**と呼ぶ。
-
-* 理論編
-  - [ベーシック](../theory/basic.md)
-  - [アドバンス](../theory/advance.md)
-
-* 実践編
-  - [ベーシック](../practice/basic.md)
-  - [アドバンス](../practice/advance.md)
-
-* [プラグイン](../plug-in/index.md)

@@ -10,7 +10,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 **CODE**とは、プロジェクトスプリントについて説明したドキュメント群の総称である。
 
-[Essentials](../ja/code/essentials.md) : プロジェクトスプリントのコアとなる重要概念がついて説明されており、全体像を理解することができる。
+[Essentials](../ja/code/essentials.md) : プロジェクトスプリントのコアとなる重要概念について説明されており、全体像を理解することができる。
 
 [Tutorial](../ja/code/tutorial/index.md) : プロジェクトスプリントの基本的な概念の説明と実践方法が順を追って説明されており、読みながらプロジェクトスプリントを実際に導入することができる。
 
