@@ -4,7 +4,7 @@ title: "Project Sprint CODE Tips"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-このドキュメント群（Tips)では、プロジェクトスプリントにまつわる詳細な説明・深ぼった説明が記載されています。
+このドキュメント群では、プロジェクトスプリントにまつわる詳細な説明・深ぼった説明が記載されています。
 
 ### 目次
 

@@ -4,7 +4,7 @@ title: "Project Sprint CODE Essentials"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-このドキュメントは、プロジェクトスプリントプロジェクトスプリントのコアとなる重要概念について説明されている。
+このドキュメントは、プロジェクトスプリントプロジェクトスプリントのコアとなる重要概念について説明されています。
 
 
 ## プロジェクトスプリントの原理
