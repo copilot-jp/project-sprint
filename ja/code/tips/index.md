@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips"
+title: "Project Sprint CODE Tips"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
