@@ -23,15 +23,15 @@ Project Sprint という名称は Scrum のスプリントからインスピレ�
 [https://www.reinventingorganizations.com/](https://www.reinventingorganizations.com/)
 
 #### Holacracy
-チーミング・アクティビティでコアの要素となっているロールとテンションやその関係性は、ホラクラシーの考え方を参考にしています。
+チーミング・アクティビティでコアの要素となっているロールとテンションやその関係性は、ホラクラシーの考え方を参考にしています。  
 [https://www.holacracy.org/](https://www.holacracy.org/)
 
 ### 心理的安全性
 エイミー・エドモンドソンにより提唱された概念です。チームのなかでどのような発言でも大丈夫だと信じられている環境をつくる重要性に共感しています。  
+Googleが行った生産性の高いチームの調査プロジェクトにより注目が集まりました。  
+[https://www.jstor.org/stable/2666999](https://www.jstor.org/stable/2666999)  
 
-Googleが行った生産性の高いチームの調査プロジェクトにより注目が集まりました。  [https://www.jstor.org/stable/2666999](https://www.jstor.org/stable/2666999)  
-
-Google re:Work
+Google re:Work  
 [https://rework.withgoogle.com/jp/guides/understanding-team-effectiveness/](https://rework.withgoogle.com/jp/guides/understanding-team-effectiveness/)
 
 ### センスメイキング理論
