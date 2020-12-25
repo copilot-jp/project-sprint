@@ -12,7 +12,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ##### プロジェクトスプリント概念図
 ![プロジェクトスプリント概念図](/ja/images/essentials.png)
-([Project Sprint CODE Essentials](/ja/code/essentials.md)より引用）
+([Project Sprint CODE Essentials](../ja/code/essentials.md)より引用）
 
 - プログレス：プロジェクトの成果物やゴールにフォーカスした活動
 - プロセス：プロジェクトを推進させるための手続きにフォーカスした活動
