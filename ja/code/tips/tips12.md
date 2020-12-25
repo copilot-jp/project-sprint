@@ -29,3 +29,12 @@ image: https://projectsprint.org/images/pjs_og.png
 6. 定期的なプロジェクトの記録になる。
 
    会議のアジェンダ、議事録、タスクの進捗報告が定点観測的に残ります。これは振り返りの際に参照しやすいログとなるほか、新しいメンバーが参加した際の読みやすさも担保します（過去の情報をむやみに読むよりは、定期的に出力されたものをマイルストーンに沿って読むほうが理解しやすいため）。また、こうしたログが残っていれば、別のプロジェクトを開始する際、過去のプロジェクトがこのようにすすんだのだという参考やひな形にしやすくなります。
+
+   ---
+
+   ##### Project Sprint CODE
+   - [Tutorial](../tutorial/index.md)
+   - [Essentials](../essentials.md)
+   - [Tips](../tips/index.md)
+   - [Advance](../advance.md)
+   - [Reference](../reference.md)

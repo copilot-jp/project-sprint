@@ -26,7 +26,7 @@ image: https://projectsprint.org/images/pjs_og.png
 ---
 
 ##### Project Sprint CODE
-- [Tutorial](../tutorial.md)
+- [Tutorial](../tutorial/index.md)
 - [Essentials](../essentials.md)
 - Tips
 - [Advance](../advance.md)

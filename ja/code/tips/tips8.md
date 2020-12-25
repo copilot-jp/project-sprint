@@ -21,3 +21,13 @@ image: https://projectsprint.org/images/pjs_og.png
 - 参加者がアジェンダの完了について納得していることを証明する手段
 
 これらの要素がそれぞれ事前に明らかになっていればいるほど効率的・効果的な議論ができるようになります。アジェンダオーナーだけでは記載することが難しかったり、ほかのチームメンバーから見てわかりにくいものがあれば、分かりやすいものにしていくことや、これらの要素が実現できるように議論を整理していくことが、ファシリテーター（アクセラレーター）に求められる役割になります。
+
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)

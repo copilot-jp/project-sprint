@@ -40,8 +40,8 @@ Google re:Work
 ---
 
 ##### Project Sprint CODE
-- [Tutorial](../tutorial.md)
+- [Tutorial](../tutorial/index.md)
 - [Essentials](../essentials.md)
-- [Tips](../tip.md)
+- [Tips](../tips/index.md)
 - [Advance](../advance.md)
 - Reference

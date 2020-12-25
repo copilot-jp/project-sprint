@@ -47,6 +47,6 @@ image: https://projectsprint.org/images/pjs_og.png
 ##### Project Sprint CODE
 - Tutorial
 - [Essentials](../essentials.md)
-- [Tips](../tips.md)
+- [Tips](../tips/index.md)
 - [Advance](../advance.md)
 - [Reference](../reference.md)

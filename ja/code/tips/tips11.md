@@ -32,3 +32,12 @@ image: https://projectsprint.org/images/pjs_og.png
 また、想定アウトプットのイメージをすり合わせるためには、タスクを終えるまでの想定作業時間を明文化することも効果的です。前述の資料作成のタスクであれば、ある人は1時間しかかからないと思っていた作業が、別の人は4時間もかかると思っていた場合、作りこみのレベルに差がある可能性が高いということが分かります。
 
 さらに、これらの作業を通じてタスクの粒度が大きいと判断された場合は、そのタスクを細かく分解し、ミーティングごとに確実にアウトプットが可能なサイズにしましょう。
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)
