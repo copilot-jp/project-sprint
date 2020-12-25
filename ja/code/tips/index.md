@@ -21,7 +21,7 @@ image: https://projectsprint.org/images/pjs_og.png
 11. [チームが納得できて作業効率のよいタスクの設定方法](tips11.md)
 12. [ミーティングを定例開催にする理由](tips12.md)
 13. [ロールの分類と性質](tips13.md)
-14. [アジェンダの分類](tips14.md)
+14. [アジェンダの目的](tips14.md)
 
 ---
 
