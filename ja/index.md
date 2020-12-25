@@ -37,21 +37,21 @@ image: https://projectsprint.org/images/pjs_og.png
 ドキュメントの活用方法はあなたがおかれている状況により様々です。主に想定される対象読者別に、おすすめのステップをご紹介します。
 
 **Case1. 自らプロジェクトスプリントの導入を主導する方**
-1. Tutorial を通読し、基本的な理解をする
-2. Essentials を読み、全体像や重要な箇所をつかむ
-3. Tips を読み、様々な状況に対応できるようにする
-4. 分からないことがあれば、Referenceを読み、理解を深める
+1. [Tutorial](../ja/code/tutorial/index.md)を通読し、基本的な理解をする
+2. [Essentials](../ja/code/essentials.md)を読み、全体像や重要な箇所をつかむ
+3. [Tips](../ja/code/tips/index.md)を読み、様々な状況に対応できるようにする
+4. 分からないことがあれば、[Reference](../ja/code/reference.md)を読み、理解を深める
 
 **Case2. プロジェクトスプリントを導入することが決まったプロジェクトのメンバーの方**
-1. Tutorial を通読し、基本的な理解をする
-2. Tips のうち、自分が気になるものをピックアップして読み、不明点を解消する
+1. [Tutorial](../ja/code/tutorial/index.md)を通読し、基本的な理解をする
+2. [Tips](../ja/code/tips/index.md)のうち、自分が気になるものをピックアップして読み、不明点を解消する
 
 **Case3. プロジェクトスプリントというものの概要を手早く理解したい方**
-1. Tutorialの「Project Sprint 101」を読む
+1. Tutorialの「[Project Sprint 101](../ja/code/tutorial/section1-1.md)」を読む
 
 **Case4. プロジェクトスプリントというメソッドの発展に貢献したいと考えてくださる方**
-1. Tutorialを読み、基本的な理解を深める
-2. Essentialsを読み、全体像や重要な個所をつかむ
-3. Tipsを読み、より詳細な説明、深ぼった説明を理解する
-4. Advanceを読み、最新の議論を知る
-5. Referenceを読み、背景にある考え方をより深く理解する
+1. [Tutorial](../ja/code/tutorial/index.md)を読み、基本的な理解を深める
+2. [Essentials](../ja/code/essentials.md)を読み、全体像や重要な個所をつかむ
+3. [Tips](../ja/code/tips/index.md)を読み、より詳細な説明、深ぼった説明を理解する
+4. [Advance](../ja/code/advance.md)を読み、最新の議論を知る
+5. [Reference](../ja/code/reference.md)を読み、背景にある考え方をより深く理解する
