@@ -24,9 +24,17 @@ image: https://projectsprint.org/images/pjs_og.png
 
 また、定義するロールの個数には制限がありませんし、「必ず定義すべきロール」というものもありません。プロジェクトの性質に応じて、必要な役割分担をチームメンバーで議論し、ロールとして明文化しましょう。
 
-----
 ##### このページと関係するTips
 - [実務で使いやすいロールの設定](../tips/tips5.md)
 - [ロールシートの利用](../tips/tips6.md)
 - [プロジェクトの環境整備](../tips/tips4.md)
 - [ロールの分類と性質](../tips/tips13.md)
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)

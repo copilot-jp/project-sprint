@@ -31,3 +31,12 @@ image: https://projectsprint.org/images/pjs_og.png
 プロジェクトスプリントでは、ミーティングを、「チームメンバー全員が空間や時間を共有し、素早く効率的な認識合わせと、全員が納得した意思決定をする場」として、またアジェンダを「プロジェクトにおけるチームメンバーの活動を、他のメンバーと共有・認識してもらうために明文化されたもの」として位置付けています。
 
 これらを通じてプロジェクトの進捗状況の共有・プロジェクトの進め方の継続的な改善・プロジェクトのゴールに向けたマイルストーンの見直しや互いのロールの確認をすることができるようになります。
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)

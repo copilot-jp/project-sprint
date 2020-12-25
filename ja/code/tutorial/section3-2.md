@@ -144,10 +144,18 @@ image: https://projectsprint.org/images/pjs_og.png
 
 事前にチームメンバー全員で確認することで、アジェンダオーナーのアジェンダ提出漏れや、持ち越したアジェンダの内容の不備を防ぎやすくなります。
 
-----
 
 ##### このページと関係するTips
 
 - [アジェンダに含まれているとよい全要素](../tips/tips8.md)
 - [テンショントリアージの進め方](../tips/tips10.md)
 - [チームが納得できて作業効率のよいタスクの設定方法](../tips/tips11.md)
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)

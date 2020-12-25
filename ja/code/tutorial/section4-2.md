@@ -27,6 +27,15 @@ image: https://projectsprint.org/images/pjs_og.png
 
 マイルストーンやプロジェクトのゴールの見直しの実施についてもミーティングのアジェンダとなるため、事前にアジェンダの提出を行う必要があります。
 
-----
+
 ##### このページと関係するTips
 - [マイルストーンマップの利用](../tips/tips2.md)
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)

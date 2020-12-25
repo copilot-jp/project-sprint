@@ -64,9 +64,17 @@ image: https://projectsprint.org/images/pjs_og.png
 
 実際の変更の流れは[プロジェクトのゴールとマイルストーンを見直す](../tutorial/section4-2.md)で解説します。
 
-----
 ##### このページと関係するTips
 - [プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)](../tips/tips1.md)
 - [マイルストーンマップの利用](../tips/tips2.md)
 - [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）](../tips/tips3.md)
 - [プロジェクトの環境整備](../tips/tips4.md)
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)

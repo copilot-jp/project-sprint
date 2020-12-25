@@ -23,8 +23,17 @@ image: https://projectsprint.org/images/pjs_og.png
 
 さらに、ミーティング環境を前述の参加者が漏れなく参加でき、かつ、情報をリアルタイムに共有できる環境を整備するようにしてください。これは、前述の素早く効率的な認識合わせを実現するために重要なポイントとなります。具体的には、場所を問わず参加できるリモートミーティング環境の準備、その場で決まったことを共有できるドキュメントシェアサービスの利用、などを行うことになるでしょう。
 
-----
+
 ##### このページと関係するTips
 - [プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)](../tips/tips1.md)
 - [ミーティング環境についてのノウハウ](../tips/tips7.md)
 - [プロジェクトの環境整備](../tips/tips4.md)
+
+---
+
+##### Project Sprint CODE
+- [Tutorial](../tutorial/index.md)
+- [Essentials](../essentials.md)
+- [Tips](../tips/index.md)
+- [Advance](../advance.md)
+- [Reference](../reference.md)
