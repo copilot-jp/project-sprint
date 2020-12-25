@@ -43,10 +43,7 @@ image: https://projectsprint.org/images/pjs_og.png
 - [仕様とユーザーコミュニティ](section5-1.md)
 
 
----
-
 ##### Project Sprint CODE
-
 - Tutorial
 - [Essentials](../essentials.md)
 - [Tips](../tips.md)
