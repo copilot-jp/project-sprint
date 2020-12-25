@@ -11,7 +11,7 @@ image: https://projectsprint.org/images/pjs_og.png
 プロジェクトスプリントの厳密な定義は **CODE** と呼ばれるドキュメント群としてまとめられており、WEB上で誰でもアクセスすることができます。
 
 CODEには下記のページからアクセスすることができます。
-- https://projectsprint.org/
+- [https://projectsprint.org/](https://projectsprint.org/)
 
 CODEはいわばプロジェクトスプリントの仕様であり、このチュートリアルに記載されている内容もCODEに準拠して作成されています。
 
