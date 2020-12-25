@@ -39,3 +39,4 @@ image: https://projectsprint.org/images/pjs_og.png
 - [ミーティング環境についてのノウハウ](../tips/tips7.md)
 - [プロジェクトの環境整備](../tips/tips4.md)
 - [アジェンダに含まれているとよい全要素](../tips/tips8.md)
+- [アジェンダの目的](../tips/tips14)
