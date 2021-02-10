@@ -5,7 +5,10 @@ title: "Release Notes"
 
 ## CODE
 
-### vX.X.X (Feb XX, 2021)
+### v2.0.1 (Feb 10th, 2021)
+
+- JA
+  - マイルストーンやゴールの変更可能性についてニュアンスを変更
 
 ### v2.0.0 (Dec 28th, 2020)
 - JA
