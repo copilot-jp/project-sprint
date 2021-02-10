@@ -5,6 +5,11 @@ title: "Release Notes"
 
 ## CODE
 
+### v2.0.1 (Feb 10th, 2021)
+
+- JA
+  - マイルストーンやゴールの変更可能性についてニュアンスを変更
+
 ### v2.0.0 (Dec 28th, 2020)
 - JA
   - Project Sprint Documentsとしていた各種ドキュメント体系を再構築。CODEの中にTutorial, Essentials, Tips, Advance, Referenceからなる個別のドキュメント群が含まれる形とした。併せて、各種ドキュメントの記載内容、読むことによる効果を明示し、想定読者ごとに読み進むべきドキュメントとその順序を示した。
