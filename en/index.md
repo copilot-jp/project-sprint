@@ -8,7 +8,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ### What is CODE?
 
-CODE is a generic term for a set of documents describing a project sprint.
+CODE is a generic term for a set of documents describing Project Sprint.
 
 [Tutorial]
 
