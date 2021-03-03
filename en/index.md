@@ -14,7 +14,7 @@ Tutorial
 
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
-* [Essentials](essentials/index.md)
+[Essentials](essentials/index.md)
 
 Essentials provides the big picture of PJS also the core key concepts of PJS
 
