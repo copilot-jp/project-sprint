@@ -6,7 +6,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 <img alt="Project Sprint" src="../images/pjs_logo.png" width="50%" />
 
-# What is CODE?
+### What is CODE?
 
 CODE is a generic term for a set of documents describing a project sprint.
 
