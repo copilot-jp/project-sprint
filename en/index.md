@@ -10,7 +10,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 CODE is a generic term for a set of documents describing a project sprint.
 
-Tutorial
+[Tutorial]
 
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
