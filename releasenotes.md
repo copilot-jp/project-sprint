@@ -5,6 +5,12 @@ title: "Release Notes"
 
 ## CODE
 
+### v2.0.2 (Feb XX, 2021)
+
+- JA
+  - 
+
+
 ### v2.0.1 (Feb 10th, 2021)
 
 - JA
