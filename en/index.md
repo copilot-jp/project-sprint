@@ -29,8 +29,7 @@ Refernce describes the methods, concepts, and literature behind the PJS. You can
 
 Document Title  | Tutorial  | Essentials  | Tips  | Advance  |  Reference
 --|---|---|---|---|--
-Descriptions  | Explanation of basic concepts and how to put them into practice  |Key concepts and framework  | Detailed and in-depth explanations  | Latest discussions and experimental concepts
-  | Background methods, concepts, and literature
+Descriptions  | Explanation of basic concepts and how to put them into practice  |Key concepts and framework  | Detailed and in-depth explanations  | Latest discussions and experimental concepts | Background methods, concepts, and literature 
 Effects  | To understand the basics and the introduction procedure  | To understand the whole process  | To understand specific know-how and application methods  | To understand the latest information on method updates  |  To understanding of efficient Project Sprint, information that may be related to method updates, and knowledge for application
 
 ##### Learning pass
