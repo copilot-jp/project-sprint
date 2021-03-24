@@ -6,52 +6,53 @@ image: https://projectsprint.org/images/pjs_og.png
 
 <img alt="Project Sprint" src="../images/pjs_logo.png" width="50%" />
 
-##### CODEとは
+##### What is CODE?
 
-**CODE**とは、プロジェクトスプリントについて説明したドキュメント群の総称です。
+**CODE** is a generic term for a set of documents describing Project Sprint.
 
 ###### [Tutorial](../ja/code/tutorial/index.md)
-プロジェクトスプリントの基本的な概念の説明と実践方法が順を追って説明されており、読みながらプロジェクトスプリントを実際に導入することができます。
+Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
 ###### [Essentials](../ja/code/essentials.md)
-プロジェクトスプリントのコアとなる重要概念について説明されており、全体像を理解することができます。
+Essentials provides the big picture of PJS also the core key concepts of PJS.
 
 ###### [Tips](../ja/code/tips/index.md)
-プロジェクトスプリントにまつわる詳細な説明・深ぼった説明が記載されており、プロジェクトスプリント実践の具体的ノウハウを得たり、より応用がきくようになります。
+Tips provide detailed and in-depth explanations related to PJS, which will help you gain concrete know-how and better application of PJS practices.
 
 ###### [Advance](../ja/code/advance.md)
-プロジェクトスプリントに最新の議論・実験的な概念が記載されており、メソッドのアップデートに関する最新情報を得ることができます。
+Advance gives you the latest discussion and experimental concepts. Besides, you can get the latest information on method updates.
 
 ###### [Reference](../ja/code/reference.md)
-プロジェクトスプリントの背景にある諸メソッド・概念・文献について記載されており、プロジェクトスプリントの効率的な理解が可能になり、また今後のメソッドのアップデートに関わりそうな情報を知ることができます。さらに、背景を知ることでメソッドの応用も可能になります。
+Refernce describes the methods, concepts, and literature behind the PJS. You can understand the efficient usage of PJS and know the information that may be relevant for future updates of methods. Furthermore, knowing the background will help you apply the method.
 
 ##### ドキュメントの比較表
 
-ドキュメント名  | Tutorial  | Essentials  | Tips  | Advance  |  Reference
+Document Title  | Tutorial  | Essentials  | Tips  | Advance  |  Reference
 --|---|---|---|---|--
-記載内容  | 基本的な概念の説明と実践方法  |重要概念・骨格   | 詳細・深堀説明  | 最新の議論や実験的な概念  | 背景にある諸メソッド・概念・文献
-効果  | 基本の理解、導入手順が理解できる  | 全体像が理解できる  | 具体的なノウハウや応用方法が分かる  | メソッドのアップデートに関する最新情報が分かる  |  効率的なプロジェクトスプリントの理解、メソッドのアップデートに関わりそうな情報、応用のための知識が得られる
+Descriptions  | Explanation of basic concepts and how to put them into practice  |Key concepts and framework  | Detailed and in-depth explanations  | Latest discussions and experimental concepts
+  | Background methods, concepts, and literature
+Effects  | To understand the basics and the introduction procedure  | To understand the whole process  | To understand specific know-how and application methods  | To understand the latest information on method updates  |  To understanding of efficient Project Sprint, information that may be related to method updates, and knowledge for application
 
-##### ラーニングパス
+##### Learning pass
 
-ドキュメントの活用方法はあなたがおかれている状況により様々です。主に想定される対象読者別に、おすすめのステップをご紹介します。
+The way you use the document depends on the situation you are in. Here are some recommended steps for each of the main target audiences.
 
-**Case1. 自らプロジェクトスプリントの導入を主導する方**
-1. [Tutorial](../ja/code/tutorial/index.md)を通読し、基本的な理解をする
-2. [Essentials](../ja/code/essentials.md)を読み、全体像や重要な箇所をつかむ
-3. [Tips](../ja/code/tips/index.md)を読み、様々な状況に対応できるようにする
-4. 分からないことがあれば、[Reference](../ja/code/reference.md)を読み、理解を深める
+**Case1. Those who lead the implementation of PJS on their own.**
+1. Read through Tutorial to gain a basic understanding
+2. Read Essentials to get the big picture and the important point
+3. Read Tips to be prepared for different situations
+4. If you are not sure about something, read Reference for a better understanding
 
-**Case2. プロジェクトスプリントを導入することが決まったプロジェクトのメンバーの方**
-1. [Tutorial](../ja/code/tutorial/index.md)を通読し、基本的な理解をする
-2. [Tips](../ja/code/tips/index.md)のうち、自分が気になるものをピックアップして読み、不明点を解消する
+**Case2. Project members who have decided to implement PJS**
+1. Read through Tutorial to gain a basic understanding
+2. Pick up the tips that interest you and read them to clear up any unclear points.
 
-**Case3. プロジェクトスプリントというものの概要を手早く理解したい方**
-1. Tutorialの「[Project Sprint 101](../ja/code/tutorial/section1-1.md)」を読む
+**Case3.  If you want to get a quick overview of what  PJS is.**
+1. Read “Project Sprint 101” in Tutorial
 
-**Case4. プロジェクトスプリントというメソッドの発展に貢献したいと考えてくださる方**
-1. [Tutorial](../ja/code/tutorial/index.md)を読み、基本的な理解を深める
-2. [Essentials](../ja/code/essentials.md)を読み、全体像や重要な個所をつかむ
-3. [Tips](../ja/code/tips/index.md)を読み、より詳細な説明、深ぼった説明を理解する
-4. [Advance](../ja/code/advance.md)を読み、最新の議論を知る
-5. [Reference](../ja/code/reference.md)を読み、背景にある考え方をより深く理解する
+**Case4. People who want to contribute to the development of the PJS method.**
+1. Read Tutorial to gain a basic understanding
+2. Read Essentials to get the big picture and important points
+3. Read Tips to understand more detailed and in-depth explanations
+4. Read Advance to keep with the latest discussion
+5. Read Reference for a deeper understanding of the background ideas
