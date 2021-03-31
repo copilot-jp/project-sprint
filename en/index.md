@@ -13,7 +13,7 @@ image: https://projectsprint.org/images/pjs_og.png
 ###### [Tutorial](../ja/code/tutorial/index.md)
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
-###### [Essentials](../ja/code/essentials.md)
+###### [Essentials](https://github.com/copilot-jp/project-sprint/blob/d84b9fdbd4482e69a0133d96b9f0807a553ef931/en/code/essentials.md)
 Essentials provides the big picture of PJS also the core key concepts of PJS.
 
 ###### [Tips](../ja/code/tips/index.md)
@@ -38,7 +38,7 @@ The way you use the document depends on the situation you are in. Here are some 
 
 **Case1. Those who lead the implementation of PJS on their own.**
 1. Read through Tutorial to gain a basic understanding
-2. Read Essentials to get the big picture and the important point
+2. Read [Essentials](https://github.com/copilot-jp/project-sprint/blob/d84b9fdbd4482e69a0133d96b9f0807a553ef931/en/code/essentials.md) to get the big picture and the important point
 3. Read Tips to be prepared for different situations
 4. If you are not sure about something, read Reference for a better understanding
 
@@ -51,7 +51,7 @@ The way you use the document depends on the situation you are in. Here are some 
 
 **Case4. People who want to contribute to the development of the PJS method.**
 1. Read Tutorial to gain a basic understanding
-2. Read Essentials to get the big picture and important points
+2. Read [Essentials](https://github.com/copilot-jp/project-sprint/blob/d84b9fdbd4482e69a0133d96b9f0807a553ef931/en/code/essentials.md) to get the big picture and important points
 3. Read Tips to understand more detailed and in-depth explanations
 4. Read Advance to keep with the latest discussion
 5. Read Reference for a deeper understanding of the background ideas
