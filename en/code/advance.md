@@ -8,9 +8,9 @@ This document contains the latest discussion/experimental concepts for Project S
 
 ### Project Sprint Success Metrics
 
-Project Sprint is a project promotion method that aims to achieve a state in which the project goals are achieved and an ideal team is formed.
+Project Sprint is a project promotion method that aims to achieve a state in which **the project goals are achieved and an ideal team is formed**.
 
-Therefore, the success of Project Sprint can be evaluated in terms of whether each of these is achieved (success in progress and success in teaming).
+Therefore, the success of Project Sprint can be evaluated in terms of whether each of these is achieved (**success in progress and success in teaming**).
 
 It is important to note that there is no absolute state to be reached for either success. The goals of a project can change, and what constitutes an ideal team depends on the size of the project, the timeline, and other factors.
 
