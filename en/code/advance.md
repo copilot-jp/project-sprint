@@ -4,73 +4,66 @@ title: "Project Sprint CODE Advance"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-このドキュメントは、プロジェクトスプリントに最新の議論・実験的な概念が記載されており、メソッドのアップデートに関する最新情報が得られます。
+This document contains the latest discussion/experimental concepts for Project Sprint and provides the latest information on method updates.
 
-### プロジェクトスプリントの成功指標
+### Project Sprint Success Metrics
 
-プロジェクトスプリントは、
+Project Sprint is a project promotion method that aims to achieve a state in which the project goals are achieved and an ideal team is formed.
 
-* プロジェクトのゴールが達成されている状態
-* 理想的なチームが形成されている状態
+Therefore, the success of Project Sprint can be evaluated in terms of whether each of these is achieved (success in progress and success in teaming).
 
-を目指すプロジェクト推進メソッドです。
+It is important to note that there is no absolute state to be reached for either success. The goals of a project can change, and what constitutes an ideal team depends on the size of the project, the timeline, and other factors.
 
-したがって、プロジェクトスプリントが成功しているかどうかは、これらがそれぞれ実現しているか(**プログレスの成功**と **チーミングの成功**)、という観点で評価することがでできます。
+On the other hand, if PJS is implemented and managed correctly, it means that it will bring success in progress and success in teaming. Therefore, the activity of PJS itself can be regarded as a success indicator.
 
-ここで、いずれの成功についても、絶対的に到達すべき状態がないものであることに注意しなければなりません。
-プロジェクトのゴールは変化しうるものであり、また何をもって理想的なチームとするかはプロジェクトの規模や時間軸などに依存します。
+#### Success Indicators for Progress
 
-一方、プロジェクトスプリントが正しく導入・運営されていれば、それはプログレスの成功とチーミングの成功がもたらされることを意味します。
-そのため、プロジェクトスプリント自体の活発さ自体を成功指標とみなすことができます。
+There are two success indicators for progress
 
-#### プログレスの成功指標
+* Whether the tasks involved in the progress are listed and completed, and
+* How many progress-related agenda items are listed and completed in meetings.
 
-プログレスの成功指標は次の2つです。
+#### Teaming success indicators
 
-* プログレスに関わるタスクがリストアップされ、消化されているか、
-* ミーティングにおいてプログレスに関わるアジェンダが多くリストアップされ、消化されているか
+There are two key indicators of success in teaming
 
-#### チーミングの成功指標
+* Are the tasks involved in teaming listed and completed?
+* How many teaming-related agenda items are listed and completed in meetings.
 
-チーミングの成功指標は次の2つです。
+### Optimization
+#### Classification of optimization
 
-* チーミングに関わるタスクがリストアップされ、消化されているか、
-* ミーティングにおいてチーミングに関わるアジェンダが多くリストアップされ、消化されているか
+**Optimization**can be divided into two categories: those that are implemented for the short term and those that are implemented for the long term. Specifically, there are differences in the following characteristics.
 
-### 最適化
-#### 最適化の分類
-
-**最適化**は、短期的視野で実施されている取り組みか、長期的視野で実施されている取り組みか、という点で二つに分けられます。具体的には、以下のような性質の違いがあります。
-
-短期の最適化  | 長期の最適化
+Short-term optimization  | Long-term optimization
 --|--
-イニシャルコストが低い  | ランニングコストが低い
-一回性  | 継続的
-属人的  | 標準化
-試験的  | ベストプラクティスの展開
+Low initial cost  | Low running cost
+One-time nature  | Continuous
+Humanistic   | Standardization
+Experimental  | Deployment of best practices
 
-二つの間に絶対的な基準はなく、同じ取り組みであってもプロジェクトそのものの規模・時間軸によってどちらに分類されるかは変化します。
+There is no absolute standard between the two, and even the same initiative can be categorized as either depending on the scale and time frame of the project itself.
 
-### プログレス・チーミングにおけるステータス
+### Status in Progress Teaming
 
-#### プログレスにおけるステータス(As-IsとTo-Be)
-プロジェクトスプリントにおいて、プロジェクトの進捗は、現在のステータス(As-Is)とあるべきステータス(To-Be)の距離として捉えられます。
-チームメンバーによってAs-Is時点からTo-Beを描くとき、その確度はそれほど高くないこともあります。
+#### Status in Progress (As-Is and To-Be)
+In Project Sprint, project progress is viewed as the distance between the current status (As-Is) and the status to be (To-Be). Sometimes, when team members draw the To-Be from the As-Is point, the accuracy is not so high.
 
-この原因は、大きく二つに分けられます。
+The reasons for this can be divided into two main categories.
 
-- As-IsやTo-Beに関して、チームメンバーの間での認識が揃っていないこと (**ズレの問題**)
-- As-IsやTo-Beに関して、実際にプログレス・アクティビティを行っていかなければ明らかにならないこと (**粗さの問題**)
+- The team members do not have the same understanding of the As-Is and To-Be.
+ (**problem of misalignment**)
+- The As-Is and To-Be are not clear until the actual progress activities are done (**Roughness problem**)
 
-プロジェクトスプリントは、プロセスとマイルストーンの設定によってこれらの問題を解決します。
+Project Sprint solves these problems by setting up processes and milestones.
 
-#### チーミングにおけるステータス
-プロジェクトスプリントにおいて、チームのステータスは、メンバーが互いに責任を明確に理解したり期待できる程度と捉えられ、次の2点が実現されれば、理想的なチームを形成することができます。
+#### Status in Teaming
+In Project Sprint, team status is seen as the degree to which members have a clear understanding or expectation of each other's responsibilities, and an ideal team can be formed when the following two points are realized
 
-- プロジェクトチームのメンバーのお互いに何をやってくれるのか、やろうとしているのかわかること(**期待値の一致**)
-- 自分に担うことができる役割であれば、何であれ必要に応じていつでも担おうとするマインドセットがあること (**自発的な役割の引き受け**)
+- Knowing what each member of the project team can and will do for each other (**congruence of expectations**)
+- A mindset that is willing to take on whatever role is available to them, whenever the need arises (**voluntary role acceptance**)
 
-プロジェクトスプリントは、プロセスとロールの設定によってこれらを実現します。
+Project Sprint achieves these by setting up processes and roles.
 
 ---
 
