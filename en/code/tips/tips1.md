@@ -1,81 +1,79 @@
 ---
 layout: post
-title: "Tips1: プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)"
+title: "Tips1: Useful concepts for organizing the project timeline (tracks/phases/events)"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-プロジェクトスプリントではゴールとマイルストーンという概念を用いてプロジェクトの時間軸を整理することを基本としています。
-この記事では、このゴールとマイルストーンに加え、チームメンバーがコミュニケーションをするうえで知っておくとよい概念を紹介します。
+Project Sprint is based on the concept of goals and milestones to organize the project timeline. In addition to these goals and milestones, this article introduces concepts that team members should know to communicate with each other.
 
-#### トラック - ゴールに対して複線的なマイルストーンの進行をしたいときの考え方
+#### Tracks - the concept when you want to have a multi-linear milestone progression for a goal
 
-##### トラック/フェーズ概念図
-![トラック概念図](/ja/images/track.png)
+##### Track/Phase Conceptual Diagram
+![Concept Map of Track](/ja/images/track.png)
 
-プロジェクトスプリントでプロジェクトのゴールとマイルストーンを設定してプロジェクトを進行するとき、最もシンプルな構造は、
+When working on a project with project goals and milestones in Project Sprint, the simplest structure is
 
-- ゴール X
-  - ゴールX を実現するための マイルストーン A-1
-  - マイルストーン A-1 を実現するための、マイルストーン A-2
-  - マイルストーン A-2 を実現するための、マイルストーン A-3
+- Goal X
+  - Milestone A-1 to realize Goal X
+  - Milestone A-2 to realize Milestone A-1
+  - Milestone A-3 to realize Milestone A-2, Milestones A-3 In a nutshell,
 
 というものです。端的に時系列で表現すると、
 
-`マイルストーン A-3 -> マイルストーン A-2 -> マイルストーン A-1 -> ゴールX`
+`Milestone A-3 -> Milestone A-2 -> Milestone A-1 -> Goal X`
 
-というかたちで、プロジェクトが進行します。
+This is how the project progresses.
 
-しかし、実際にはこのように単純な構造でプロジェクトが進行することはほとんどありません。
+In reality, however, projects rarely progress in such a simple structure.
 
-例えば、次のようなときです。
+For example, in the following case
 
-- ゴールX
-  - ゴールXを実現するためには、マイルストーンAと、マイルストーンBが必要
-  - マイルストーンAは、3つのマイルストーンに分けて達成できる
-  - マイルストーンBも、3つのマイルストーンに分けて達成できる
+- Goal X
+  - Milestone A and Milestone B are necessary to achieve Goal X
+  - Milestone A can be achieved by dividing it into three milestones
+  - Milestone B can also be achieved by dividing it into three milestones
 
-このとき、次のような時系列でゴールXが実現します。
+In this case, goal X will be realized in the following timeline.
 
-`マイルストーン A-3 -> マイルストーン A-2 -> マイルストーン A-1`
+`Milestone A-3 -> Milestone A-2 -> Milestone A-1`
 
-`マイルストーン B-3 -> マイルストーン B-2 -> マイルストーン B-1`
+`Milestone B-3 -> Milestone B-2 -> Milestone B-1`
 
-`マイルストーン A-1 + マイルストーン B-1 -> ゴール X`
+`Milestone A-1 + Milestone B-1 -> Goal X`
 
-マイルストーンAを作る流れ とマイルストーンBを作る流れのことを、それぞれ「トラック」と呼びます。
+The flow of creating Milestone A and Milestone B are called "tracks" respectively.
 
-例えばあるWebサイトを立ち上げるプロジェクトを考えたとき（ゴールはWebサイトの完成）、Webサイトのデザインを考えるチームと、Webサイトのシステム環境を整える作業は（関連はしながらも）並行して進行します。このとき、それぞれの作業領域を「トラック」として分割し、トラックごとにマイルストーンを分けて考えることで、よりプロジェクトを構造化してとらえられるようになります。
+For example, when considering a project to launch a website (the goal is to complete the website), the team to design the website and the team to set up the system environment for the website will proceed in parallel (though related). At this point, by dividing each work area into "tracks" and separating milestones for each track, we can have a more structured view of the project.
 
-#### フェーズ - マイルストーンとマイルストーンの間の意味的な位置づけ
+#### Phases - Semantic positioning between milestones
 
-例えば「新規事業を立ち上げる」というゴールを持ったプロジェクトがあり、このために次のようなマイルストーンを設定したとします。
+For example, suppose you have a project with the goal of "launching a new business" and for this you have set the following milestones
 
-- マイルストーン1  外部環境、自社や競合他社の状況に関する調査書の完成
-- マイルストーン2  調査書に基づいた新規事業計画書の作成
-- マイルストーン3  新規事業計画書に基づいた、実際に事業を立ち上げることのできる環境づくり
+- Milestone1: Completion of a research report on the external environment and the situation of the company and its competitors
+- Milestone 2: Create a new business plan based on the research document
+- Milestone 3: Create an environment in which you can actually launch your business based on the new business plan.
 
-これらのマイルストーンを上から順に実行することによって、ゴールが達成できます。マイルストーンは成果物と紐づく必要があるので、このような書き方になります。(調査書、新規事業計画書、事業を立ち上げることのできる環境、がそれぞれ成果物です）
+By executing these milestones in order from the top, the goal can be achieved. Milestones need to be tied to deliverables, which is why they are written in this way. (The research document, the new business plan, and the environment in which the business can be launched are each deliverables.
 
-しかし、プロジェクトでのコミュニケーション上は、いま自分たちは何をしているのか？ということを表現できたほうが便利です。このそれぞれを、「フェーズ」と呼びます。つまり、この例では、
+However, in terms of communication in a project, it is better to be able to express what we are doing now. However, for project communication, it is more useful to be able to express what we are doing now. Each of these is called a "phase". So, in this example, we have
 
-- マイルストーン1を達成するまでの間：調査フェーズ
-- マイルストーン2を達成するまでの間：企画フェーズ
-- マイルストーン3を達成するまでの間：実現フェーズ
+- Until milestone 1 is achieved: Research phase
+- Until milestone 2 is achieved: Planning phase
+- Until milestone 3 is achieved: realization phase
 
-などと呼ぶことができます。
+In this example, the phases can be called as follows
 
-なおフェーズの名称は、ゴールに向けたマイルストーン全体の中で何をしているのかが分かりやすく、自分たちのチームはもちろん、プロジェクトのその他のチームメンバーから見て何をやっているかわかりやすくなっていることが重要になります。
+It is important that the names of the phases make it easy to understand what you are doing within the overall milestones toward the goal, not only for your own team but also for the other team members in the project.
 
-なおこの結果、トラック間での進捗状況の共有やマイルストーンの詳細な確認などを目的とした連携が必要になることがあります。このとき、連携が必要かどうかを検討・判断するのはプログレスについて責任を持つロールになりますが、ミーティングをアレンジするのはプロセスについて責任を持つロールになります。
+As a result, you may need to collaborate with other tracks to share progress and check milestones in detail. In this case, the role responsible for the progress will be the one to consider and decide if collaboration is necessary, while the role responsible for the process will be the one to arrange the meeting.
 
+#### Events - Key events that affect the setting of milestones and goals.
 
-#### イベント - マイルストーンやゴールの設定に影響を与える重要行事
+Anything in the project's external environment that project members need to be aware of because it affects the setting of milestones and goals is called an "event" and should be managed separately.
 
-プロジェクトの外部環境にあって、マイルストーンやゴールの設定に影響を与えるためプロジェクトメンバーが意識しておかなければいけないものは、「イベント」と呼び、区別して管理します。
+One typical example is the day-to-day business of the organization, which is separate from the project. One typical example is the day-to-day operations of an organization that are separate from the project, such as board meetings. Although these meetings do not themselves produce project deliverables, it is sometimes necessary to set milestones to coincide with these meetings because some kind of report or request for approval is made regarding the project. In other cases, feedback from these meetings may change the assumptions of the project, necessitating changes to the milestones and sometimes even the goals themselves.
 
-一つの典型的な例は、プロジェクトとは別で日々行われている、組織の定常業務です。具体的には取締役会などがこれにあたります。これ自体プロジェクトの成果物を生み出すわけではありませんが、プロジェクトに関する何らかの報告や承認依頼が行われるなどの理由から、こうしたミーティングに合わせてマイルストーンを設定したりする必要があるときがあります。また、こうしたミーティングからフィードバックされた情報がプロジェクトの前提条件を変え、マイルストーンや、ときにはゴールそのものを変える必要がある場合もあります。
-
-また、「商戦期」といったような、期間をもったものも、イベントとして管理することが有効です。それに合わせて、プロジェクトのマイルストーンを設定する必要がある、またはその結果マイルストーンやゴールを調整する必要があるという点は、特定の日付であっても期間であっても変わらないからです。
+It is also useful to manage events with a time frame, such as a "commercial period". The fact that you need to set project milestones accordingly, or adjust milestones or goals as a result, does not change whether it is a specific date or a time period.
 
 ---
 
