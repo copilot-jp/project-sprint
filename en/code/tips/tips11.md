@@ -1,37 +1,33 @@
 ---
 layout: post
-title: "Tips11: チームが納得できて作業効率のよいタスクの設定方法"
+title: "Tips11: How to set tasks in a way that makes sense to the team and is efficient"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-プロジェクトスプリントには、ミーティング終盤にそのミーティングを通じて生まれたタスクの確認を行い、次回のミーティングの序盤でそれまでのタスクの進捗報告を行うというサイクルがあります。
-[ミーティングを開催する](../tutorial/section3-2)で解説したように、タスクを記載する際には、
+Project sprints have a cycle of confirming the tasks that came out of the meeting at the end of the meeting, and reporting the progress of the tasks up to that point at the beginning of the next meeting. As explained [in the section on holding a meeting](../tutorial/section3-2), when describing a task, you should clarify the following at least;
+  - Specific action to be taken
+  - Person in charge
+  - Due date
 
-  - 具体的な行動内容
-  - 担当者
-  - 期限
+However, if this is the only way to describe the task, there may be cases when the task progress is reported, such as "It was not what we expected" or "It will not be completed forever. This is due to the fact that the person in charge of the task does not know what to do, or that the person in charge or the deadline is set incorrectly in the first place. The root cause is that there is a misunderstanding among the team members and the tasks are not defined correctly.
 
-を明確にすることが最低限必要です。
+Therefore, you can prevent such misunderstandings in advance by considering and clarifying the following elements as well.
 
-しかし、これだけでは、タスクの進捗報告の際に「想定していたのと違った」「いつまでたっても完了しない」といったことが起こりえます。これは、タスクの担当者が何をやればよいかよくわかっていないことが原因であったり、そもそも担当者の設定や期限の設定が間違っていたりすることが原因です。そして、さらにその根本的な原因は、チームメンバ―の間で認識のずれがあり、正しくタスクが定義できてないことにあります。
+##### Purpose
+This is a description of why the task needs to be done.
 
-そこで、次の要素についてもあわせて検討し明文化することで、そうした認識ずれをあらかじめ防ぐことができます。
+Since the task will eventually lead to the ideal state of progress (achievement of project goals and milestones) or the ideal state of teaming (alignment of role expectations), it is effective to write down the purpose while being aware of how each task is connected to achieve it.
 
-##### 目的
-なぜこのタスクを行う必要があるのかについての記述です。
+By writing down the objectives, you can easily determine who should do the task (the person in charge) and when it should be done (the deadline).
 
-タスクは最終的にはプログレスにおける理想の状態（プロジェクトのゴールやマイルストーンの達成）またはチーミングの理想の状態（ロールの期待値がそろっている状態）につながるため、そのためにそれぞれのタスクがどのように結びついているかを意識しながら目的を書き下すことが有効です。
+##### Estimated Output and Estimated Work Time
+This is a description of the specific image of the output that will be produced as a result of completing the task. The output is the result of the team members completing the assigned task (see Tip 3).
 
-目的を記載することで、誰がやるべきか（担当者）や、いつまでにやるべきか（期限）も簡単に判断することができます。
+For example, if you have a task to create a document, you can say, "The document should have ~~ slides, and the headings should be well-crafted. The text and figures can be dummies." This makes it easier to check whether the output is in line with the objective. In this case, if the purpose of the task is "to use for rehearsal just before the presentation," the output will be insufficient. You don't necessarily have to go for perfection as long as you can achieve your goal. Instead, be aware of the need to ensure that you produce the minimum amount of output.
 
-##### 想定アウトプット・想定作業時間
-タスクをこなした結果生まれるアウトプットについての具体的イメージの記述です。なお、アウトプットとは、チームメンバーが割り当てられたタスクを完了したことで生まれた結果のことです（Tips3参照）。
+It is also effective to clearly state the estimated time to complete the task in order to match the image of the expected output. In the case of the aforementioned task of creating documents, if one person thinks the task will only take one hour, but another person thinks it will take four hours, it is highly likely that there is a difference in the level of creation.
 
-例えば、ある資料作成のタスクがあったとき、「スライド～～枚で、見出しはしっかりと作りこむ。本文や記載する図表はダミーでよい」と記述することで、目的に沿ったアウトプットなのかどうかを確認しやすくなります。この場合、タスクの目的が「プレゼンテーション直前のリハーサルに使うため」であればアウトプットとしては不十分でしょうし、「プレゼンテーションの大枠の内容を内々に議論するため」であれば、必要十分なアウトプットになるでしょう。目的が達成できるのであれば、必ずしも完成度を突き詰める必要はありません。それよりも、最小限のアウトプットを確実につくることを意識しましょう。
-
-また、想定アウトプットのイメージをすり合わせるためには、タスクを終えるまでの想定作業時間を明文化することも効果的です。前述の資料作成のタスクであれば、ある人は1時間しかかからないと思っていた作業が、別の人は4時間もかかると思っていた場合、作りこみのレベルに差がある可能性が高いということが分かります。
-
-さらに、これらの作業を通じてタスクの粒度が大きいと判断された場合は、そのタスクを細かく分解し、ミーティングごとに確実にアウトプットが可能なサイズにしましょう。
+Furthermore, if through these tasks it is determined that the granularity of the task is too large, break the task down into smaller pieces to ensure that the output is large enough for each meeting.
 
 ---
 
