@@ -1,39 +1,39 @@
 ---
 layout: post
-title: "Tips2: マイルストーンマップの利用"
+title: "Tips2: Using the Milestone Map"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-[プロジェクトのゴールとマイルストーンを設定する](../tutorial/section2-1.md)で記載した通り、マイルストーンとは「具体的な成果物とそれに紐づく期限をセットにして記述したもの」です。
-このマイルストーンマップは、チームメンバー全員と共有・合意され、プロジェクトの進行中も常に参照できるようにしておく必要があります。
+As described in the section [on the setting projects goals and milestones](../tutorial/section2-1.md), a milestone is "a description of a set of specific deliverables and the deadlines associated with them.
+This milestone map should be shared and agreed upon by all team members, and should be available for constant reference throughout the project.
 
-この作業を助けるためのツールとして、「マイルストーンマップ」を利用することをおすすめします。
+We recommend using a "milestone map" as a tool to help you with this task.
 
-マイルストーンマップとは、プロジェクト内のマイルストーンの全体像を把握するためのシートのことです。期日と成果物以外の情報を載せ、複数のマイルストーンを横断的に記載することで、マイルストーン間の関係や設定の背景も含めたより深い理解を可能にします。
+A milestone map is a sheet that provides an overview of the milestones in a project. By including information other than due dates and deliverables, and by describing multiple milestones in a cross-sectional manner, it allows for a deeper understanding of the relationships between milestones and the context in which they were set.
 
-マイルストーンマップには次のような要素を盛り込みます。
+A milestone map should include the following elements
 
-  - フェーズ名: マイルストーン間の意味的な位置づけ
-  - 期日の開始日: 通常は直前のマイルストーン終了日の翌日)
-  - 期日の終了日(※): マイルストーンの完了の期日
-  - 成果物(※): マイルストーン完了時に必要な成果物
-  - あるべき姿: マイルストーン完了時点でプロジェクト内部がどのような状態になっていてほしいか、またはプロジェクトの成果物を受けてプロジェクトの外部がどのような状態になっていてほしいか、を記述
-  - メモ: 補足情報を自由に記載する
+  - Phase name: semantic positioning between milestones
+  - Due date start date: usually the day after the previous milestone end date)
+  - Due date end date (*): the date when the milestone is due to be completed
+  - Deliverables: Deliverables required upon completion of the milestone
+  - Desired state: Describes what you want the project to look like internally when the milestone is completed, or what you want the project to look like externally when you receive the project deliverables.
+  - Note: Feel free to include additional information.
 
-※マイルストーンとしての必須要素
+※Essential elements of a milestone
 
-これらの要素をマイルストーン全体を俯瞰してみれるように表現します。
+These elements are expressed in a way that gives a bird's eye view of the entire milestone.
 
-##### 表形式にした場合の例
+##### Example of a table format
 
- マイルストーン |～をつくる |～を達成する |～を完成する
+ Milestone | To Create | To Achieve   | To Complete
 --|---|---|--
-開始日|    |    |   
-終了日  |    |    |   
-フェーズ名  |    |    |   
-成果物  |    |    |   
-あるべき姿  |    |    |   
-メモ  |    |    |   
+Start date|    |    |   
+End Date  |    |    |   
+Phase Name  |    |    |   
+Deliverables  |    |    |   
+What it should be |    |    |   
+Memo  |    |    |   
 
 ---
 
