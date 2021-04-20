@@ -1,34 +1,35 @@
 ---
 layout: post
-title: "Tips12: ミーティングを定例開催にする理由"
+title: "Tips12:  Why meetings should be held on a regular basis "
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-[ミーティングを設計する](../tutorial/section2-3)で記述したように、プロジェクトスプリントではミーティングを定期開催とすることが必要です。ここでは、その理由について解説します。
+As described [in Designing Meetings](../tutorial/section2-3), project sprints require meetings to be held regularly. Here, we will explain why.
 
-1. 前回のミーティングから今回のミーティングまでの差分をキャッチアップする機会を保証できる。
+1. It guarantees the opportunity to catch up on the differences between the last meeting and the current meeting.
 
-   社会や組織の変化が激しいなか、定期的に集まることで、各チームメンバーが経験したこと・変化を確実に、定期的に吸収することができます。これらをインプットするからこそ、プロジェクトのゴールやマイルストーンをみんなで合意して変化させることも可能になります。
+   With the rapid changes in society and organizations, regular gatherings ensure that each team member absorbs the experiences and changes on a regular basis. Because of these inputs, it is also possible for everyone to agree on and change the goals and milestones of the project.
 
-2. チームメンバーのスケジュールの調整コストが低くなる。
+2. Lowers the cost of coordinating team members' schedules.
 
-   社内外の多様なメンバーが参加するようなプロジェクトも多い昨今では、都度スケジュール調整をしているとそれだけで時間がかかります。そのため、あらかじめスケジュール設定をしておく方が効率がよいのです。また都度ミーティングを調整していると必要なタイミングでミーティング開催ができません。これは、必要十分な参加者が一度に集まって素早く効率的に意思決定をするというプロジェクトスプリントの利点を損ねてしまいます。
+   Nowadays, there are many projects in which diverse members from inside and outside the company participate, and adjusting the schedule each time can be time-consuming. For this reason, it is more efficient to set up a schedule in advance. Also, if meetings are adjusted each time, it is impossible to hold meetings at the necessary timing. This undermines the advantage of the project sprint, which is to gather enough participants at once to make decisions quickly and efficiently.
 
-3. 同じ曜日・時間に開催されることで、他のチームの人が共有のために覗きに来やすくなる。
+3. By holding the meetings on the same day and time, people from other teams are more likely to come peek in to share.
 
-   あるアジェンダについて特定のゲストを呼び、スペシャリストとしてのコメントをもらうといったことはよくありますが、定期的な時間・曜日があらかじめ設定されていると都度の調整が必要なく、すでにある時間に招待すればよいため、効率的です。
+   It is common to invite a specific guest to comment as a specialist on a certain agenda, but if the regular time and day are set in advance, it is more efficient since there is no need to adjust each time and just invite them at a time that is already available.
 
-4. 定期的に期間を区切るほうがタスクの粒度を作りやすい。
+4. It is easier to create the granularity of the task if the period is divided into regular periods.
 
-   定期的な期間、例えば「1週間でできること」という基準となる間隔をもつことで、これぐらいのタスクであればできるかな、という予測がしやすくなります。現実的なタスクを作成することは、アウトプットを確実につくること、ひいてはアジェンダの確度を上げること、につながります。
+   By having a regular period of time, for example, a standard interval of "what can be done in a week," it is easier to predict if this amount of task can be done. Creating realistic tasks will ensure that the output is produced, which in turn will increase the accuracy of the agenda.
 
-5. 定期開催とすると業務のリズムをつくりやすいのでタスクが消化しやすくなる。
+5. If the meeting is held on a regular basis, it will be easier to create a work rhythm, which will make the task easier
+   to digest.
 
-   例えば毎週月曜日はこのミーティングがあるのでこういう作業時間を確保しておこう、など。個々のメンバーが作業計画を立てやすくなります。
+   For example, every Monday we have this meeting, so let's set aside time for this kind of work. This makes it easier for individual members to plan their work.
 
-6. 定期的なプロジェクトの記録になる。
+6. Keep a record of regular projects.
 
-   会議のアジェンダ、議事録、タスクの進捗報告が定点観測的に残ります。これは振り返りの際に参照しやすいログとなるほか、新しいメンバーが参加した際の読みやすさも担保します（過去の情報をむやみに読むよりは、定期的に出力されたものをマイルストーンに沿って読むほうが理解しやすいため）。また、こうしたログが残っていれば、別のプロジェクトを開始する際、過去のプロジェクトがこのようにすすんだのだという参考やひな形にしやすくなります。
+   Meeting agendas, minutes, and task progress reports will be kept on a regular basis. This provides a log that is easy to refer to when looking back, and also ensures readability when new members join the project (because it is easier to understand the regular output according to milestones than to read past information unnecessarily). In addition, if such a log is kept, it is easy to use it as a reference or template when starting another project, as this is how the past projects went.
 
 ---
 
