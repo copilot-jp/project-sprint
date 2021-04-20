@@ -1,23 +1,22 @@
 ---
 layout: post
-title: "Tips4: プロジェクトの環境整備"
+title: "Tips4: Preparing the project environment"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事では、プロジェクスプリントの実施を助けるプロジェクト環境について記載します。
+This article describes the project environment that helps in the implementation of project sprints.
 
-ここで話す内容は一般的にプロジェクト管理で語られる要素と大きく異なりません。しかし、プロジェクトスプリントでは、それらの要素すべてにおいて、「情報の透明性をいかに担保するか」という点を中心に考えるべきです。
+What we talk about here is not much different from the elements that are generally talked about in project management. However, in project sprints, the main focus of all those elements should be on how to ensure information transparency.
 
-プロジェクトスプリントでは、プロジェクトのゴールやマイルストーンの設定、ロールの設定と調整をはじめ、様々なタイミングで「チームメンバーの納得を伴った合意」をつくることが必要になります。そのため、納得をつくるため = チームメンバーの情報格差をなくすため、にはどういったプロジェクト環境を用意するべきか、というポイントが重要視されるのです。
+In the project sprint, it is necessary to create "consensus with team members' understanding" at various times, including setting project goals and milestones, and setting and adjusting roles. For this reason, it is important to consider what kind of project environment should be prepared in order to create conviction = to eliminate information gaps among team members.
 
-なお、ここに書いている要素は一例に過ぎません。プロジェクトごとに、チームメンバー間で最も最適なプロジェクト環境を整備していくように話し合うこともまた重要です。
+The elements described here are just one example. For each project, it is also important to discuss among team members to create the most optimal project environment.
 
-- ファイル管理: プロジェクトメンバー全員が同じ情報にアクセスできるファイル管理環境を用意しましょう。
-- スケジュール管理: スケジュール調整に必要な限りで、メンバー間の個人カレンダーを共有するようにしましょう。これは、メールなどによって都度日程調整をするのではなく、チームメンバーのスケジュール状況が一か所に集まっており、ミーティングのスケジュールを効率的に設定・変更できるようになることを意味します。
-- タスク管理: プロジェクトを通じて生まれるタスクを一元管理する場所を用意しましょう。個人でタスク管理するのではなく、プロジェクトチームで共有するタスク管理場所を用意することで、お互いが何をするべきか / するつもりだったか、を確認するコミュニケーションがしやすくなります。
+- File Management: Provide a file management environment where all project members have access to the same information.
+- Scheduling: Try to share personal calendars among project members for as long as necessary to coordinate schedules. This means that team members' schedule statuses are in one place and meetings can be scheduled and rescheduled efficiently, rather than having to coordinate each time via email.
+- Task Management: Have a centralized place to manage the tasks that arise throughout the project. By having a place to manage tasks that are shared by the project team, rather than by individuals, it is easier to communicate with each other to see what needs to be done / was intended to be done.
 
-その他、プロジェクトスプリントにおける3つのドメインおいて必要とされる環境 - マイルストーン管理（プログレス）、ロール管理（チーミング）、ミーティング管理（プロセス）、については、それぞれ別Tipsをご参照ください。
-
+Please refer to the other tips for milestone management (progress), role management (teaming), and meeting management (process), which are necessary environments in the three domains of project sprints.
 
 ---
 
