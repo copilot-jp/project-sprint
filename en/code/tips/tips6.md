@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Tips6: ロールシートの利用"
+title: "Tips6: Using a roll sheet"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-[チームメンバーを知り、ロールを設定する](../tutorial/section2-2.md)で記載した通り、ロールとは「チームメンバー個々人の役割」のことです。
-ロールとチームメンバーは一対一の関係になるとは限らず、またロールの種類も決まったものはない一方、決まったロールはきちんと明文化して合意する必要があります。
+As mentioned [in the section on knowing team members and setting roles](../tutorial/section2-2.md), roles are the roles of individual team members. Roles and team members do not necessarily have a one-to-one relationship, and while there is no set type of role, the roles that are set must be clearly defined and agreed upon.
 
-そのため、「いまのロールの状況」を明文化して参照できる状態にしておくための「ロールシート」を利用することをおすすめします。
 
-ロールシートには、例えば次のような要素を盛り込みます。
+For this reason, it is recommended to use a "role sheet" to clearly state the "current role status" and keep it available for reference.
 
-- ロール名
-- ロールが果たす責任(どういう目的でそのロールが必要とされ、何を果たすロールなのか）
-- そのロールを担う人
+For example, the following elements should be included in the role sheet.
 
-これらを一つのドキュメントとしてまとめ、常に最新のものに更新しておくことで、いまの各メンバーに対する期待値を把握することや、期待とズレがあった場合の議論が可能になります。
+- Role name
+- Responsibilities of the role (for what purpose the role is needed and what the role is to accomplish)
+- The person who will be responsible for the role
+
+Putting these together as a single document and keeping it up-to-date will allow you to understand the current expectations of each member and discuss any discrepancies with those expectations.
 
 
 ---
