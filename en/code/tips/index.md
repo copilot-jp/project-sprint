@@ -4,24 +4,24 @@ title: "Project Sprint CODE Tips"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-このドキュメント群では、プロジェクトスプリントにまつわる詳細な説明・深ぼった説明が記載されています。
+This set of documents contains detailed and in-depth explanations of Project Sprint.
 
-### 目次
+### Table of Contents
 
-1. [プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)](tips1.md)
-2. [マイルストーンマップの利用](tips2.md)
-3. [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）](tips3.md)
-4. [プロジェクトの環境整備](tips4.md)
-5. [実務で使いやすいロールの設定](tips5.md)
-6. [ロールシートの利用](tips6.md)
-7. [ミーティング環境についてのノウハウ](tips7.md)
-8. [アジェンダに含まれているとよい全要素](tips8.md)
-9. [代表的な振り返りの手法](tips9.md)
-10. [テンショントリアージの方法](tips10.md)
-11. [チームが納得できて作業効率のよいタスクの設定方法](tips11.md)
-12. [ミーティングを定例開催にする理由](tips12.md)
-13. [ロールの分類と性質](tips13.md)
-14. [アジェンダの目的](tips14.md)
+1. [Useful concepts for organizing the project timeline (tracks/phases/events)](tips1.md)
+2. [Using the Milestone Map](tips2.md)
+3. [What kinds of things are produced in a project (outputs/artifacts)](tips3.md)
+4. [Establishing the project environment](tips4.md)
+5. [Setting up roles that are easy to use in practice](tips5.md)
+6. [Use of role sheets](tips6.md)
+7. [Know-how about the meeting environment](tips7.md)
+8. [All elements that should be included in an agenda](tips8.md)
+9. [Typical Reflection Techniques](tips9.md)
+10. [How to do a tension triage](tips10.md)
+11. [How to set tasks in a way that makes sense and works for the team](tips11.md)
+12. [Why meetings should be held on a regular basis](tips12.md)
+13. [Classification and nature of roles](tips13.md)
+14. [The purpose of an agenda](tips14.md)
 
 ---
 
