@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "Tips10: テンショトリアージの方法"
+title: "Tips10: Tension triage methods"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-[ミーティングを開催する](../tutorial/section3-2)で解説したように、ミーティング開始時にはテンショントリアージを実施します。これによって、メンバー一人一人が思う「こうしたらもっとより良くなるのに」という現状とよりよい状態の間のギャップ、ちょっとしたアイデア・気になること・不安などを共有し、解決のためのアクションにつなげることができるようになります。
+As explained [in the section on organizing a meeting](../tutorial/section3-2), conduct a tension triage at the beginning of the meeting. This will allow each member to share the gaps between the current situation and the better situation, as well as any ideas, concerns, or worries that they may have, and to take action to resolve them.
 
-テンショントリアージは、例えば次のような手順で実施しますが、一例にすぎません。上記の目的をより効率的・効果的に達成するために、チームによって最適な方法にアレンジしてみてください。
+Tension triage, for example, is carried out in the following steps, but it is only one example. Try to arrange it in a way that works best for your team to achieve the above objectives more efficiently and effectively.
 
-1. チームメンバーがテンションをあげる
-2. テンショントリアージのアジェンダオーナーがテンションを一つ読み上げ「何が必要ですか？」とテンションをあげた人に問いかける
-3. テンションをあげた人は、次のいずれかを選択し、そのあと、自分が必要としていることを回答する。
-  - 他メンバーへのタスクのリクエスト
-  - 他メンバーからの情報やヘルプ提供のリクエスト
-  - ロールの調整・変更・追加に関するリクエスト
-  - 単なる情報提供や感想の共有
-4. テンショントリアージのアジェンダオーナーは、次のいずれかを選択してテンションをあげた人に提案する
-   - その場で解決する
-   - タスク化する
-   - アジェンダ化する
-5. テンションをあげた人がこれで必要なことが得られれば、終了。得られなければ、続けて議論する。(3と4を詳しく繰り返す)
-6. 時間の許す限り、他のテンションについても2~5の手順を繰り返す
+1. Team members raise the tension
+2. The agenda owner of the tension triage reads one of the tensions and asks, "What do you need? and asks the person who raised the tension, "What do you need?
+3. The person who raised the tension chooses one of the following, and then answers what they need
+  - Request a task from another member
+  - Request for information or help provision from other members
+  - Requests for adjustments, changes, or additions to roles
+  - Mere sharing of information or feedback
+4. The agenda owner of the tension triage will make a suggestion to the person who raised the tension by choosing one of the following
+   - Resolve it on the spot
+   - Make it a task
+   - Make it an agenda
+5. If the person who raised the tension gets what they need from this, they are done. If not, continue the discussion. (Repeat steps 3 and 4 in detail)
+6. Repeat steps 2~5 for other tensions as time permits.
 
 ---
 
