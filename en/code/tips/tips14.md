@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Tips14: アジェンダの目的"
+title: "Tips14: Agenda Objectives"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-[Project Sprint 101](../tutorial/section1-1.md)で述べたように、プロジェクトスプリントにおけるアジェンダとは「プロジェクトにおけるチームメンバーの活動を、他のメンバーと共有・認識してもらうために明文化されたもの」のことを指しています。そして、具体的なアジェンダの作成方法は、[ミーティングの準備をする](../tutorial/section3-1.md)や[アジェンダに含まれているとよい全要素](../tips/tips8.md)で説明しました。
+As mentioned [in Project Sprint 101](../tutorial/section1-1.md), an agenda in a project sprint is "a clear statement of a team member's activities in a project that is shared and recognized by other team members. And how to create a specific agenda is explained [in Preparing for a Meeting](../tutorial/section3-1.md)and [All the Elements an Agenda Should Contain](../tutorial/section1-1.md).
 
-この記事ではアジェンダをさらに深く理解するために、アジェンダの目的について解説します。アジェンダは、議論の目的によって次の三つの種類に分けられます。
 
-* 発散：議論を通して幅広い選択肢が出てくるとき。
-* 収束：議論を通していくつか選択肢から一つの選択肢に絞られるとき。
-* 共有：情報共有や前提確認をしたいとき。
+In this article, we will discuss the purpose of an agenda in order to understand it more deeply. Agendas can be divided into three types, depending on the purpose of the discussion
 
-アジェンダがどれに分類されるのかあらかじめ示しておくことで、ミーティングの参加者が「どのような視点で」「どのような発言をするべきか」を理解することができます。例えば、「発散」のアジェンダであれば自由に意見を発してよく、新しいアイデアを出すことが重要だと分かります。反対に「収束」のアジェンダであれば、マイルストーン達成のためにどのようなアウトプットをつくっていくべきか、現実的な結論を導くことが必要だとわかります。さらに「共有」のアジェンダであれば、疑問点を質問しできるだけ認識を合わせることが重要だと分かります。
+* Divergence: When a wide range of options emerge through the discussion.
+* Convergence: When a number of options are narrowed down to a single option through discussion.
+* Sharing: When you want to share information or confirm assumptions.
 
+By indicating in advance which category the agenda will fall into, meeting participants can understand from which perspective and what they should say. For example, if the agenda is a "divergent" agenda, people can freely express their opinions, and it is important to come up with new ideas. On the other hand, if the agenda is "convergent," it is necessary to draw realistic conclusions about what kind of output should be produced in order to achieve the milestone. In addition, if the agenda is for "sharing," it is important to ask questions and make sure that everyone is on the same page as much as possible.
 ---
 
 ##### Project Sprint CODE
