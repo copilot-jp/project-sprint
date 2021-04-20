@@ -1,47 +1,48 @@
 ---
 layout: post
-title: "Tips9: 代表的な振り返りの手法"
+title: "Tips9: Typical Reflection Techniques"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-プロジェクトスプリントにおける振り返りとはチームメンバーが過去のプロジェクトの内容についてレビューし、プログレス・プロセス・チーミングそれぞれのドメインにおける活動を改善する取り組みです。
+Reflection in Project Sprint is an effort to improve activities in each domain of progress, process, and teaming by having team members review the contents of past projects.
 
-一般的な「振り返り」の手法は様々なものがありますが、ここでは比較的簡単に導入でき、汎用性も高い二つの手法を例として紹介します。
+There are a variety of general "look back" methods, but here we will introduce two methods that are relatively easy to implement and highly versatile as examples.
 
-#### KPT(ケプト)
-KPTは、チームメンバーがこれまでのプロジェクトを振り返って感じた「良かったこと(Keep)」「改善したいこと(Problem)」を共有し、「今後改善のために取り組みたいこと(Try)」を話し合う手法です。
+#### KPT
+KPT is a method in which team members look back on a project and share their impressions of "good things (Keep)" and "things to improve (Problem)", and discuss "things to work on for improvement (Try)".
+
+
+##### Example procedure
+1. Each team member writes "Keep" and "Problem" on a sticky note.
+2. When the team members have finished filling in the sticky notes, explain the Keep and Problem they have filled in and post them on the whiteboard for sharing.
+3. Of the stickies on the whiteboard, summarize those that are related or can be summarized into a theme.
+4. Each team member fills in a Try on a sticky note.
+5. When the team members have finished filling in the stickies, explain the Try they have filled in and share them on the whiteboard.
+6. Decide which Try you will actually work on.
+
+#### +/Δ (Plus/Delta)
++/-Delta is a method for team members to share their impressions of the project so far: "plus" = what is going well and what they want to continue doing, and "delta" = what they want to improve. It is similar to KPT, but it is simpler to implement because there are two ways to divide the opinions.
+
+##### Example procedure
+1. Each team member writes a plus and a delta on a sticky note.
+2. When they are done, each team member explains the pluses and deltas they have written and puts them on the whiteboard to share.
+3. Of the stickies on the whiteboard, summarize the ones that are related or can summarize the theme.
+4. Discuss ideas for improvement in the teams.
+5. Of the ideas that come up, decide which ones you will actually work on.
+
+#### YWT
+YWT is a method in which team members share what they have done (Y), what they have learned (W), and what they will do next (T) in a project. The advantage of this method is that by starting with a review of what you have actually experienced, you can have a more down-to-earth discussion.
 
 ##### 手順例
-1. チームメンバーがそれぞれ Keep, Problemを付箋に記入する。
-2. 記入が終わったら、チームメンバーがそれぞれ記入したKeep, Problemを説明しながらホワイトボードに貼って共有する。
-3. ホワイトボードに貼られている付箋のうち、関連があったりテーマをまとめられそうなものはまとめる。
-4. 共有内容を受けてチームメンバーがそれぞれTryを付箋に記入する。
-5. 記入が終わったら、チームメンバーがそれぞれ記入したTryを説明しながらホワイトボードに貼って共有する。
-6. Tryのうち実際に取り組むものを決める。
-
-#### +/Δ(プラス/デルタ)
-+/Δは、チームメンバーがこれまでのプロジェクトを振り返って感じた「プラス=うまくいっていること、続けたいこと」、「デルタ=改善したいこと」を共有する手法です。KPTと似ていますが、意見の分け方が2つになるため、よりシンプルな実施が可能です。
-
-##### 手順例
-1. チームメンバーがそれぞれ プラス, デルタを付箋に記入する。
-2. 記入が終わったら、チームメンバーがそれぞれ記入したプラス, デルタを説明しながらホワイトボードに貼って共有する。
-3. ホワイトボードに貼られている付箋のうち、関連があったりテーマをまとめられそうなものはまとめる。
-4. 共有内容を受けて、改善したいことについては改善するためのアイデアをチームで議論する。
-5. 出たアイデアのうち、実際に取り組むものを決める。
-
-#### YWT(ワイダブリューティー)
-YWTは、チームメンバーがこれまでのプロジェクトにおいて「やったこと(Y)」を共有し、それを通じて「わかったこと(W)」を共有し、「つぎにすること(T)」を話し合う手法です。最初に実際に経験したことを見直すところからスタートすることで、より足元についた議論をすることができるという利点があります。
-
-##### 手順例
-1. チームメンバーがそれぞれ「やったこと(Y)」を付箋に記入する。
-2. 記入が終わったら、チームメンバーがそれぞれ記入した内容を説明しながらホワイトボードに貼って共有する。
-3. ホワイトボードに貼られている付箋のうち、関連があったりテーマをまとめられそうなものはまとめる。
-4. チームメンバーがそれぞれ「わかったこと(W)」を付箋に記入する。
-5. 記入が終わったら、チームメンバーがそれぞれ記入した内容を説明しながらホワイトボードに貼って共有する。
-6. ホワイトボードに貼られている付箋のうち、関連があったりテーマをまとめられそうなものはまとめる。
-7. 共有内容を受けてチームメンバーがそれぞれ「つぎにすること(T)」を付箋に記入する。
-8. 記入が終わったら、チームメンバーがそれぞれ記入した内容を説明しながらホワイトボードに貼って共有する。
-9. 「つぎにすること(T)」のうち実際に取り組むものを決める。
+1. Each team member writes down "What we did (Y)" on a sticky note.
+2. When they are done, each team member explains what he or she has done and puts it on the whiteboard to share.
+3. Of the stickies on the whiteboard, summarize the ones that are related or can summarize the theme.
+4. Each team member writes "What I learned (W)" on a sticky note.
+5. When the team members have finished filling in the sticky notes, share them on the whiteboard while each team member explains what he or she has filled in.
+6. Of the stickies on the whiteboard, summarize those that are related or can be used to summarize the theme.
+7. Each team member writes "What to do next (T)" on a sticky note.
+8. When the team members have finished filling out the sticky notes, they explain what they have done and share them on the whiteboard.
+9. Decide which of the "Next Tasks" you will actually work on.
 
 ---
 
