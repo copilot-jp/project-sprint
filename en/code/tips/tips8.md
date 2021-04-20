@@ -1,26 +1,28 @@
 ---
 layout: post
-title: "Tips8: アジェンダに含まれているとよい全要素"
+title: "Tips8: All elements that should be included in the agenda"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-[ミーティングの準備をする](../tutorial/section3-1.md)で解説したように、ミーティングのアジェンダとしては次の要素が必要です。
+As discussed [in preparing for a meeting](../tutorial/section3-1.md), meeting agenda should include the following elements
 
-- アジェンダ名
-- 進行方法（具体的な議論の進行イメージ）
-- 目的や背景（そのアジェンダを議論したい理由）
-- 誰から誰への議論か（誰がそのアジェンダについてのオーナーであり、誰と議論したいのか）
-- 時間
 
-これらは、「何について話し合いたいのか」をアジェンダのオーナーが明らかにするために必要な情報ですが、これに加えて「どの程度まで話し合いたいのか」までを明らかにしておくと、議論がより進めやすくなります。
+- Name of Agenda
+- How to proceed (a specific image of how the discussion will proceed)
+- Purpose and background (why you want to discuss the agenda)
+- Who to whom (who owns the agenda and with whom you want to discuss it)
+- Time
 
-具体的には、次の要素を追加で記載するようにします。
+These are the information necessary for the agenda owner to clarify what they want to discuss, but in addition to this, clarifying to what extent they want to discuss it will make the discussion easier.
 
-- あるべき姿(アジェンダを議論した後に目指す状態)
-- 結果(議論が終わったときに生まれている明示的なアウトプット）
-- 参加者がアジェンダの完了について納得していることを証明する手段
+Specifically, the following additional elements should be included.
 
-これらの要素がそれぞれ事前に明らかになっていればいるほど効率的・効果的な議論ができるようになります。アジェンダオーナーだけでは記載することが難しかったり、ほかのチームメンバーから見てわかりにくいものがあれば、分かりやすいものにしていくことや、これらの要素が実現できるように議論を整理していくことが、ファシリテーター（アクセラレーター）に求められる役割になります。
+- Desired state (the state you want to achieve after discussing the agenda)
+- Result (the explicit output that is produced when the discussion is over)
+- The means by which the participants will prove that they are satisfied with the completion of the agenda
+
+The more each of these elements is clear in advance, the more efficient and effective the discussion will be. If any of these elements are difficult to describe by the agenda owner alone or difficult to understand by other team members, the facilitator's (accelerator's) role is to make them easier to understand and to organize the discussion so that these elements can be realized. The facilitator's role is to organize the discussion so that these elements can be realized.
+
 
 
 ---
