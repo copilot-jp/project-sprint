@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "Tips3: プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）"
+title: "Tips3: What are some of the things that are produced in a project（outputs/deliverables）"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-プロジェクトでは様々なものが生み出されますが、そのそれぞれの持つ意味合いや粒度によって名称を区別することは、チームメンバー間のコミュニケーションをスムーズにし、プロジェクトの成功を助けてくれます。
+Many things are produced in a project, and distinguishing the names according to the meaning and granularity of each of them can facilitate communication among team members and help the project succeed.
 
-この記事では、プロジェクトスプリントで用いている「アウトプット」と「成果物」について説明します。
+In this article, I will explain "outputs" and "deliverables" as used in project sprints.
 
-#### アウトプット
-アウトプットは、チームメンバーが割り当てられた作業（タスク）を完了したことで生まれた**目に見える有形物**のことです。プロジェクトを通じて生み出されるものを示す言葉の中で最小単位のものです。
+#### Outputs
+Outputs are tangible, **tangible things** that are produced as a result of team members completing their assigned work (tasks). It is the smallest unit in the term that describes what is produced through a project.
+
 
 #### 成果物
-成果物は、マイルストーン完了の際につくられているべき**アウトプットの集積**を指します。
-マイルストーンの「成果」は、この「成果物」と「実現したい状態」によって構成されます。
-
+A deliverable is **a collection of outputs** that should have been produced at the completion of a milestone. Milestone "outcomes" are composed of "deliverables" and "desired state"
 
 ---
 
