@@ -1,39 +1,38 @@
 ---
 layout: post
-title: "Tips7: ミーティング環境についてのノウハウ"
+title: "Tips7: Know-how about the meeting environment"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-プロジェクトスプリントで意図されているミーティングの効果を得るためには、効率的なミーティング環境の構築が欠かせません。「ミーティング環境の最適化自体についてもチームメンバーで議論し、改善していけること」が、プロジェクトスプリントのプロセスのもたらすものではあるものの、この点についてはすでにいくつかのベストプラクティスが得られています。それらをここでは紹介しますので、参考にしてみてください。
+In order to get the intended effect of the meeting in the project sprint, it is essential to build an efficient meeting environment. Although the process of project sprints is to allow team members to discuss and improve the optimization of the meeting environment itself, there are already some best practices in this regard. We will introduce them here for your reference.
 
-#### アジェンダ管理
-プロジェクスプリントではアジェンダの管理が非常に重要です。
+#### Agenda Management
+Agenda management is very important in project sprints.
 
-例えば、次のようなアジェンダの管理作業が発生します。
-- ミーティング前のアジェンダの提出と必要内容の編集
-- ミーティング開始後のアジェンダの追加と必要内容の編集
-- ミーティング開始後のアジェンダの順番変更
-- ミーティング開始後のアジェンダの繰り越し
+For example, the following agenda management tasks will occur
+- Submitting the agenda before the meeting and editing the required content
+- Adding and editing the agenda after the meeting has started
+- Changing the order of agenda items after the meeting has begun
+- Carrying over agenda items after the meeting has begun
 
-これらの作業はすべてファシリテーターの主導のもと、チームメンバー全員で行われます。そのため、アジェンダを全員で共同管理・編集でき、かつ同じミーティングの中でのアジェンダの順番変更、ミーティングをまたいだアジェンダの移動ができる環境をつくっておきましょう。
+All of these tasks are done by all team members under the direction of the facilitator. Therefore, it is important to create an environment where everyone can collaboratively manage and edit the agenda, change the order of the agenda within the same meeting, and move the agenda from one meeting to another.
 
-#### ミーティング中の時間管理
-アジェンダ管理に不可欠な前提がミーティング中の時間を的確に把握することです。オンライン / オフラインいずれの場合も、ミーティングに参加しているチームメンバーが時間を把握できるよう、目に入る位置にタイマーと時計を配置しましょう。
+#### Time management during meetings
+An essential prerequisite for agenda management is knowing exactly how much time is left in the meeting. Whether online or offline, place a timer and a clock in plain sight so that team members in the meeting can keep track of the time.
 
-タイマーは、「このアジェンダにあとどれくらい時間をかけられるのか」を把握するのに必要です。
+Timers are necessary to keep track of "how much more time can we spend on this agenda?”
 
-時計は、ミーティング時間の開始時間・終了時間を把握するのに必要です。ミーティングの開始時間の遅れ、延長はつねに起こりうるものですが、絶対時刻を示す時計があると開始・終了の基準を把握・調整することができます。
+A clock is necessary to keep track of the start and end times of the meeting. Delays or extensions to the meeting start time are always possible, but having a clock that shows absolute time will help you keep track of and adjust the start and end standards.
 
+#### Take minutes
+Meetings are an important place for team members to eliminate misunderstandings and make necessary decisions. Considering that each person will work on the necessary tasks during the meeting and bring the results to the next meeting, it is efficient and effective to confirm and share the meeting contents during the meeting as much as possible. Also, although the recorder is the main recorder of the meeting, if there are any errors in the content, it is better for the person with the most correct understanding to correct them on the spot.
 
-#### 議事録作成
-ミーティングはチームメンバーで認識のズレをなくし、必要な物事を決める重要な場です。ミーティングの間に各自が必要なタスクに取りかかり、次のミーティングでその結果を持ち寄ることを考えると、ミーティングの内容は極力ミーティングの最中に明文化しながら確認、共有しておくことが効率的かつ効果的です。また、レコーダーがメインで議事を記録するものの、内容に間違いがある場合は最も正しい認識を持つ人がその場で修正してしまったほうがよいでしょう。
+For this reason, it is recommended to introduce a document tool that can be used for collaborative editing as a tool for taking minutes, and to take minutes in real time while displaying them on the screen during the meeting.
 
-そのため、共同編集ができるドキュメントツールを議事録作成用ツールとして導入し、ミーティング中に画面表示しながらリアルタイムで議事録作成をすることをおすすめします。
+#### Whiteboard
+In addition to verbal explanations and explanations using documents, it is important to use handwritten information for recognition. Handwritten diagrams and text make it easier to convey information that is not properly documented or cannot be clearly explained in words. This also contributes to the point of "eliminating misunderstandings," which is necessary in project sprints.
 
-#### ホワイトボード
-ミーティングでは口頭での説明、資料を用いた説明が行われることが多いと考えられますが、それに加え重要なのが手書きの情報による認識合わせです。手書きで図示/文章化することで、きちんと資料になっていなかったり、明確に言葉で説明できない内容を伝えやすくなります。これもプロジェクトスプリントにおいて必要な「認識のズレをなくす」というポイントに貢献してくれます。
-
-なおここでいうとホワイトボードはオフラインミーティングにおける物理的なものに限りません。オンラインミーティング用のホワイトボードツールもありますので、そういったものを利用してもかまいませんし、むしろ保存のしやすさという点ではこちらのほうが優れている場合もあります。
+In this case, whiteboards are not limited to the physical ones used in offline meetings. There are whiteboard tools for online meetings, so you can use those as well, and they may be better in terms of ease of storage.
 
 
 ---
