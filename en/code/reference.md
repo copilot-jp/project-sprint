@@ -5,37 +5,37 @@ image: https://projectsprint.org/images/pjs_logo.png
 type: article
 ---
 
-このドキュメントは、プロジェクトスプリントプロジェクトスプリントの背景にある諸メソッド・概念・文献について記載しています。
+This document describes the various methods, concepts, and literature behind Project Sprint.
 
-プロジェクトスプリントは、以下の理論・メソッド・文献・概念を参考にしながら、様々なプロジェクトで実践した経験則をもとに独立したメソッドとしてまとめられています。
+Project Sprint is an independent method based on empirical evidence from various projects, with reference to the following theories, methods, literature, and concepts.
 
 ### Manifesto for Agile Software Development
-アジャイルソフトウェア開発宣言と12の原則の価値に共感しています。  
+I share the values of the Manifesto for Agile Software Development and its 12 principles.
 [https://agilemanifesto.org/](https://agilemanifesto.org/)
 
 #### Scrum & Scrum@Scale
-スプリントという短期間に反復的な実践により成果物を提供する概念、透明性や自己組織化という概念、ミーティングによる認識合わせや意思決定をプロセスの中心におくこと、レトロスペクティブ(振り返り)のプロセスなどを参考にしています。  
-Project Sprint という名称は Scrum のスプリントからインスピレーションを得ています。  
+The concept of sprints as short, iterative practices that deliver results, the notion of transparency and self-organization, the focus on meetings for alignment and decision making, and the retrospective process are all references.
+The name Project Sprint is inspired by the Scrum sprint.  
 [https://www.scrumguides.org/](https://www.scrumguides.org/)
 
-### ティール組織
-セルフマネジメントや進化する目的の概念に共感しています。  
+### Teal Organization
+I am sympathetic to the concepts of self-management and evolving purpose.
 [https://www.reinventingorganizations.com/](https://www.reinventingorganizations.com/)
 
 #### Holacracy
-チーミング・アクティビティでコアの要素となっているロールとテンションやその関係性は、ホラクラシーの考え方を参考にしています。  
+The roles and tensions and their relationships, which are core elements in the teaming activity, are based on the concept of holacracy.  
 [https://www.holacracy.org/](https://www.holacracy.org/)
 
-### 心理的安全性
-エイミー・エドモンドソンにより提唱された概念です。チームのなかでどのような発言でも大丈夫だと信じられている環境をつくる重要性に共感しています。  
-Googleが行った生産性の高いチームの調査プロジェクトにより注目が集まりました。  
+### Psychological Safety
+This concept was proposed by Amy Edmondson. I share the importance of creating an environment where people believe it is safe to say whatever they want in a team.
+It was brought to attention by Google's research project on highly productive teams.  
 [https://www.jstor.org/stable/2666999](https://www.jstor.org/stable/2666999)  
 
 Google re:Work  
 [https://rework.withgoogle.com/jp/guides/understanding-team-effectiveness/](https://rework.withgoogle.com/jp/guides/understanding-team-effectiveness/)
 
-### センスメイキング理論
-カール・ワイクを中心に発展されている理論です。正確性よりもチームの納得に重きを置いている考え方に共感しています。
+### Sense-Making Theory
+This is a theory developed by Carl Weik and others. I agree with the idea of focusing on team buy-in rather than accuracy.
 
 ---
 
