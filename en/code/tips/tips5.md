@@ -1,35 +1,34 @@
 ---
 layout: post
-title: "Tips5: 実務で使いやすいロールの設定"
+title: "Tips5: Setting up roles that are easy to use in practice"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-プロジェクトスプリントでは、ミーティングロール以外には必ず設定しなければならないロールというものを決めておらず、ロールの定義についてはチームメンバーで合意することのみが必要な条件となっています。
+In Project Sprint, there is no set role that must be set except for the meeting role, and the only requirement is that the team members agree on the definition of the role.
 
-ただし、次に紹介するようなロールについては、実務上よく使われることを見越して、あらかじめ用意されています。
-特にプロジェクトスプリントを初めて導入する場合、これらのロールを利用することによって、導入をスムーズに行うことができます。
+However, the following roles are prepared in advance in anticipation of their frequent use in practice. Especially if you are introducing project sprints for the first time, you can use these roles to make the introduction smoother.
 
-#### スプリントマスター
-スプリントマスターは、プロジェクスプリントの導入を行うロールです。具体的には、このマニュアルで書かれているようなプロジェクトスプリントの手法をチームメンバーへ説明したり、実際にプロジェクトスプリントの準備と実践を主導することが期待されます。
+#### Sprint Master
+Sprint Master is the role that introduces Project Sprint. Specifically, the role is expected to explain the Project Sprint methodology as described in this manual to team members, and to actually lead the preparation and practice of the Project Sprint.
 
-マスターには「師」という意味合いが込められており、プロジェクト自体の成果には直接関与しないものの、プロジェクトで使われる方法論について教え導く人、といった期待が込められています。
+The word "master" has the connotation of "mentor," implying the expectation of someone who is not directly involved in the outcome of the project itself, but who teaches and guides the methodology used in the project.
 
-#### 各ドメインをリードするロール
+#### Roles that lead each domain
 
-##### プログレスマネジメント
-プロジェクトのゴールとマイルストーンの達成をリードするためのロールです。アウトカムや成果物作成の進捗管理、進捗を達成するために効果的・効率的な最適化の方法を検討し、プロジェクトの活動に取り入れる、といったことをします。
+##### Progress Management
+A role that leads the achievement of project goals and milestones. This role is responsible for managing the progress of outcomes and deliverables creation, considering effective and efficient optimization methods to achieve the progress, and incorporating them into the project activities.
 
-なお、ロール名に「マネジメント」とありますがこれは「管理する人」というよりは「対処する人」という意味合いで名づけられています。そのため、必ずしも組織における管理職や上位の人しかこのロールを担当できないという意味ではありません。
+Although the name of the role includes the word "management," it is named in the sense of "a person who deals with" rather than "a person who manages. Therefore, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
 
-##### チームマネジメント
-「チームの状態を現状より良くすること」をリードするためのロールです。チームのロールの明文化、新たなロールが発生したときやロールに変更があったときの調整、といった活動を担当します。
+##### Team Management
+This role is to lead the team in making the team's status better than it is now. This role is responsible for clarifying the roles of the team, and coordinating activities when new roles arise or when there are changes to the roles.
 
-プログレスマネジメントと同じく、ロール名に「マネジメント」とありますがこれは「管理する人」というよりは「対処する人」という意味合いで名づけられています。そのため、必ずしも組織における管理職や上位の人しかこのロールを担当できないという意味ではありません。
+As with progress management, the role name has "management" in it, but it is named in the sense of a "coping person" rather than a "managing person. Therefore, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
 
-##### プロセスアドミン
-プロジェクトのスプリントにおけるプロセスが機能していることをリードするためのロールです。本マニュアルに書かれているようなミーティングの準備と実践が効果的・効果的に行われるための活動を行います。振り返りの実施もプロセスアドミンが行います。
+##### Process Admin
+This role is to lead the functioning of the process in the project sprint. It is responsible for ensuring that the preparation and practice of meetings as described in this manual is effective and efficient. The Process Admin will also conduct the Reflection.
 
-アドミンには「管理する」という意味合いが込められています。ただし、ここでいう管理とは「プロセスを正しく機能させる」ことを意味しており、ここでも、必ずしも組織における管理職や上位の人しかこのロールを担当できないという意味ではありません。
+The word "Admin" has the connotation of "to manage. However, management here means "to make the process function properly," and here again, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
 
 
 ---
