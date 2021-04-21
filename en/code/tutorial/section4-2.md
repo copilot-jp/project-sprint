@@ -1,35 +1,35 @@
 ---
 layout: post
-title: "プロジェクトのゴールとマイルストーンを見直す"
+title: "Review the project's goals and milestones"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「プログレスドメイン」にあたります。
+The content of this article falls under the "progress domain" in project sprints.
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としたプロジェクトスプリント固有の仕組みです。この仕組みを通じてプロジェクトの進捗状況の共有、プロジェクトの進め方の継続的な改善・プロジェクトのゴールに向けたマイルストーンの見直しや互いのロールの確認をすることができるようになります。
+The process is a project sprint-specific mechanism that revolves around regular meetings and agenda discussions. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and check each other's roles.
 
-この記事では、プロジェクトのゴールとマイルストーンの見直しについて解説します。
+In this article, we will discuss project goals and milestone reviews.
 
-#### マイルストーンの見直し
-[プロジェクトのゴールとマイルストーンを設計する](../tutorial/section2-1.md)でも述べたように、マイルストーンやプロジェクトのゴールは変えてもよいものです。プロジェクトを取り巻く環境の変化や実際にタスクをこなしていくなかでわかってきたことを踏まえて、マイルストーンやゴールはプロジェクト中にいつでも変更が可能です。
+#### Milestone Review
+As mentioned [in Designing Project Goals and Milestones](../tutorial/section2-1.md), milestones and project goals can be changed. Milestones and goals can be changed at any time during the project, based on changes in the environment surrounding the project and what you learn from actually completing the tasks.
 
-マイルストーンの見直しをするべきタイミングは、次のようなときです。
-1. あるマイルストーンが達成されたとき
-2. あるマイルストーンが予定通りに達成されないことが明らかになったとき（予定よりも遅い場合、早い場合のいずれも含む）
-3. プロジェクトのゴールに対してあるマイルストーンが適切ではないことが明らかになったとき
-4. プロジェクトのゴールが変わったためマイルストーンも変える必要が出てきたとき
-5. その他何らかの理由でチームメンバーがマイルストーンを見直したほうがよいと考えたとき
+Milestones should be reviewed at the following times
+1. When a milestone has been achieved
+2. When it becomes apparent that a milestone will not be achieved on time (either later or earlier than planned)
+3. When it becomes apparent that a milestone is not appropriate for the project goal.
+4. The project goal has changed and the milestone needs to be changed.
+5. When a team member feels that the milestone should be reviewed for some other reason.
 
-また、プロジェクトのゴールの見直しをするべきタイミングは、次のようなときです。
-1. プロジェクトが進行した結果プロジェクトのゴールそのものを見直したほうが良いことが分かったとき
-2. マイルストーンが予定通りに達成されなかった結果、プロジェクトのゴールを見直したほうが良いことがわかったとき
-3. その他何らかの理由でチームメンバーがプロジェクトのゴールを見直したほうがよいと考えたとき
+You should also review the goals of the project at the following times
+1. When the project has progressed to the point where it is clear that the project goal itself needs to be revised.
+2. When milestones are not achieved on time and it becomes clear that the project goal should be revised.
+3. For some other reason, a team member thinks that the project goal should be reviewed.
 
-マイルストーンやプロジェクトのゴールの見直しの実施についてもミーティングのアジェンダとなるため、事前にアジェンダの提出を行う必要があります。
+The implementation of milestone and project goal reviews is also on the meeting agenda, so you will need to submit an agenda in advance.
 
 
-##### このページと関係するTips
-- [マイルストーンマップの利用](../tips/tips2.md)
+##### Tips related to this page
+- [Using the Milestone Map](../tips/tips2.md)
 
 ---
 
