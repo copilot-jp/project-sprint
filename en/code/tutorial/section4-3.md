@@ -1,32 +1,32 @@
 ---
 layout: post
-title: "ロールを確認する"
+title: "Check the roles"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「チーミングドメイン」にあたります。
+The content of this article falls under the "teaming domain" in project sprints.
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としたプロジェクトスプリント固有の仕組みです。この仕組みを通じてプロジェクトの進捗状況の共有、プロジェクトの進め方の継続的な改善・プロジェクトのゴールに向けたマイルストーンの見直しや互いのロールの確認をすることができるようになります。
+The process is a project sprint-specific mechanism that revolves around regular meetings and agenda discussions. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and confirm each other's roles.
 
-この記事では、ロールの確認について解説します。
+In this article, we will discuss role confirmation.
 
-#### ロールの確認
-[チームメンバーを知り、ロールを設定する](../tutorial/section2-2.md)でも述べたように、チーミングの「理想の状態」には、明確な形がありません。なぜなら「ここまで達成したら理想のチームだ！」というものが決めにくいからです。そこでプロジェクトスプリントでは、「今の時点よりは良いチームの状態」を常に目指します。
+#### Checking Roles
+As mentioned in the section [on knowing team members and setting roles](../tutorial/section2-2.md), the "ideal state" of teaming does not have a clear shape. This is because it is difficult to determine "If we achieve this level, we have an ideal team! is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one".
 
-そして、ここでの「より良い」とは、チームメンバー同士の果たすべき役割=ロールについての期待値がそろっている状態のことを指します。つまりロールの確認とは、チームメンバーの持つ互いの役割についての期待値がそろってきているか、を確認するための取り組みです。
+And "better" here refers to a state where the expectations of team members regarding the roles they should play are aligned. In other words, role confirmation is an effort to check whether team members' expectations of each other's roles are coming together.
 
-ロールの確認をするべきタイミングは、次のような時です。
-1. これまで定義したロールがより詳細にブレイクダウンして考えられるようになり、細かい認識合わせができるようになったとき
-2. プロジェクトの進行により、これまで定義していないような作業が生まれ、そのロールの明確化が必要だと考えられるようになったとき
-3. これまで定義し、あるメンバーにアサインされていたロールがあるメンバーの期待に添わないとき。例えば、実際にはアサインされているメンバーが別のメンバーがロールを遂行していたり、他のメンバーがアサインされているメンバーに対する期待値が満たされていないと考えていたり、逆にアサインされている人が自分が思っている以上の期待値を感じていたりするとき
-4. その他何らかの理由でチームメンバーがロールの確認をしたほうがよいと考えたとき
+The following are some of the times when role verification should be done
+1. When the roles that have been defined can be broken down into more detail, and a detailed understanding can be established.
+2. When the project progresses to the point where tasks that have not been previously defined are created and the roles need to be clarified.
+3. When a role that was previously defined and assigned to one member does not meet the expectations of another member. For example, when a member who has been assigned to a role is actually having another member perform the role, or when another member believes that the expectations of the assigned member are not being met, or conversely, when the assigned person feels that the expectations are higher than they think they are.
+4. When a team member feels that the role should be confirmed for some other reason.
 
-ロール確認の実施についてもミーティングのアジェンダとなるため、事前にアジェンダの提出を行う必要があります。
+Since role confirmation is also an agenda item for the meeting, you will need to submit an agenda in advance.
 
 
-##### このページと関係するTips
-- [実務で使いやすいロールの設定](../tips/tips5.md)
-- [ロールシートの利用](../tips/tips6.md)
+##### Tips related to this page
+- [Setting up roles for easy use in practice](../tips/tips5.md)
+- [Using the Rolesheet](../tips/tips6.md)
 
 ---
 
