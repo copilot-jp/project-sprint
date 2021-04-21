@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "ユーザーコミュニティ"
+title: "User Community"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事では、プロジェクトスプリントのユーザーコミュニティについて紹介します。
+In this article, we will introduce the Project Sprint user community.
 
-プロジェクトスプリントは[CC BY-SA 4.0ライセンス](https://projectsprint.org/LICENCE)で提供されるオープンなメソッドです。このメソッドは、**Project Sprint Contributers** と呼ばれる有志のユーザーによって定義 / 改善を繰り返してかたちづくられています。
+Project Sprint is an open method provided under a [CC BY-SA 4.0 license](https://projectsprint.org/LICENCE). The method is shaped by a group of volunteer users called **Project Sprint Contributors**, who repeatedly define and improve the method.
 
-ユーザーはいくつかの手段を通じて、自らもContributersの一人としてProject Sprintに主体的に関わることができます。
+There are several ways for users to become proactively involved in Project Sprint as one of the contributors.
 
-詳しくは[こちら](https://github.com/copilot-jp/project-sprint)をご欄ください。
-
+For more information, please see [here](https://github.com/copilot-jp/project-sprint).
 ---
 
 ##### Project Sprint CODE
