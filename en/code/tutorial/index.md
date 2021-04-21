@@ -4,43 +4,43 @@ title: "Project Sprint CODE Tutorial"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-このドキュメント群では、プロジェクトスプリントの基本的な概念の説明と実践方法が順を追って説明されています。
+This set of documents provides a step-by-step explanation of the basic concepts and practices of project sprints.
 
-全体を通して4つの章から構成されており、上から順番に読み進めていくことで、プロジェクトスプリントを実際のプロジェクトで使うことができるようになっています。
+There are four chapters throughout, and by reading them in order from the top, you will be able to use project sprints in your actual projects.
 
-まだプロジェクトスプリントをやっていない人が学習のための最初の一歩としては使うことはもちろん、すでにプロジェクトスプリントを行っている人も、実施のための基盤がためとして読むことができます。
+It can be used as a first step for learning if you haven't done project sprints yet, and it can also be read by those who have already done project sprints as a foundation for implementation.
 
-### 目次
+### Table of Contents
 
-#### はじめに
-最初に読んでほしいプロジェクトスプリントの概要を紹介しています。
+#### Introduction
+This is an overview of Project Sprint that you should read first.
 
   - [Project Sprint 101](section1-1.md)
 
-#### 準備しよう
-プロジェクトスプリントを始めるにあたって準備しなければいけないことを記載しています。まずはここで決めた仕組みをもとにして、プロジェクトスプリントがスタートします。
+#### Let's Get Ready
+This section describes what you need to do to prepare for starting a Project Sprint. The first step is to start the project sprint based on the structure you have decided here.
 
-- [プロジェクトのゴールとマイルストーンを設定する](section2-1.md)
-- [チームメンバーを知り、ロールを設定する](section2-2.md)
-- [ミーティングを設計する](section2-3.md)
+- [Set the goals and milestones for the project](section2-1.md)
+- [Know your team members and set their roles](section2-2.md)
+- [Design the meeting](section2-3.md)
 
-#### やってみよう
-プロジェクトスプリントによって実際にプロジェクトを運営していく方法を記載してみます。「準備しよう」でつくった仕組みを動かしていきましょう。
+#### Let's do it!
+Let's try to describe how to actually manage the project through the project sprint. Let's put the system we created in "Let's Prepare" into action.
 
-- [ミーティングの準備をする](section3-1.md)
-- [ミーティングを開催する](section3-2.md)
+- [Prepare for the meeting](section3-1.md)
+- [Hold a meeting](section3-2.md)
 
-#### 改善しよう
-プロジェクトスプリントは、プロジェクト運営をよりよくしていく仕組みも併せ持っているメソッドです。「やってみよう」で行ったことをもとに、どんどんプロジェクトを改善していきましょう。
+#### Let's improve it
+Project Sprint is a method that also has a mechanism to improve the project management. Let's continue to improve the project based on what we have done in "Let's try".
 
-- [振り返りを行う](section4-1.md)
-- [プロジェクトのゴールとマイルストーンを見直す](section4-2.md)
-- [ロールを確認する](section4-3.md)
+- [Reflection](section4-1.md)
+- [Reviewing the goals and milestones of the project](section4-2.md)
+- [Confirming the roles](section4-3.md)
 
-#### さらに学びたい人へ
-プロジェクトスプリントを学習し、自らもメソッドづくりに貢献するためのユーザーコミュニティについて記載しています。
+#### For those who want to learn more
+This section describes the user community for learning Project Sprint and contributing to method creation yourself.
 
-- [ユーザーコミュニティ](section5-1.md)
+- [User Community](section5-1.md)
 
 ---
 
