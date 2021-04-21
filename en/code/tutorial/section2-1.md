@@ -1,74 +1,75 @@
 ---
 layout: post
-title: "プロジェクトのゴールとマイルストーンを設定する"
+title: "Setting goals and milestones for the project"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「プログレスドメイン」にあたります。
+The content of this article is the "progress domain" in project sprints.
 
-プログレスドメインの「理想の状態」とは、プロジェクトのゴールが達成されている状態です。そのため、まずは将来達成したいプロジェクトのゴールを定義します。そして、そのために必要な成果物と、成果物をつくっていくための道のり（これを、マイルストーンと呼びます）を設定します。
+The "ideal state" of the progress domain is the state in which the goals of the project have been achieved. Therefore, the first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve the goal and the path to create the deliverables (called milestones).
 
-#### プロジェクトのゴールの設定
+#### Defining the project goal
 
-まず、あなたが取り組んでいるプロジェクトは、何を目指しているのでしょうか？新規事業のコンセプトを開発して、新しい価値を創出することでしょうか。それとも、システムの効率化など、決まった価値を実現するために取り組むことでしょうか。いずれにせよ、プロジェクトで目指すこと = プロジェクトのゴール を明確にしましょう。
+First, what is the goal of the project you are working on? Is it to develop a new business concept and create new value? Or are you working to achieve a set value, such as improving the efficiency of a system? Either way, make sure you have a clear goal for your project.
 
-ゴールは、理想的には、チームメンバー全員で話し合いながら作っていくことが望ましいものです。
+Ideally, the goal should be created through discussion among all team members.
 
-ただし実際には、最初は全員で発散的に意見を出し合ったのち、誰かがその内容を取りまとめて明文化されたかたちにする、という流れをたどることが多いものです。
+In practice, however, it is often the case that all the team members first exchange divergent opinions, and then someone else summarizes the contents and puts them into an explicit form.
 
-このとき、かたちにする作業は、
+In this case, the process of formulating is as follows
 
-- プロジェクトの背景（関連する事業計画など）
-- プロジェクトで取り組む事業に関する予備知識
-- 予算や期限といった制約事項
+- Background of the project (relevant business plans, etc.)
+- Preliminary knowledge of the project to be undertaken
+- Constraints such as budget and deadline
 
-といった、プロジェクトを取り巻く基本的な情報について理解が深い人がおこなうと、スムーズでしょう。
+It will be smoother if a person who has a deep understanding of the basic information surrounding the project.
 
-その後、それがチームメンバー全員に明文化されたかたちで共有・推敲され、最終的には全員が納得している状態になるまで議論されなければいけません。
+This information should then be shared and elaborated upon by all team members in a clear form, and discussed until everyone is satisfied with the final result.
 
-ゴールは、後述するマイルストーンをつくることができる程度に具体的なものである必要があります。つまり、明文化されたゴールをもとに、具体的な成果物とそれに紐づく期限を分解してイメージできる程度に具体的にしなければいけません。
+The goal should be specific enough to allow for the creation of milestones as described below. In other words, it must be specific enough that you can break down and visualize the specific deliverables and deadlines associated with them based on the stated goal.
 
-ゴールを作れないときは、「ゴールをつくること」そのものをゴールとする事前プロジェクトを立ち上げ、集中的に検討することがあります。このときは、プロジェクトを取り巻く基本情報（プロジェクトの背景・事業に関する予備知識・制約事項）の収集をマイルストーンとし、ゴールを明文化することを目指します。明文化されたゴールをもとに、本来のプロジェクトのマイルストーンを設定します。
+If you are unable to create a goal, you may set up a preliminary project in which the goal itself is to create a goal and intensively study it. In this case, the milestone is to gather basic information surrounding the project (background of the project, prior knowledge about the project, and constraints), with the goal of making the goal explicit. Based on the clarified goal, set the original project milestones.
 
-#### マイルストーンの設定
-マイルストーンとは、プロジェクトにおける特定の地点について、具体的な成果物とそれに紐づく期限をセットにして記述したもののことです。マイルストーンはプロジェクトのゴールから逆算して必要な分だけ設定するものであり、複数あることがほとんどです。
+#### Setting Milestones
+A milestone is a description of a specific point in a project with a set of concrete deliverables and a deadline associated with it. Milestones are set as many times as necessary, counting backward from the goal of the project, and most often there are multiple milestones.
 
-マイルストーンを参照することで、現在の地点からチームが何をするべきか、またその後何を目指していくべきかを見通すことができます。
+By referring to the milestones, the team can see what they need to do from the current point and what they should aim for afterwards.
 
-マイルストーンもゴール同様、チームメンバー全員で話し合いながら作っていくことが望ましいものです。
+Milestones, like goals, should be discussed and created by all team members.
 
-ただしこれも、実際には、最初は全員で発散的に意見を出し合ったのち、誰かがその内容を取りまとめて明文化されたかたちにする、という流れをたどることが多いものです。もちろん、最終的には最終的には全員が納得している状態になっている必要があります。そのため、全員が理解しやすいように、極力シンプルなものになるよう心掛けてください。
+In practice, however, it is often the case that all team members first express their opinions in a divergent manner, and then someone else summarizes the contents and puts them into an explicit form. Of course, in the end, everyone needs to be satisfied with the final result. Therefore, try to keep it as simple as possible so that everyone can easily understand it.
 
-マイルストーンの粒度や抽象度は、ゴールとの距離感によってばらつきが出てもかまいません。また、それらはプロジェクトによって異なります。ただし、マイルストーンを見たチームメンバーが、それぞれ自分で意思決定をして行動できる程度のものである必要があります。そのマイルストーンに直接関わっているメンバーが理解できることはもちろん、同じプロジェクトに複数のチームが存在する場合は、他のチームメンバーが見てそれぞれのチームメンバーの行動を意思決定できるようにしてください。
+The level of granularity and abstraction of the milestones may vary depending on the distance from the goal. They will also vary from project to project. However, the milestones should be such that each team member who sees them can make decisions and take actions on their own. The milestones should be understandable to the team members directly involved in the milestone, and if there are multiple teams on the same project, the milestones should be viewable by other team members so that they can make decisions about the actions of each team member.
 
-また、プロジェクトによっては複数のマイルストーンが複線的に設定されている場合があります(これを、「トラック」と呼びます。トラックの定義については[Tips1を参照してください](../tips/tips1.md))。このような場合、マイルストーン同士の依存関係・影響関係を判断できるようにできるような粒度・抽象度が必要です。
+Also, some projects may have multiple milestones that are set in a multi-line fashion (this is called a "track", which is the same as a "track" for the definition of a track)[See Tip 1](../tips/tips1.md). In such cases, we need a granularity and abstraction level that allows us to determine the dependencies and influences among milestones.
 
-具体的には、あるトラックのマイルストーンの達成のために、別のトラックのマイルストーンを調整したり、他のチームメンバーが「このマイルストーン達成のためにはこのようなアウトプットを提供してあげたほうがいいな」と自発的に提案できるような記述になるように心がけましょう。
+Specifically, the description should be written in such a way that it is possible to adjust milestones in one track in order to achieve milestones in another track, or that other team members can spontaneously suggest, "I should provide this kind of output in order to achieve this milestone. In addition, you should be able to describe the project's goals and objectives to stakeholders outside the project.
 
-また、プロジェクト外のステークホルダー（例えば、プロジェクトの結果を報告するべき人や、プロジェクトの結果を受けて業務に影響が出る人）に対して、何を成果物としてつくろうとしているのか客観的にわかりやすいかどうか、も適切なマイルストーン設定のための一つの判断基準になるでしょう。
+Another criterion for setting appropriate milestones is whether or not it is objectively easy for stakeholders outside the project (e.g., people who need to be informed of the results of the project or people whose work will be affected by the results of the project) to understand what you are trying to achieve. This is one of the criteria for setting appropriate milestones.
 
-なお、通常、直近のマイルストーンは期日・成果物ともに具体的なものになり、ゴールに近いものほど抽象的で大まかな記載になります。
+Usually, the most recent milestones are more specific in terms of both due date and deliverables, while those closer to the goal are more abstract and rough.
 
-マイルストーンが作れないときは、ゴールを見直してください。前述のように、ゴールにはマイルストーンがかける程度の具体性がある必要があります。
+If you are unable to create milestones, review your goals. As mentioned earlier, the goal needs to be specific enough to allow for milestones.
 
-##### ゴールとマイルストーンの関係
-![ゴールとマイルストーンの関係](/ja/images/goal-milestone.png)
-([Project Sprint CODE Essentials](../../code/essentials.md)より引用）
+##### Relationship between Goals and Milestones
+![Relationship between Goals and Milestones](/ja/images/goal-milestone.png)
+(cited from [Project Sprint CODE Essentials](../../code/essentials.md)）
 
-#### 設定したゴールとマイルストーンの扱い
-設定したゴールとマイルストーンは、いつでもチームメンバーが参照できる状態にしておきます。
+#### Handling of set goals and milestones
+The goals and milestones you set should be available to team members at all times.
 
-こうすることで、チームメンバーがプロジェクト中にタスクを行う際 / メンバー間で議論を行う際に、マイルストーンやその先のプロジェクトのゴールとずれていないか、すぐに確認することができるようになります。
+This way, when team members perform a task during the project or discuss it among themselves, they can immediately check whether the milestone or the goal of the project beyond the milestone has been met.
 
-また、マイルストーンやゴールは状況に合わせて変えてもよいものだと意識してください。プロジェクトを取り巻く環境の変化や実際にタスクをこなしていくなかでわかってきたことを踏まえて、マイルストーンやゴールはプロジェクト中にいつでも変更が可能です。
+Also, be aware that milestones and goals can be changed according to the situation. Milestones and goals can be changed at any time during the project, based on changes in the environment surrounding the project and what you learn as you actually complete the tasks.
 
-実際の変更の流れは[プロジェクトのゴールとマイルストーンを見直す](../tutorial/section4-2.md)で解説します。
+The actual process of changing them is explained [in Reviewing Project Goals and Milestones](../tutorial/section4-2.md).
 
-##### このページと関係するTips
-- [プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)](../tips/tips1.md)
-- [マイルストーンマップの利用](../tips/tips2.md)
-- [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）](../tips/tips3.md)
-- [プロジェクトの環境整備](../tips/tips4.md)
+
+##### Tips related to this page
+- [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1.md)
+- [Using the Milestone Map](../tips/tips2.md)
+- [What kinds of things are produced in a project (outputs/artifacts)](../tips/tips3.md)
+- [Preparing the project environment](../tips/tips4.md)
 
 ---
 
