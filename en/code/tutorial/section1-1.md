@@ -4,33 +4,33 @@ title: "Project Sprint 101"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事では、プロジェクトスプリントの概要を説明し、「準備しよう」「やってみよう」「改善しよう」における個別のドキュメントの内容を理解しやすくします。
+This article provides an overview of project sprints and helps you understand the content of individual documents in "Let's Get Ready," "Let's Try," and "Let's Improve.
 
-プロジェクトスプリントとは、多様性のあるメンバーが、不確実性の高い環境や状況でも複雑なアウトプットを可能にするための「プロジェクト推進メソッド」です。
+A project sprint is a "project promotion method" that enables diverse members to produce complex outputs in uncertain environments and situations.
 
-プロジェクトスプリントでは、プロジェクトを推進するための活動を3つに分けて考えます。
+In Project Sprint, the activities to promote a project are divided into three categories.
 
-##### プロジェクトスプリント概念図
-![プロジェクトスプリント概念図](/ja/images/essentials.png)
+##### Project Sprint Conceptual Diagram
+![Project Sprint Conceptual Diagram](/ja/images/essentials.png)
 ([Project Sprint CODE Essentials](../essentials.md)より引用）
 
-- プログレス：プロジェクトの成果物やゴールにフォーカスした活動
-- プロセス：プロジェクトを推進させるための手続きにフォーカスした活動
-- チーミング：チームメンバーの関係性にフォーカスした活動
+- Progress: Activities that focus on the deliverables and goals of the project
+- Process: Activities that focus on the procedures that drive the project forward
+- Teaming: Activities that focus on the relationships among team members
 
-プロジェクトスプリントの基本のメカニズムは「プロセスによって、プログレスとチーミングを理想の状態にする」というものです。では、プログレスとチーミングの「理想の状態」とはいったいどういうものなのでしょうか？
+The basic mechanism of Project Sprint is "to make progress and teaming ideal through process. So, what exactly is the "ideal state" of progress and teaming?
 
-プログレスの「理想の状態」とは、プロジェクトのゴールが達成されている状態です。そのため、まずは将来達成したいプロジェクトのゴールを定義します。そして、そのために必要な成果物と、成果物をつくっていくための道のり（これを、マイルストーンと呼びます）を設定し、これを辿っていきます。ただし、プロジェクトのゴールやマイルストーンは絶対のものではなく、むしろ環境の変化に応じて柔軟に変わっていくものなので、常に見直してよいものだと考えておく必要があります。
+The "ideal state" of progress is the state in which the goals of the project have been achieved. The first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve those goals and the path to create those deliverables (called milestones), and follow them. However, project goals and milestones are not absolute; rather, they change flexibly in response to changes in the environment, so it is necessary to consider that they can be constantly reviewed.
 
-一方チーミングの「理想の状態」とは、チームメンバー同士の果たすべき役割（これを、ロールと呼びます）についての期待値がそろっている状態です。言い換えると、あるチームメンバーが「あの人はこれをやってくれるだろう」と考えたとき、そのチームメンバーも「これは私がやるべきことだ」と考えている状態です。チーミングの「理想の状態」には、明確な形がありません。なぜなら「ここまで達成したら理想のチームだ！」というものが決めにくいからです。そこでプロジェクトスプリントでは、「今の時点よりは良いチームの状態」を常に目指します。
+The "ideal state" of teaming, on the other hand, is a state in which the expectations of team members regarding the roles they should play (this is called roles) are aligned. In other words, when a team member thinks, "He will do this," the team member also thinks, "This is what I should do. The "ideal state" of teaming does not have a definite form. The reason is that it is difficult to determine "If we achieve this level, we are an ideal team! is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one.
 
-プログレスとチーミングの理想の状態を実現するためのものが「プロセス」です。
+To achieve the ideal state of progress and teaming, we use "process".
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としています。
+Process is based on regular meetings and discussion of the agenda there.
 
-プロジェクトスプリントでは、ミーティングを、「チームメンバー全員が空間や時間を共有し、素早く効率的な認識合わせと、全員が納得した意思決定をする場」として、またアジェンダを「プロジェクトにおけるチームメンバーの活動を、他のメンバーと共有・認識してもらうために明文化されたもの」として位置付けています。
+In Project Sprint, meetings are used as "a place where all team members can share space and time to quickly and efficiently make decisions that everyone agrees on," and agendas are used as "a way to share and recognize the activities of team members in a project with other team members. In addition, the agenda is positioned as "something that is clearly stated so that the activities of team members in the project can be shared and recognized by other team members.
 
-これらを通じてプロジェクトの進捗状況の共有・プロジェクトの進め方の継続的な改善・プロジェクトのゴールに向けたマイルストーンの見直しや互いのロールの確認をすることができるようになります。
+Through these meetings, we can share the progress of the project, continuously improve the way the project is carried out, review milestones toward the project goal, and confirm each other's roles.
 
 ---
 
