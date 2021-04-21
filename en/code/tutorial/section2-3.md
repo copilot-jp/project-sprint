@@ -1,33 +1,33 @@
 ---
 layout: post
-title: "ミーティングを設計する"
+title: "Designing a meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「プロセスドメイン」にあたります。
+The content of this article falls under the "Process Domain" in Project Sprints.
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としたプロジェクトスプリント固有の仕組みです。これによって、プログレスドメイン・チーミングドメイン双方における「理想の状態」を達成することができるようになります。
+Process is a project sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will enable us to achieve the "ideal state" in both the progress and teaming domains.
 
-ここでは、プロセスを回すための出発点となるミーティングの設計について記述します。
+In this section, we describe the design of the meeting, which is the starting point for the process.
 
-#### ミーティングの設計
-プロジェクトスプリントでは「ミーティング」を、「チームメンバー全員が空間や時間を共有し、素早く効率的な認識合わせと、全員が納得した意思決定をする場」として位置づけています。これを実現するために、ミーティングを適切にデザインし、プロジェクトメンバーで合意しましょう。
+#### Meeting Design
+In Project Sprint, we regard a meeting as a place where all team members can share space and time, quickly and efficiently recognize each other, and make decisions that everyone agrees on. To achieve this, design the meeting appropriately and agree on it with the project members.
 
-まず、ミーティングは定例ミーティングである必要があります。この理由について、詳しくは[Tips12]((../tips/tips1.md))を参照してください。
+First, the meeting needs to be a regular meeting. For more information on why this is so, see [Tip 12]((../tips/tips1.md)).
 
-ミーティングの開催頻度は、週次/月次/隔週など、プロジェクトの性質やチームメンバーの人数などを勘案して任意に決めてください。ただし、プロジェクトスプリントがプロジェクト推進メソッドであることを考えると、隔月以上の間隔でのミーティング開催は考えにくいでしょう。
+The frequency of meetings can be weekly, monthly, bi-weekly, etc., depending on the nature of the project and the number of team members. However, considering that the project sprint is a project promotion method, it is unlikely that meetings will be held more than every other month.
 
-なお、各ミーティングの参加者はアジェンダに応じて必要十分な程度でかまいません。ここでいう必要十分とは、アジェンダに関して網羅的に議論でき（＝「誰かがいないから今日はこの話ができないね」ということがないようにする）、また議論をもとに正式な意思決定ができること（＝「誰かがいないから今日はこの話は決まらないね」ということがないようにする）を意味しています。もし参加人数が大人数(10人を一つの目安としてください）になっている場合は、必要以上の人数を集めていないか、確認してください。そうした会議はアジェンダの議論と意思決定ではなく、単なる情報共有を目的としている会議になっている可能性があります。
+The number of participants in each meeting can be as large as necessary to meet the agenda. Necessary and sufficient here means that the agenda can be discussed comprehensively (i.e., no one can talk about it today because no one is present) and that formal decisions can be made based on the discussion (i.e., no one can decide about it today because no one is present). If the number of participants is too large (i.e., the number of participants is not large enough), the meeting will be cancelled. If you have a large group (10 people is a good rule of thumb), make sure you are not bringing in more people than you need. Such a meeting may be for the mere purpose of information sharing, not agenda discussion and decision making.
 
-とはいえ、ミーティングにおけるアジェンダは常に一定とは限りませんから、最初にミーティングを設計する際には、あらかじめチームメンバー全員が集まることのできるミーティングを設定したほうが良い場合も多いでしょう。そうすることで、チームメンバー個々人の中にとどまっている情報を一斉に共有することができ、各メンバーはこのプロセスに参加するだけでプロジェクトの状況や思っていることについて自然と認識を合わせることができるようになります。
+However, since the agenda of a meeting is not always consistent, it is often better to set up a meeting where all team members can meet in advance when you first design the meeting. This way, the information that remains within each team member can be shared at the same time, and each team member can naturally come to the same understanding of the project's status and thoughts simply by participating in the process.
 
-さらに、ミーティング環境を前述の参加者が漏れなく参加でき、かつ、情報をリアルタイムに共有できる環境を整備するようにしてください。これは、前述の素早く効率的な認識合わせを実現するために重要なポイントとなります。具体的には、場所を問わず参加できるリモートミーティング環境の準備、その場で決まったことを共有できるドキュメントシェアサービスの利用、などを行うことになるでしょう。
+In addition, make sure that the meeting environment is conducive to the aforementioned participants and that information is shared in real time. This is an important point in order to achieve the quick and efficient recognition mentioned above. Specifically, prepare a remote meeting environment where people can participate regardless of their location, and use a document sharing service to share what has been decided on the spot.
 
 
-##### このページと関係するTips
-- [プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)](../tips/tips1.md)
-- [ミーティング環境についてのノウハウ](../tips/tips7.md)
-- [プロジェクトの環境整備](../tips/tips4.md)
+##### Tips related to this page
+- [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1.md)
+- [Know-how about the meeting environment](../tips/tips7.md)
+- [Developing a project environment](../tips/tips4.md)
 
 ---
 
