@@ -135,7 +135,7 @@ These are also agendas in themselves. Therefore, it is necessary for the facilit
 
 Through the discussion of the agenda discussed in this meeting, there should be some tasks that the team members should do. Based on the recorder's record, check and list the tasks that were created. Be sure to clearly identify the specific action, person in charge, and deadline for the listed tasks.
 
-##### 次回以降のミーティングアジェンダの確認
+##### Confirmation of the agenda for the next and subsequent meetings
 
 Although the actual agenda for the meeting is not finalized until the day of the meeting, at the end of each meeting, discuss the agenda to be discussed at the next meeting. Such an agenda could include, for example, the following
 
