@@ -1,45 +1,44 @@
 ---
 layout: post
-title: "ミーティングの準備をする"
+title: "Prepare for the meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「プロセスドメイン」にあたります。
+The content of this article falls under the "process domain" in project sprints.
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としたプロジェクトスプリント固有の仕組みです。これによって、プログレスドメイン・チーミングドメイン双方における「理想の状態」を達成することができるようになります。
+Process is a project sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.
 
-ミーティングの準備/ミーティングの開催の二つの時間軸に分けて解説します。この記事は、ミーティングの準備について記載されています。
+This article is divided into two time frames: meeting preparation/meeting holding. This article is about preparing for a meeting.
 
-#### ミーティングロールの確認
-まず、ミーティングを効率的・効果的に運営するための役割（ミーティングロール）を個々人に割り当てましょう。
+#### Identifying Meeting Roles
+First, assign each person a role (meeting role) to ensure that the meeting is run efficiently and effectively.  
 
-具体的には、次のようなロールを割り当てる必要があります。
+Specifically, the following roles need to be assigned
 
-- ファシリテーター：アジェンダの管理(アジェンダの合意から、その後のアジェンダ進行とタイムキープ、ミーティング終了時の次回のアジェンダの決定)および議論の促進と成果の質の向上(アジェンダの改善、その後の議論形成のサポート)をするロール。前者をモデレーター、後者をアクセラレーターとして区別して別々のロールとして割り当てることもある。
-- コーディネーター：ミーティング環境をつくるロール。適切なミーティングルームの確保（オンラインの場合はミーティング環境の設定）、ホワイトボードやモニターの手配をする。
-- レコーダー：議事録をつくるロール。ミーティング後に議事録を共有するだけではなく、ミーティング中にも作成中の議事録を公開し、メンバー間の認識のずれを即座に修正することができるようにする。
+- Facilitator: A role that manages the agenda (from agreeing on the agenda, to subsequent agenda progression and time keeping, to deciding on the next agenda at the end of the meeting) and facilitates discussion and improves the quality of the outcome (improving the agenda and supporting subsequent discussion formation). The former may be distinguished as moderator and the latter as accelerator and assigned as separate roles.
+- Coordinator: A role that creates the meeting environment. The coordinator is responsible for securing an appropriate meeting room (or setting up the meeting environment if the meeting is online) and arranging whiteboards and monitors.
+- Recorder: A role that takes minutes. Not only share the minutes after the meeting, but also publish the minutes in progress during the meeting so that any gaps in perceptions can be corrected immediately.
 
-チームメンバーの人数によって、一人が複数の役割を担当することもありますし、なんの役割を持たないメンバーが現れることもあります。ただし、いずれのロールも誰かが担うようにしてください。また、いずれも属人性が低いもののため、固定ではなく、ミーティングごとに持ち回りにすることが望ましいものです。これにより、ミーティング運営に関する問題点や最適な方法について、参加者全員が自分から考えやすくなります。
+Depending on the number of team members, one person may be in charge of multiple roles, or a member may appear who has no role whatsoever. However, make sure that someone takes on all of the roles. It is also desirable that each role be rotated from meeting to meeting, rather than fixed, since they are all less personal. This will make it easier for all participants to come up with their own ideas about problems and best ways to run the meeting.
 
-これらはミーティングのたびに都度話し合い決定してもかまいませんが、あらかじめミーティング前に役割分担や持ち回りのルールを決めておくと、当日のミーティング運営が効率的になります。
+You can discuss and decide on these issues each time you hold a meeting, but if you decide on the roles and rotation rules before the meeting, you will be able to run the meeting more efficiently on the day of the meeting.
 
-#### アジェンダの提出
-毎回のミーティングが始まる前には、あらかじめ各チームメンバーがアジェンダを提出します。アジェンダには、少なくとも次のような内容が含まれている必要があります。
+#### Submitting the agenda
+Before the start of each meeting, each team member should submit an agenda in advance. The agenda should include at least the following information
 
-- アジェンダ名
-- 進行方法（具体的な議論の進行イメージ）
-- 目的や背景（そのアジェンダを議論したい理由）
-- 誰から誰への議論か（誰がそのアジェンダについてのオーナーであり、誰と議論したいのか）
-- 時間
+- Agenda name
+- Method of proceeding (specific image of how the discussion will proceed)
+- Purpose and background (why you want to discuss the agenda)
+- From whom the discussion is to be held (who owns the agenda and with whom you want to discuss it)
+- Time
 
-
-##### このページと関係するTips
-- [実務で使いやすいロールの設定](../tips/tips5.md)
-- [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）](../tips/tips3.md)
-- [ミーティング環境についてのノウハウ](../tips/tips7.md)
-- [プロジェクトの環境整備](../tips/tips4.md)
-- [アジェンダに含まれているとよい全要素](../tips/tips8.md)
-- [アジェンダの目的](../tips/tips14)
+##### Tips related to this page
+- [Setting up roles that are easy to use in practice](../tips/tips5.md)
+- [What kinds of things are produced in a project (outputs/products)](../tips/tips3.md)
+- [Know-how about the meeting environment](../tips/tips7.md)
+- [Creating a project environment](../tips/tips4.md)
+- [All elements that should be included in an agenda](../tips/tips8.md)
+- [The purpose of the agenda](../tips/tips14)
 
 ---
 
