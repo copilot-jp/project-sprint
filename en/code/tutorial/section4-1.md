@@ -1,40 +1,40 @@
 ---
 layout: post
-title: "振り返りを行う"
+title: "Conducting a Reflection"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「プロセスドメイン」にあたります。
+The content of this article falls under the "process domain" in project sprints.
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としたプロジェクトスプリント固有の仕組みです。この仕組みを通じてプロジェクトの進捗状況の共有、プロジェクトの進め方の継続的な改善・プロジェクトのゴールに向けたマイルストーンの見直しや互いのロールの確認をすることができるようになります。
+Process is a project sprint-specific mechanism based on regular meetings and discussion of the agenda at those meetings. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and confirm each other's roles.
 
-この記事では、プロジェクトの進め方の継続的な改善を可能にする方法の一つである、振り返りについて解説します。
+In this article, I would like to explain about looking back, which is one of the ways to enable continuous improvement of the project process.
 
-#### 振り返り
-プロジェクトスプリントではミーティングを通じて継続的にプロジェクトの進め方を改善すること（最適化）を目指しています。これらの最適化のため取り組みを総称して「継続的改善アプローチ」と呼んでおり、これはさらに「テンショントリアージ」と「振り返り」という二つの取り組みに分けられます。
+#### Reflection
+In Project Sprint, we aim to continuously improve (optimize) the way we work on the project through meetings. These optimization efforts are collectively referred to as the "continuous improvement approach," which can be further divided into two types of efforts: "tension triage" and "look back.
 
-テンショントリアージが[ミーティングを開催する](../tutorial/section3-2.md)でも解説したような毎回のミーティングで行う取り組みであり、主にチームメンバーの今の気持ちにフォーカスしているものであるのに対して、振り返りはチームメンバーが過去のプロジェクトの内容についてレビューするものになります。
+Tension triage is an approach that is conducted at each meeting, as described in the section [on holding meetings](../tutorial/section3-2.md), and mainly focuses on the current feelings of team members.
 
-そのため、振り返りはテンショントリアージと違い、ある程度まとまった期間をおいて実施するものであり、またその分必要な時間もテンショントリアージよりも長くなります。
+Therefore, unlike the tension triage, the look-back takes a certain amount of time to complete and requires more time than the tension triage.
 
-この「まとまった期間」には、次の二つの種類のものがあり、いずれも併用して実施しましょう。なお、二つのタイミングが揃う場合は、あわせて実施してもかまいません。
+This "period of time" can be divided into the following two types, both of which should be used in conjunction with each other. If the two timings coincide, they can be implemented together.
 
-##### マイルストーン終了時
-マイルストーン終了という一つの区切りをタイミングとして設定するものです。このタイミングは、ゴールに対してどれくらい進んだか、を振り返るのに適しています。また、当初予定していた進め方とのズレを振り返り、次のマイルストーン達成に向けて最適なキックオフを実施できるように準備することができます。
+##### At the end of a milestone
+The timing is set at the end of a milestone. This timing is suitable for reviewing how much progress has been made toward the goal. It also allows you to look back at any deviations from the original plan and prepare for the optimal kickoff to achieve the next milestone.
 
-##### 定期的なタイミング
-「何週間おき」「何か月おき」といったような定期的な時間で設定するものです。これは、プロジェクトは不確実でどのような状態になるか予期できないものであるため、とにかく時間で区切って振り返りを行うという取り組みです。たとえば、マイルストーンがいつまでも達成できないという状況がある場合には、強制的に最適化のタイミングが訪れることで問題解決のきっかけになります。
+##### Periodic timing
+This is set at a regular time, such as "every few weeks" or "every few months. Since projects are uncertain and unpredictable, this is an approach that allows you to look back at the project at regular intervals. For example, if there is a situation where a milestone cannot be achieved for any length of time, the timing of the forced optimization can be a trigger to solve the problem.
 
-いずれの場合でも、テンショントリアージ同様、振り返りの際にも、プログレスドメイン・チーミングドメインにおける理想の状態（＝プロジェクトのゴール・マイルストーンとチームのロール）の変遷を参照できるようにしておくと「あのときこうすればよかった」「今後はこうすればよいのではないか」といった気づきを得やすくすることができます。
+In any case, as in the case of tension triage, it is important to be able to refer to the transition of the ideal state (i.e., project goals, milestones, and team roles) in the progress domain and teaming domain when looking back, so that you can see what you should have done then and what you should do in the future. In this way, it is easier to gain insights such as "What should we have done then?
 
-振り返りで取り扱う内容は、特にドメインを限定しません。つまり、具体的なプロジェクトゴールの進捗に向けた取り組み（プログレス）に関することであっても、チームの役割分担（チーミング）に関することであっても、ミーティングの進行（プロセス）に関することであっても、取り扱うことができます。
+The content of the review is not limited to any particular domain. In other words, it can be about progress toward specific project goals, about teaming, or about the process of the meeting.
 
-振り返りの実施についてもミーティングのアジェンダとなるため、事前にアジェンダの提出を行う必要があります。
+Conducting a review is also a part of the meeting agenda, so you will need to submit an agenda in advance.
 
 
-##### このページと関係するTips
-- [代表的な振り返りの手法](../tips/tips9.md)
-- [実務で使いやすいロールの設定](../tips/tips5.md)
+##### Tips related to this page
+- [Typical Reflection Techniques (tip9)](../tips/tips9.md)
+- [Setting up roles that are easy to use in practice (tip5)](../tips/tips5.md)
 
 ---
 
