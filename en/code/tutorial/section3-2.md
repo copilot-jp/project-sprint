@@ -1,155 +1,155 @@
 ---
 layout: post
-title: "ミーティングを開催する"
+title: "Holding a meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「プロセスドメイン」にあたります。
+The content of this article falls under the "process domain" in project sprints.
 
-プロセスは定期開催のミーティングとそこでのアジェンダの議論を軸としたプロジェクトスプリント固有の仕組みです。これによって、プログレスドメイン・チーミングドメイン双方における「理想の状態」を達成することができるようになります。
+Process is a project sprint-specific mechanism that revolves around regular meetings and discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.
 
-ミーティングの準備/ミーティングの開催の二つの時間軸に分けて解説します。この記事は、ミーティングの準備について記載されています。
+This article is divided into two time frames: meeting preparation/meeting holding. This article is about preparing for a meeting.
 
-#### ミーティングの「型」
-この記事では、プロジェクトスプリントで行われるミーティングの基本となる進行方法を説明していきます。おおまかな構成としては次のようになっているので、これをまずはじめに頭に入れておくと、それぞれの内容を理解しやすいでしょう。
+#### The "Type" of a Meeting
+This article describes the basic progression of a meeting in a project sprint. The general structure of the meeting is as follows, and it will be easier to understand the contents of each meeting if you have this in mind first.
 
-- 序盤：タスクの進捗報告、テンショントリアージ、アジェンダトリアージ
-- 中盤：個別のアジェンダ進行
-- 終盤：今回のミーティングから生まれたタスクの確認と、次回以降のミーティングアジェンダの確認
+- Early stage: Task progress report, tension triage, agenda triage
+- Middle: Individual agenda progression
+- End: Confirmation of tasks that came out of this meeting, and confirmation of the agenda for the next meeting
 
-さらに、特にミーティングの序盤と終盤は定型化しやすく、時間がたつにつれ、具体的な方法論や必要な時間、細かい順番が定まってきます。チームにとって最適なミーティングの「型」を見つけましょう。
+In addition, the beginning and end of the meeting are particularly easy to formulate, and as time goes on, the specific methodology, time requirements, and order of details will become more defined. Find the "pattern" of the meeting that works best for your team.
 
-#### タスクの進捗報告とテンショントリアージ
+#### Task Progress Report and Tension Triage
 
-ミーティングの最初に、タスクの進捗報告とテンショントリアージを行ってください。これらを通じて、前回のミーティングから今回のミーティングまでに起こったことについて、チームメンバー同士でアップデートを行います。議論の結果は、その日のミーティングで話すことを決める材料になります。
+At the beginning of the meeting, do a task progress report and a tension triage. Through these, team members can update each other on what has happened between the last meeting and the current meeting. The results of the discussion will help you decide what to talk about at the meeting that day.
 
-なお、タスクの進捗報告とテンショントリアージはそれ自体がアジェンダです。したがって、後述するアジェンダトリアージの前に実施されるものではありますが、ファシリテーター（モデレーター）がこれらのアジェンダの進行についても管理する必要があります。
+Note that task progress reports and tension triage are agendas in themselves. Therefore, although they are conducted before the agenda triage described below, the facilitator (moderator) needs to manage the progress of these agendas as well.
 
-##### タスクの進捗報告
+##### Task Progress Reports
 
-初回のミーティングを除けば、前回までのミーティングを経て、何かしらの各自のタスクが生まれているはずです。これらのタスクの進捗状況を確認しましょう。
+With the exception of the first meeting, each person should have created some tasks after the previous meetings. Check the progress of these tasks.
 
-タスクをこなした結果、アウトプットが生まれている場合には、アウトプットをもとに話し合うべきアジェンダがないか確認しましょう。
-もしアウトプットがなくても、進捗が思うように進まないことについての相談があったりする場合があります。このような場合も、これを解決するためにアジェンダとしてミーティング内で議論する必要がないか、確認しましょう。
+If the tasks have resulted in outputs, check to see if there is an agenda to be discussed based on the outputs. Even if there is no output, there may be a discussion about progress not being as fast as expected. If there is no output, but there is a discussion about the lack of progress, make sure there is no need to discuss this in the meeting as an agenda.
 
-なお、すでにあらかじめアジェンダとして提出されていた場合は、ここでさらに追加する必要はありません。
+If it has already been submitted as an agenda, there is no need to add it here.
 
-##### テンショントリアージ
+##### Tension Triage
 
-テンションとは、「プロジェクトを過ごす中で他のメンバーに伝えたい違和感」のことです。具体的には、メンバー一人一人が思う「こうしたらもっとより良くなるのに」という現状とよりよい状態の間のギャップ、ちょっとしたアイデア・気になること・不安などのことを指します。またトリアージとは、選別と優先順位づけをする行為のことを指します。
+Tension is "the feeling of discomfort you want to convey to other members as you spend time on the project. Specifically, it refers to the gap between the current state and the better state, the little ideas, concerns, and anxieties that each member thinks could be made better. Triage refers to the act of sorting and prioritizing.
 
-すなわちテンショントリアージとは、各メンバーが感じている違和感を全員で共有したうえで、いまチームを改善するために必要なものを優先的に選び、解決しようとすることです。
+In other words, tension triage is the act of sharing the sense of discomfort felt by each member with everyone, and then prioritizing and trying to resolve what is needed to improve the team.
 
-前述のようにテンションとは現状とよりよい状態のギャップから生まれるものです。そのため、テンショントリアージを行う際にプログレスドメイン・チーミングドメインにおける理想の状態（＝プロジェクトのゴール・マイルストーンとチームのロール）を参照できるようにしておくことが、テンションをあげるために効果的です。
+As mentioned earlier, tension is created by the gap between the current situation and a better state. Therefore, being able to refer to the ideal state (i.e., project goals/milestones and team roles) in the progress domain and teaming domain when conducting a tension triage is effective for increasing tension.
 
-テンショントリアージで共有した内容は、解決のためのアクションに落とすようにしてください。具体的には、直接的な改善案が明確な場合、テンションを解決するための新たなタスクとしてください。また、直接的に改善策が明確でない場合や、時間をとった議論が必要な時は、新たなアジェンダとし、改善策を探すようにしてください。
+The content shared in the tension triage should be dropped into actions for resolution. Specifically, if a direct improvement plan is clear, make it a new task to resolve the tension. If there is no clear direct remedy, or if you need to spend more time discussing the issue, make it a new agenda item to find a remedy.
 
-なお、すでにあらかじめタスクとしてリストアップされていたり、アジェンダとして提出されていた場合は、ここでさらに追加する必要はありません。
+If a task has already been listed or submitted as an agenda, there is no need to add it here.
 
-#### アジェンダトリアージ
+#### Agenda Triage
 
-続いて、アジェンダトリアージを行ってください。アジェンダトリアージにはミーティングにいるチームメンバー全員が参加します。
+The next step is to perform agenda triage. Agenda triage involves all team members present at the meeting.
 
-トリアージとは、ここでも同じく選別と優先順位づけをする行為のことを指します。すなわちアジェンダトリアージとは、その日のミーティングで話したいことを参加者全員で出し合い、優先的に話し合うべきものを選ぶことです。
+Triage refers to the act of sorting and prioritizing as well. In other words, agenda triage is a process where all participants come up with what they want to talk about in the meeting that day, and then select what should be discussed first.
 
-ファシリテーター（モデレーター）は、アジェンダトリアージを主体的に進行し、最終的な合意まで持っていくことが求められます。
+The facilitator (moderator) is expected to take the initiative in the agenda triage and bring it to a final consensus.
 
-この時点で、2種類のアジェンダが用意されているはずです。
+At this point, there should be two types of agendas available.
 
-1. ミーティング前に提出のあったアジェンダ
-2. タスクの進捗報告またはテンショントリアージの結果、新たに生まれたアジェンダ
+1. Agenda that has been submitted before the meeting
+2. Agendas that have emerged as a result of task progress reports or tension triage
 
-アジェンダトリアージは、これらのアジェンダのうち、その日のミーティングで議論すべきものと議論する順番を決める作業です。プロジェクトのマイルストーンやゴールが参照しながら、優先順位をつけていきましょう。
+Agenda triage is the process of determining which of these agendas should be discussed at the meeting that day and in what order. The milestones and goals of the project should be referenced as you prioritize them.
 
-事前に提出したアジェンダの内容のうち記述内容に不明点があるところがあれば、それに対してチームメンバーは納得できるように不明点を質問しましょう。このとき、ファシリテーター（アクセラレーター）にはこのアジェンダの改善に関する議論を活発にすることが求められます。
+If there is anything unclear in the description of the agenda submitted in advance, team members should ask questions to satisfy themselves. At this point, the facilitator (accelerator) is expected to stimulate discussion on how to improve this agenda.
 
-アジェンダの内容が明確になった結果、あらかじめ設定されていた時間だと余りそう、または逆に足りなそうである、と判明することがあります。このときは、アジェンダの時間を調整しましょう。
+As the content of the agenda becomes clearer, it may become apparent that there is too much or not enough time in the pre-set time. In this case, adjust the time for the agenda.
 
-アジェンダの内容が明確になったら、優先順位をつけましょう。マイルストーン達成のために必要なアジェンダから議論するのが基本です。直近のマイルストーンの内容と、その期限までに開催できるミーティングの回数を考慮しましょう。マイルストーンを参照した結果、個別のアジェンダの議論においてどのような結論まで持っていくべきかを調整することもあります。
+Once the content of the agenda is clear, prioritize it. The basic rule is to discuss the agenda items that are necessary to achieve the milestone. Consider the content of the most recent milestone and the number of meetings that can be held before that deadline. As a result of referring to the milestones, you may adjust the conclusions to be reached in the discussion of individual agendas.
 
-なお、チームメンバーからみて他に緊急性が高いアジェンダがあり、チームメンバーで合意をした場合には、それらのアジェンダが優先されます。
+If there are other agenda items that are more urgent from the team members' point of view, and the team members agree on them, those agenda items will be given priority.
 
-優先順位をつけた結果、当日話し合うことができないアジェンダは、次回以降のミーティングに持ち越しましょう。こうしたアジェンダがあるとき、アジェンダトリアージは、次の3つのなかから優先順位づけをすることになります。
+After prioritizing, any agenda items that cannot be discussed on the day of the meeting should be carried over to the next meeting. When you have such an agenda, agenda triage involves prioritizing it among the following three categories
 
-1. ミーティング前に提出のあったアジェンダ
-1. タスクの進捗報告またはテンショントリアージの結果、新たに生まれたアジェンダ
-1. 前週までの持ち越しアジェンダ
+1. Agenda items that have been submitted prior to the meeting
+2. New agenda items created as a result of task progress reports or tension triage
+3. Agenda items carried over from the previous week
 
-当日話し合うことになったアジェンダは、優先順位のまま議論してもかまいませんし、内容に応じて関連するテーマが続けて議論できるように順番を並べ替えることもできます。並び替えを行うメリットは、関連しあうテーマ同士を続けて議論するほうが効率的であることです。
+The agenda items that will be discussed on the day can be discussed in the order of priority, or they can be rearranged so that related topics can continue to be discussed, depending on the content. The advantage of reordering is that it is more efficient to discuss related topics in succession.
 
-#### ミーティングの進行
+#### Facilitating the Meeting
 
-##### 個別のアジェンダの消化
+##### Digesting Individual Agendas
 
-アジェンダトリアージが終われば、一つ一つのアジェンダについて議論しましょう。
+Once the agenda triage is complete, it is time to discuss each agenda item individually.
 
-一つ一つのアジェンダは、すでに記載されているアジェンダの内容に基づき、それぞれのアジェンダオーナーがメインで進行します。ファシリテーター（アクセラレーター）は議論の内容と最終的な結論がより良くなるように議論に参加しましょう。レコーダーは、議論の経緯・内容をリアルタイムに記録し、参加者が常に見ることのできる状態にしましょう。
+Each individual agenda will be facilitated mainly by the respective agenda owner based on the agenda already listed. Facilitators (accelerators) should participate in the discussion to improve the content and final conclusion of the discussion. A recorder should be used to record the process and content of the discussion in real time, so that it is always available to the participants.
 
-##### アジェンダの管理
+##### Managing the Agenda
 
-ファシリテーター（モデレーター）は、ミーティングを通してアジェンダの管理と調整を行います。ただし、以下で説明するアジェンダの管理と調整は、すべてチームメンバーと話し合いながら決めるべきものです。ここでも、直近のマイルストーン達成のためにはどのような選択が有効か、が基本的な判断基準となりますが、最終的にはチームメンバーの話し合いで出た結論が優先されます。
+The facilitator (moderator) is responsible for managing and coordinating the agenda throughout the meeting. However, all of the agenda management and coordination described below should be discussed with team members. Again, the basic criterion for decision-making is what options are most effective for achieving the most recent milestone, but ultimately the conclusions reached by the team members will take precedence.
 
-まず、それぞれのアジェンダが議論されている最中は、予定されている時間内にそのアジェンダが終わるように気を配ってください。
-ただし、議論の内容に応じて、アジェンダが予定した時間より延長してしまったり、逆に早く終わってしまうことがあります。
+First of all, while each agenda item is being discussed, be careful to finish it within the scheduled time. However, depending on the nature of the discussion, the agenda may extend beyond the scheduled time, or conversely, may end early.
 
-アジェンダが予定した時間より延長している場合、ファシリテーター（モデレーター）はそのアジェンダを次回に持ち越すようにするか、一定の結論がでるまで議論を続けるか、を検討してください。
+If the agenda extends beyond the scheduled time, the facilitator (moderator) should consider whether to carry the agenda to the next meeting or continue the discussion until a certain conclusion is reached.
 
-次回に持ち越す場合、このアジェンダは
+If carried over to the next session, this agenda should be
 
 
 {:start="3"}
-1. 前週までの持ち越しアジェンダ
+1. Agenda carried over from the previous week
 
-の一つとして扱われます。これまでの過程でアジェンダの詳細はすでに完成しているはずですが、それまでのミーティングで議論した内容もあわせて把握できるよう、レコーダーが記録した内容も一緒に確認できるようにしておきましょう。
+Agenda carried over from the previous week
+If you want to carry it over to the next meeting, this agenda will be treated as one of the The details of the agenda should have been completed by now, but you should also be able to check the recorder so that you can keep track of what has been discussed in the previous meetings.
 
-一定の結論が出るまで議論を続けるようにしたときは、他のアジェンダの時間を調整するか、場合によっては他のアジェンダを次回以降に繰り越すようにしてください。
 
-アジェンダが予定よりも早く終わってしまった場合、他のアジェンダの時間を延ばして余裕を持って議論できるようにするか、次回以降に繰り越すようにしていたアジェンダからその時のミーティング中に先に話し合うべきものがないか、検討してください。また、ミーティングが早く終わることを選択することもできます。
+If you decide to continue the discussion until a certain conclusion is reached, adjust the time for other agenda items or, in some cases, carry over other agenda items to the next meeting.
 
-また、個別のアジェンダを議論した結果、新しく話し合うべき内容、つまりアジェンダが生まれることがあります。このとき、当日の追加アジェンダとして扱うか、次回以降に持ち越すかを検討する必要があります。
+If an agenda item ends earlier than planned, consider extending the time of the other agenda items to allow more time for discussion or to see if there are any items from the agenda that were to be carried over to the next meeting that should be discussed first during that meeting. You may also choose to end the meeting early.
 
-当日の追加アジェンダとして扱うときは、以下のいずれかの対応を取ってください。
-- 他のアジェンダの時間を調整する
-- 他のアジェンダを次回以降に繰り越す
-- ミーティングの参加者全員に確認して、ミーティングの時間を延長する
+Also, discussion of individual agendas may result in new content to be discussed, or agendas. In this case, you need to consider whether to treat it as an additional agenda item for the day or carry it over to the next meeting.
 
-もしアジェンダの内容について明確な場合は当日の議論も可能ですが、そうでない場合は次回以降に持ち越すのがよいでしょう。次回以降に持ち越すときは、このアジェンダは
+If you want to treat it as an additional agenda item for the day, do one of the following
+- Adjust the time for other agenda items.
+- Carry over the other agenda items to a future meeting
+- Check with all meeting participants to extend the meeting time.
+
+If the content of the agenda is clear, it can be discussed on the day of the meeting, but if not, it is better to carry it over to the next meeting. If not, you may want to carry it over to the next meeting.
 
 {:start="1"}
-1. ミーティング前に提出のあったアジェンダ
+1. Agenda submitted before the meeting
 
-の一つとして扱われます。
+will be treated as one of the agenda items submitted before the meeting.
 
 {:start="3"}
-1. 前週までの持ち越しアジェンダ
+1. Agenda carried over from the previous week
 
-と違うのは、アジェンダの内容が明確になっていない点です。したがって、ミーティング中に生まれたアジェンダについては少なくともアジェンダオーナーを明確にした状態でミーティングを終えましょう。そして、アジェンダオーナーは次回のミーティング前に事前にその他のアジェンダの内容を明確にしておくようにしてください。
+The difference between this and the previous week's agenda is that the content of the agenda is not explicitly defined. Therefore, it is important to end the meeting with at least a clear agenda owner for any agenda that arises during the meeting. The agenda owner should then make sure to clarify the content of the other agenda items in advance before the next meeting.
 
-#### ミーティング終了時
+#### At the End of the Meeting
 
-ミーティング終了時には、今回のミーティングから生まれたタスクの確認と、次回のミーティングアジェンダの確認を行ってください。これによって、今回のミーティングの結果と、次回のミーティングまでに何をするべきかを確認することができます。これらの作業の前提として、マイルストーンの確認を実施することも効果的です。これによって、次回のミーティングまでに何をどこまでするべきか、の優先順位付けをしやすくなります。
+At the end of the meeting, review the tasks that came out of the meeting and the agenda for the next meeting. This will allow you to review the results of this meeting and what needs to be done before the next meeting. As a precondition for these tasks, it is also effective to conduct a milestone review. This will make it easier to prioritize what needs to be done and to what extent before the next meeting.
 
-なお、これらについても、それ自体がアジェンダです。したがって、ファシリテーター（モデレーター）がこれらのアジェンダについても管理する必要があります。
+These are also agendas in themselves. Therefore, it is necessary for the facilitator (moderator) to manage these agendas as well.
 
-##### 今回のミーティングから生まれたタスクの確認
+##### Confirmation of the tasks that came out of this meeting
 
-今回のミーティングで取り上げたアジェンダの議論を経て、チームメンバーがやるべきこと、つまりタスクがいくつか生まれているはずです。レコーダーの記録をもとにして、生まれたタスクを確認し、リストアップしましょう。リストアップしたタスクには、具体的な行動内容、担当者、期限を明確にするようにしてください。
+Through the discussion of the agenda discussed in this meeting, there should be some tasks that the team members should do. Based on the recorder's record, check and list the tasks that were created. Be sure to clearly identify the specific action, person in charge, and deadline for the listed tasks.
 
 ##### 次回以降のミーティングアジェンダの確認
 
-実際にミーティングで取り上げるアジェンダが確定するのはミーティングの当日ですが、毎回のミーティングの終了時に、次回以降のミーティングで話し合うべきアジェンダについて議論しておきましょう。このようなアジェンダには例えば次のようなものがあります。
+Although the actual agenda for the meeting is not finalized until the day of the meeting, at the end of each meeting, discuss the agenda to be discussed at the next meeting. Such an agenda could include, for example, the following
 
-- 次回以降に持ち越しになっているアジェンダ
-- 進捗確認など、あらかじめタイミングを決めて議論するべきとされるアジェンダ
+- Agenda items that have been carried over to the next meeting
+- Agenda items that should be discussed at a predetermined timing, such as progress confirmation.
 
-事前にチームメンバー全員で確認することで、アジェンダオーナーのアジェンダ提出漏れや、持ち越したアジェンダの内容の不備を防ぎやすくなります。
+By confirming with all team members in advance, it is easier to prevent the agenda owner from failing to submit an agenda or incomplete content in an agenda that has been carried over.
 
 
-##### このページと関係するTips
+##### Tips related to this page
 
-- [アジェンダに含まれているとよい全要素](../tips/tips8.md)
-- [テンショントリアージの進め方](../tips/tips10.md)
-- [チームが納得できて作業効率のよいタスクの設定方法](../tips/tips11.md)
+- [All elements that should be included in an agenda](../tips/tips8.md)
+- [How to proceed with tension triage](../tips/tips10.md)
+- [How to set tasks in a way that makes sense to the team and is efficient](../tips/tips11.md)
 
 ---
 
