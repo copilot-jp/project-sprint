@@ -1,34 +1,34 @@
 ---
 layout: post
-title: "チームメンバーを知り、ロールを設定する"
+title: "Knowing your team members and setting their roles"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-この記事の内容はプロジェクトスプリントにおける「チーミングドメイン」にあたります。
+The content of this article falls under the "teaming domain" in project sprints.
 
-チーミングの「理想の状態」とは、チームメンバー同士の果たすべき役割（これを、ロールと呼びます）についての期待値がそろっている状態です。言い換えると、あるチームメンバーが「あの人はこれをやってくれるだろう」と考えたとき、そのチームメンバーも「これは私がやるべきことだ」と考えている状態です。チーミングの「理想の状態」には、明確な形がありません。なぜなら「ここまで達成したら理想のチームだ！」というものが決めにくいからです。そこでプロジェクトスプリントでは、「今の時点よりは良いチームの状態」を常に目指します。
+The "ideal state" of teaming is when team members have the same expectations of each other's roles (called roles). In other words, when a team member thinks, "He will do this," that team member also thinks, "This is what I should do. The "ideal state" of teaming does not have a definite form. The reason is that it is difficult to determine "If we achieve this level, we are an ideal team! is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one.
 
-#### チームメンバーの基本情報
+#### Basic information of team members
 
-より良いチームを目指す前提となるのが、チームメンバーに関する理解です。例えば、プロジェクトにかかわるメンバーに次のことを確認しておきましょう。
+The prerequisite for a better team is to understand the team members. For example, make sure you know the following about the team members involved in the project
 
-- メンバーの名前はなんですか？普段はどのような組織や会社に所属している人ですか？
-- それぞれのメンバーは、どのような人ですか？例えばスキルセットは、どのようなものがありますか？これまでにどのような仕事にかかわってきましたか？
-- それぞれのメンバーがプロジェクトに対して貢献すると期待されていることはなんですか？
-- それぞれのメンバーは、プロジェクトに対する専任メンバーですか、兼任メンバーですか？いずれにせよ、各メンバーがプロジェクトに割ける時間はどのくらいですか？
+- What is the name of the team member? What kind of organization or company do they usually belong to?
+- What kind of person is each member? What skill sets do they have, for example? What types of work have they been involved in?
+- What is the expected contribution of each member to the project?
+- Is each member a full-time or part-time member of the project? In any case, how much time can each member devote to the project?
 
-こうしたことをプロジェクトの最初に知っておくことは、続くロールの設定における助けになります。
+Knowing these things at the beginning of the project will help you in setting up the roles that will follow.
 
-#### ロールの共有
-プロジェクトスプリントでは、チームメンバー個々人の役割のことをロールと呼びます。ロールとチームメンバーは必ずしも一対一の関係である必要はありません。つまり、一人の人が複数のロールを担うこともありますし、またあるロールを複数の人が担うこともできます。
+#### Sharing Roles
+In a project sprint, the roles of individual team members are called roles. Roles and team members do not necessarily have to have a one-to-one relationship. Roles and team members do not necessarily have to have a one-to-one relationship, i.e., one person can play multiple roles, or a role can be played by multiple people.
 
-また、定義するロールの個数には制限がありませんし、「必ず定義すべきロール」というものもありません。プロジェクトの性質に応じて、必要な役割分担をチームメンバーで議論し、ロールとして明文化しましょう。
+There is no limit to the number of roles to be defined, and there is no "must define" role. Depending on the nature of the project, discuss the necessary division of roles among team members and clearly define them as roles.
 
-##### このページと関係するTips
-- [実務で使いやすいロールの設定](../tips/tips5.md)
-- [ロールシートの利用](../tips/tips6.md)
-- [プロジェクトの環境整備](../tips/tips4.md)
-- [ロールの分類と性質](../tips/tips13.md)
+##### Tips related to this page
+- [Setting up roles that are easy to use in practice](../tips/tips5.md)
+- [Using a role sheet](../tips/tips6.md)
+- [Preparing the Project Environment](../tips/tips4.md)
+- [Classification and nature of roles](../tips/tips13.md)
 
 ---
 
