@@ -11,7 +11,7 @@ A project sprint is a "project promotion method" that enables diverse members to
 In Project Sprint, the activities to promote a project are divided into three categories.
 
 ##### Project Sprint Conceptual Diagram
-![Project Sprint Conceptual Diagram](/ja/images/essentials.png)
+![Project Sprint Conceptual Diagram](/en/images/essentials.png)
 ([Project Sprint CODE Essentials](../essentials.md)より引用）
 
 - Progress: Activities that focus on the deliverables and goals of the project
