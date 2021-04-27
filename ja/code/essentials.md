@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Sprint CODE Essentials"
+title: "Essentials"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
