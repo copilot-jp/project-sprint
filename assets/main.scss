@@ -4,11 +4,34 @@
 
 @import "minima";
 
+body {
+  font-family: sans-serif;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-.site-title {
+p {
+  line-height: 1.7em;
+  color: #444;
+}
+
+.site-nav .page-link:not(:last-child) {
+  margin-right: 20px;
+  padding-right: 20px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-color: #bbb;
+}
+
+.site-header {
+  border-top-style: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: #111;
   font-weight: 400;
 }
 
