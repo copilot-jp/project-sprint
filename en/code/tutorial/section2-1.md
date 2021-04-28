@@ -52,7 +52,7 @@ Usually, the most recent milestones are more specific in terms of both due date 
 If you are unable to create milestones, review your goals. As mentioned earlier, the goal needs to be specific enough to allow for milestones.
 
 ##### Relationship between Goals and Milestones
-![Relationship between Goals and Milestones](/ja/images/goal-milestone.png)
+![Relationship between Goals and Milestones](/en/images/goal-milestone_eng.png)
 (cited from [Project Sprint CODE Essentials](../../code/essentials.md)）
 
 #### Handling of set goals and milestones
