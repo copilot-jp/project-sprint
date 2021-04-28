@@ -9,7 +9,7 @@ Project Sprint is based on the concept of goals and milestones to organize the p
 #### Tracks - the concept when you want to have a multi-linear milestone progression for a goal
 
 ##### Track/Phase Conceptual Diagram
-![Concept Map of Track](/ja/images/track.png)
+![Concept Map of Track](/en/images/track_eng.png)
 
 When working on a project with project goals and milestones in Project Sprint, the simplest structure is
 
