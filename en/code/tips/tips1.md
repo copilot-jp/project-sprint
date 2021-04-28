@@ -19,7 +19,7 @@ When working on a project with project goals and milestones in Project Sprint, t
   - Milestone A-3 to realize Milestone A-2, Milestones A-3 In a nutshell,  
 
 
-To put it simply in chronological order, this is how the project progresses.
+To put it simply in chronological order, this is how the project progresses.  
 `Milestone A-3 -> Milestone A-2 -> Milestone A-1 -> Goal X`
 
 In reality, however, projects rarely progress in such a simple structure.
