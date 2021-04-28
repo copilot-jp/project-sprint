@@ -16,7 +16,7 @@ When working on a project with project goals and milestones in Project Sprint, t
 - Goal X
   - Milestone A-1 to realize Goal X
   - Milestone A-2 to realize Milestone A-1
-  - Milestone A-3 to realize Milestone A-2, Milestones A-3 In a nutshell,
+  - Milestone A-3 to realize Milestone A-2, Milestones A-3 In a nutshell,  
 To put it simply in chronological order,
 
 `Milestone A-3 -> Milestone A-2 -> Milestone A-1 -> Goal X`
