@@ -8,7 +8,7 @@ The content of this article is the "progress domain" in project sprints.
 
 The "ideal state" of the progress domain is the state in which the goals of the project have been achieved. Therefore, the first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve the goal and the path to create the deliverables (called milestones).
 
-#### Defining the project goal
+#### Defining the Project Goal
 
 First, what is the goal of the project you are working on? Is it to develop a new business concept and create new value? Or are you working to achieve a set value, such as improving the efficiency of a system? Either way, make sure you have a clear goal for your project.
 
@@ -55,7 +55,7 @@ If you are unable to create milestones, review your goals. As mentioned earlier,
 ![Relationship between Goals and Milestones](/en/images/goal-milestone_eng.png)
 (cited from [Project Sprint CODE Essentials](../../code/essentials.md)）
 
-#### Handling of set goals and milestones
+#### Handling of Setting Goals and Milestones
 The goals and milestones you set should be available to team members at all times.
 
 This way, when team members perform a task during the project or discuss it among themselves, they can immediately check whether the milestone or the goal of the project beyond the milestone has been met.

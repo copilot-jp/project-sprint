@@ -4,7 +4,7 @@ title: "Prepare for the meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-The content of this article falls under the "process domain" in project sprints.
+The content of this article falls under the "process domain" in Project Sprint.
 
 Process is a project sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.
 
@@ -23,7 +23,7 @@ Depending on the number of team members, one person may be in charge of multiple
 
 You can discuss and decide on these issues each time you hold a meeting, but if you decide on the roles and rotation rules before the meeting, you will be able to run the meeting more efficiently on the day of the meeting.
 
-#### Submitting the agenda
+#### Submitting the Agenda
 Before the start of each meeting, each team member should submit an agenda in advance. The agenda should include at least the following information
 
 - Agenda name

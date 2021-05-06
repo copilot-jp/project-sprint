@@ -4,7 +4,7 @@ title: "Holding a meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-The content of this article falls under the "process domain" in project sprints.
+The content of this article falls under the "process domain" in Project Sprint.
 
 Process is a project sprint-specific mechanism that revolves around regular meetings and discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.
 

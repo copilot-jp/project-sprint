@@ -6,7 +6,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 This article provides an overview of project sprints and helps you understand the content of individual documents in "Let's Get Ready," "Let's Try," and "Let's Improve.
 
-A project sprint is a "project promotion method" that enables diverse members to produce complex outputs in uncertain environments and situations.
+A Project Sprint is a "project promotion method" that enables diverse members to produce complex outputs in uncertain environments and situations.
 
 In Project Sprint, the activities to promote a project are divided into three categories.
 
