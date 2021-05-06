@@ -18,7 +18,7 @@ In PJS, the phenomena in a project are divided into the following three **domain
 By repeating the progress, teaming activities,and processes regularly or iteratively, the progress and teaming statuses can be brought closer to the ideal state.
 
 ##### PJS concept image
-![PJS concept image](/ja/images/essentials.png)
+![PJS concept image](/en/images/essentials.png)
 
 
 ## Status
