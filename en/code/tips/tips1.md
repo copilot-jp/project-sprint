@@ -53,13 +53,11 @@ For example, suppose you have a project with the goal of "launching a new busine
 
 By executing these milestones in order from the top, the goal can be achieved. Milestones need to be tied to deliverables, which is why they are written in this way. (The research document, the new business plan, and the environment in which the business can be launched are each deliverables.
 
-However, in terms of communication in a project, it is better to be able to express what we are doing now. However, for project communication, it is more useful to be able to express what we are doing now. Each of these is called a "phase". So, in this example, we have
+However, in terms of communication in a project, it is better to be able to express what we are doing now. However, for project communication, it is more useful to be able to express what we are doing now. Each of these is called a "phase". So, in this example, the phase can be called as follows,
 
 - Until milestone 1 is achieved: Research phase
 - Until milestone 2 is achieved: Planning phase
 - Until milestone 3 is achieved: realization phase
-
-In this example, the phases can be called as follows
 
 It is important that the names of the phases make it easy to understand what you are doing within the overall milestones toward the goal, not only for your own team but also for the other team members in the project.
 
