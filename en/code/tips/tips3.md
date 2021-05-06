@@ -12,7 +12,7 @@ In this article, I will explain "outputs" and "deliverables" as used in project 
 Outputs are tangible, **tangible things** that are produced as a result of team members completing their assigned work (tasks). It is the smallest unit in the term that describes what is produced through a project.
 
 
-#### 成果物
+#### Deliverables
 A deliverable is **a collection of outputs** that should have been produced at the completion of a milestone. Milestone "outcomes" are composed of "deliverables" and "desired state"
 
 ---
