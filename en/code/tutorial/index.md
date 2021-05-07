@@ -20,20 +20,20 @@ This is an overview of Project Sprint that you should read first.
 #### Let's Get Ready
 This section describes what you need to do to prepare for starting a Project Sprint. The first step is to start the project sprint based on the structure you have decided here.
 
-- [Set the goals and milestones for the project](section2-1.md)
-- [Know your team members and set their roles](section2-2.md)
-- [Design the meeting](section2-3.md)
+- [Setting goals and milestones for a project](section2-1.md)
+- [Knowing your team members and setting their roles](section2-2.md)
+- [Designing a meeting](section2-3.md)
 
 #### Let's do it!
 Let's try to describe how to actually manage the project through the project sprint. Let's put the system we created in "Let's Prepare" into action.
 
-- [Prepare for the meeting](section3-1.md)
-- [Hold a meeting](section3-2.md)
+- [Preparing for a meeting](section3-1.md)
+- [Holding a meeting](section3-2.md)
 
 #### Let's improve it
 Project Sprint is a method that also has a mechanism to improve the project management. Let's continue to improve the project based on what we have done in "Let's try".
 
-- [Reflection](section4-1.md)
+- [ConducReflection](section4-1.md)
 - [Reviewing the goals and milestones of the project](section4-2.md)
 - [Confirming the roles](section4-3.md)
 

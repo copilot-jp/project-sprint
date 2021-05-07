@@ -6,14 +6,14 @@ image: https://projectsprint.org/images/pjs_og.png
 
 The content of this article falls under the "Process Domain" in Project Sprint.
 
-Process is a project sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will enable us to achieve the "ideal state" in both the progress and teaming domains.
+Process is a Project Sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will enable us to achieve the "ideal state" in both the progress and teaming domains.
 
 In this section, we describe the design of the meeting, which is the starting point for the process.
 
 #### Meeting Design
 In Project Sprint, we regard a meeting as a place where all team members can share space and time, quickly and efficiently recognize each other, and make decisions that everyone agrees on. To achieve this, design the meeting appropriately and agree on it with the project members.
 
-First, the meeting needs to be a regular meeting. For more information on why this is so, see [Tip 12]((../tips/tips1.md)).
+First, the meeting needs to be a regular meeting. For more information on why this is so, see [Tip 12]((../tips/tips12.md)).
 
 The frequency of meetings can be weekly, monthly, bi-weekly, etc., depending on the nature of the project and the number of team members. However, considering that the project sprint is a project promotion method, it is unlikely that meetings will be held more than every other month.
 

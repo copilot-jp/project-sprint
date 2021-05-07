@@ -4,9 +4,9 @@ title: "Review the project's goals and milestones"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-The content of this article falls under the "progress domain" in project sprints.
+The content of this article falls under the "progress domain" in Project Sprint.
 
-The process is a project sprint-specific mechanism that revolves around regular meetings and agenda discussions. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and check each other's roles.
+The process is a Project Sprint-specific mechanism that revolves around regular meetings and agenda discussions. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and check each other's roles.
 
 In this article, we will discuss project goals and milestone reviews.
 

@@ -4,7 +4,7 @@ title: "Setting goals and milestones for a project"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-The content of this article is the "progress domain" in project sprints.
+The content of this article is the "progress domain" in Project Sprint.
 
 The "ideal state" of the progress domain is the state in which the goals of the project have been achieved. Therefore, the first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve the goal and the path to create the deliverables (called milestones).
 
@@ -62,7 +62,7 @@ This way, when team members perform a task during the project or discuss it amon
 
 Also, be aware that milestones and goals can be changed according to the situation. Milestones and goals can be changed at any time during the project, based on changes in the environment surrounding the project and what you learn as you actually complete the tasks.
 
-The actual process of changing them is explained [in Reviewing Project Goals and Milestones](../tutorial/section4-2.md).
+The actual process of changing them is explained [in Reviewing a project's goals and milestones](../tutorial/section4-2.md).
 
 
 ##### Tips related to this page

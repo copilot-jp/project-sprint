@@ -6,7 +6,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 The content of this article falls under the "process domain" in Project Sprint.
 
-Process is a project sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.
+Process is a Project Sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.
 
 This article is divided into two time frames: meeting preparation/meeting holding. This article is about preparing for a meeting.
 

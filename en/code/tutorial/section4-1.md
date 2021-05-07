@@ -4,9 +4,9 @@ title: "Conducting a Reflection"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-The content of this article falls under the "process domain" in project sprints.
+The content of this article falls under the "process domain" in Project Sprint.
 
-Process is a project sprint-specific mechanism based on regular meetings and discussion of the agenda at those meetings. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and confirm each other's roles.
+Process is a Project Sprint-specific mechanism based on regular meetings and discussion of the agenda at those meetings. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and confirm each other's roles.
 
 In this article, I would like to explain about looking back, which is one of the ways to enable continuous improvement of the project process.
 
@@ -22,7 +22,7 @@ This "period of time" can be divided into the following two types, both of which
 ##### At the end of a milestone
 The timing is set at the end of a milestone. This timing is suitable for reviewing how much progress has been made toward the goal. It also allows you to look back at any deviations from the original plan and prepare for the optimal kickoff to achieve the next milestone.
 
-##### Periodic timing
+##### Periodic Timing
 This is set at a regular time, such as "every few weeks" or "every few months. Since projects are uncertain and unpredictable, this is an approach that allows you to look back at the project at regular intervals. For example, if there is a situation where a milestone cannot be achieved for any length of time, the timing of the forced optimization can be a trigger to solve the problem.
 
 In any case, as in the case of tension triage, it is important to be able to refer to the transition of the ideal state (i.e., project goals, milestones, and team roles) in the progress domain and teaming domain when looking back, so that you can see what you should have done then and what you should do in the future. In this way, it is easier to gain insights such as "What should we have done then?
