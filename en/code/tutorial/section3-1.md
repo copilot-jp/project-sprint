@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prepare for the meeting"
+title: "Preparing for a meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

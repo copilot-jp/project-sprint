@@ -4,7 +4,7 @@ title: "Tips14: Agenda Objectives"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-As mentioned [in Project Sprint 101](../tutorial/section1-1.md), an agenda in a project sprint is "a clear statement of a team member's activities in a project that is shared and recognized by other team members. And how to create a specific agenda is explained [in Preparing for a Meeting](../tutorial/section3-1.md)and [All the Elements an Agenda Should Contain](../tutorial/section1-1.md).
+As mentioned [in Project Sprint 101](../tutorial/section1-1.md), an agenda in a project sprint is "a clear statement of a team member's activities in a project that is shared and recognized by other team members. And how to create a specific agenda is explained [in Preparing for a meeting](../tutorial/section3-1.md)and [All elements that should be included in the agenda](../tips/tips8.md).
 
 
 In this article, we will discuss the purpose of an agenda in order to understand it more deeply. Agendas can be divided into three types, depending on the purpose of the discussion
