@@ -4,7 +4,7 @@ title: "Tips2: Using the Milestone Map"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-As described in the section [on the setting projects goals and milestones](../tutorial/section2-1.md), a milestone is "a description of a set of specific deliverables and the deadlines associated with them.
+As described in the section [on the Setting goals and milestones for a project](../tutorial/section2-1.md), a milestone is "a description of a set of specific deliverables and the deadlines associated with them.
 This milestone map should be shared and agreed upon by all team members, and should be available for constant reference throughout the project.
 
 We recommend using a "milestone map" as a tool to help you with this task.

@@ -4,7 +4,7 @@ title: "Tips8: All elements that should be included in the agenda"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-As discussed [in preparing for a meeting](../tutorial/section3-1.md), meeting agenda should include the following elements
+As discussed [in Preparing for a meeting](../tutorial/section3-1.md), meeting agenda should include the following elements
 
 
 - Name of Agenda

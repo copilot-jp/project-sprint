@@ -4,7 +4,7 @@ title: "Tips13: Classification and properties of rolls"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-As described [in Knowing Team Members and Setting Roles](../tutorial/section2-2.md), the roles of individual team members are called roles in Project Sprint. Also, as explained [in the section on setting roles that are easy to use in practice](../tips/tips5.md), in Project Sprint, there is no set role that must be set except for the meeting role, and the only requirement for defining roles is that team members must agree on them.
+As described [in Knowing your team members and setting roles](../tutorial/section2-2.md), the roles of individual team members are called roles in Project Sprint. Also, as explained [in the section on setting up roles that are easy to use in practice](../tips/tips5.md), in Project Sprint, there is no set role that must be set except for the meeting role, and the only requirement for defining roles is that team members must agree on them.
 
 However, this "team member agreement" is not always explicit. In other words, while there are roles that are named and shared by the team, such as "Team Management" and "Process Admin" described in Tip 5, there are also implicit roles that are naturally assumed by certain members as the project progresses. In Project Sprint, the former are called "explicit roles" and the latter are called "implicit roles".
 

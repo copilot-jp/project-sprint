@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting goals and milestones for the project"
+title: "Setting goals and milestones for a project"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
