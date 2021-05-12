@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Sprint CODE Reference"
+title: "Reference"
 image: https://projectsprint.org/images/pjs_logo.png
 type: article
 ---
