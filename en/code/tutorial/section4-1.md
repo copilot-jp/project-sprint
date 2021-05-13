@@ -13,7 +13,7 @@ In this article, I would like to explain about looking back, which is one of the
 #### Reflection
 In Project Sprint, we aim to continuously improve (optimize) the way we work on the project through meetings. These optimization efforts are collectively referred to as the "continuous improvement approach," which can be further divided into two types of efforts: "tension triage" and "look back.
 
-Tension triage is an approach that is conducted at each meeting, as described in the section [on holding meetings](../tutorial/section3-2.md), and mainly focuses on the current feelings of team members.
+Tension triage is an approach that is conducted at each meeting, as described in the section [on Holding a meeting](../tutorial/section3-2.md), and mainly focuses on the current feelings of team members.
 
 Therefore, unlike the tension triage, the look-back takes a certain amount of time to complete and requires more time than the tension triage.
 

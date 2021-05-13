@@ -4,7 +4,7 @@ title: "Tips6: Using a roll sheet"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-As mentioned [in the section on Knowing your team members and setting their roles](../tutorial/section2-2.md), roles are the roles of individual team members. Roles and team members do not necessarily have a one-to-one relationship, and while there is no set type of role, the roles that are set must be clearly defined and agreed upon.
+As mentioned in the section on [Knowing your team members and setting their roles](../tutorial/section2-2.md), roles are the roles of individual team members. Roles and team members do not necessarily have a one-to-one relationship, and while there is no set type of role, the roles that are set must be clearly defined and agreed upon.
 
 
 For this reason, it is recommended to use a "role sheet" to clearly state the "current role status" and keep it available for reference.

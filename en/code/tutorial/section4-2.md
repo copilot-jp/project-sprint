@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review the project's goals and milestones"
+title: "Reviewing a project's goals and milestones"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
@@ -29,7 +29,7 @@ The implementation of milestone and project goal reviews is also on the meeting 
 
 
 ##### Tips related to this page
-- [Using the Milestone Map](../tips/tips2.md)
+- [Using a Milestone Map](../tips/tips2.md)
 
 ---
 

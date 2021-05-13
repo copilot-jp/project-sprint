@@ -20,7 +20,7 @@ The prerequisite for a better team is to understand the team members. For exampl
 Knowing these things at the beginning of the project will help you in setting up the roles that will follow.
 
 #### Sharing Roles
-In a Project Sprint, the roles of individual team members are called roles. Roles and team members do not necessarily have to have a one-to-one relationship. Roles and team members do not necessarily have to have a one-to-one relationship, i.e., one person can play multiple roles, or a role can be played by multiple people.
+In the Project Sprint, the roles of individual team members are called roles. Roles and team members do not necessarily have to have a one-to-one relationship. Roles and team members do not necessarily have to have a one-to-one relationship, i.e., one person can play multiple roles, or a role can be played by multiple people.
 
 There is no limit to the number of roles to be defined, and there is no "must define" role. Depending on the nature of the project, discuss the necessary division of roles among team members and clearly define them as roles.
 

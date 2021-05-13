@@ -11,7 +11,7 @@ Process is a Project Sprint-specific mechanism that revolves around regular meet
 In this section, we describe the design of the meeting, which is the starting point for the process.
 
 #### Meeting Design
-In Project Sprint, we regard a meeting as a place where all team members can share space and time, quickly and efficiently recognize each other, and make decisions that everyone agrees on. To achieve this, design the meeting appropriately and agree on it with the project members.
+In the Project Sprint, we regard a meeting as a place where all team members can share space and time, quickly and efficiently recognize each other, and make decisions that everyone agrees on. To achieve this, design the meeting appropriately and agree on it with the project members.
 
 First, the meeting needs to be a regular meeting. For more information on why this is so, see [Tip 12]((../tips/tips12.md)).
 

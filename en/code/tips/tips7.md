@@ -4,7 +4,7 @@ title: "Tips7: Know-how about the meeting environment"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-In order to get the intended effect of the meeting in the project sprint, it is essential to build an efficient meeting environment. Although the process of project sprints is to allow team members to discuss and improve the optimization of the meeting environment itself, there are already some best practices in this regard. We will introduce them here for your reference.
+In order to get the intended effect of the meeting in the Project Sprint, it is essential to build an efficient meeting environment. Although the process of Project Sprint is to allow team members to discuss and improve the optimization of the meeting environment itself, there are already some best practices in this regard. We will introduce them here for your reference.
 
 #### Agenda Management
 Agenda management is very important in Project Sprint.
@@ -30,7 +30,7 @@ Meetings are an important place for team members to eliminate misunderstandings 
 For this reason, it is recommended to introduce a document tool that can be used for collaborative editing as a tool for taking minutes, and to take minutes in real time while displaying them on the screen during the meeting.
 
 #### Whiteboard
-In addition to verbal explanations and explanations using documents, it is important to use handwritten information for recognition. Handwritten diagrams and text make it easier to convey information that is not properly documented or cannot be clearly explained in words. This also contributes to the point of "eliminating misunderstandings," which is necessary in project sprints.
+In addition to verbal explanations and explanations using documents, it is important to use handwritten information for recognition. Handwritten diagrams and text make it easier to convey information that is not properly documented or cannot be clearly explained in words. This also contributes to the point of "eliminating misunderstandings," which is necessary in Project Sprint.
 
 In this case, whiteboards are not limited to the physical ones used in offline meetings. There are whiteboard tools for online meetings, so you can use those as well, and they may be better in terms of ease of storage.
 

@@ -11,7 +11,7 @@ The process is a Project Sprint-specific mechanism that revolves around regular 
 In this article, we will discuss role confirmation.
 
 #### Checking Roles
-As mentioned in the section [on knowing team members and setting roles](../tutorial/section2-2.md), the "ideal state" of teaming does not have a clear shape. This is because it is difficult to determine "If we achieve this level, we have an ideal team! is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one".
+As mentioned in the section [on Knowing team members and setting roles](../tutorial/section2-2.md), the "ideal state" of teaming does not have a clear shape. This is because it is difficult to determine "If we achieve this level, we have an ideal team! is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one".
 
 And "better" here refers to a state where the expectations of team members regarding the roles they should play are aligned. In other words, role confirmation is an effort to check whether team members' expectations of each other's roles are coming together.
 
