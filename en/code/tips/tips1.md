@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips1: Useful concepts for organizing the project timeline (tracks/phases/events)"
+title: "Tips1: Useful concepts for organizing project timeline (tracks/phases/events)"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

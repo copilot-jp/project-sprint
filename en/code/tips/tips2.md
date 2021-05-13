@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips2: Using the Milestone Map"
+title: "Tips2: Using a Milestone Map"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
