@@ -14,7 +14,7 @@ Therefore, the success of Project Sprint can be evaluated in terms of whether ea
 
 It is important to note that there is no absolute state to be reached for either success. The goals of a project can change, and what constitutes an ideal team depends on the size of the project, the timeline, and other factors.
 
-On the other hand, if PJS is implemented and managed correctly, it means that it will bring success in progress and success in teaming. Therefore, the activity of PJS itself can be regarded as a success indicator.
+On the other hand, if Project Sprint is implemented and managed correctly, it means that it will bring success in progress and success in teaming. Therefore, the activity of PJS itself can be regarded as a success indicator.
 
 #### Success Indicators for Progress
 
@@ -33,7 +33,7 @@ There are two key indicators of success in teaming
 ### Optimization
 #### Classification of optimization
 
-**Optimization**can be divided into two categories: those that are implemented for the short term and those that are implemented for the long term. Specifically, there are differences in the following characteristics.
+**Optimization** can be divided into two categories: those that are implemented for the short term and those that are implemented for the long term. Specifically, there are differences in the following characteristics.
 
 Short-term optimization  | Long-term optimization
 --|--
@@ -51,7 +51,7 @@ In Project Sprint, project progress is viewed as the distance between the curren
 
 The reasons for this can be divided into two main categories.
 
-- The team members do not have the same understanding of the As-Is and To-Be.
+- The team members do not have the same understanding of the As-Is and To-Be
  (**problem of misalignment**)
 - The As-Is and To-Be are not clear until the actual progress activities are done (**Roughness problem**)
 
