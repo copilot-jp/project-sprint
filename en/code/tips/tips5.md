@@ -18,12 +18,12 @@ The word "master" has the connotation of "mentor," implying the expectation of s
 ##### Progress Management
 A role that leads the achievement of project goals and milestones. This role is responsible for managing the progress of outcomes and deliverables creation, considering effective and efficient optimization methods to achieve the progress, and incorporating them into the project activities.
 
-Although the name of the role includes the word "management," it is named in the sense of "a person who deals with" rather than "a person who manages. Therefore, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
+Although the name of the role includes the word "management," it is named in the sense of "a person who deals with" rather than "a person who manages". Therefore, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
 
 ##### Team Management
 This role is to lead the team in making the team's status better than it is now. This role is responsible for clarifying the roles of the team, and coordinating activities when new roles arise or when there are changes to the roles.
 
-As with progress management, the role name has "management" in it, but it is named in the sense of a "coping person" rather than a "managing person. Therefore, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
+As with progress management, the role name has "management" in it, but it is named in the sense of a "coping person" rather than a "managing person". Therefore, it does not necessarily mean that only managers or high-ranking people in the organization can be in charge of this role.
 
 ##### Process Admin
 This role is to lead the functioning of the process in the Project Sprint. It is responsible for ensuring that the preparation and practice of meetings as described in this manual is effective and efficient. The Process Admin will also conduct the Reflection.
