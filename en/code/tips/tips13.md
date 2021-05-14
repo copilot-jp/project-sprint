@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips13: Classification and properties of rolls"
+title: "Tips13: Classification and properties of roles"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

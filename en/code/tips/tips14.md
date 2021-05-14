@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips14: Agenda Objectives"
+title: "Tips14: The Purpose of an Agenda"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
