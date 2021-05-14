@@ -10,19 +10,19 @@ image: https://projectsprint.org/images/pjs_og.png
 
 **CODE** is a generic term for a set of documents describing Project Sprint.
 
-###### [Tutorial](./code/tutorial/index.md)
+###### [Tutorial](../en/code/tutorial/index.md)
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
-###### [Essentials](/en/code/essentials.md)
+###### [Essentials](../en/code/essentials.md)
 Essentials provides the big picture of PJS also the core key concepts of PJS.
 
-###### [Tips](/en/code/tips/index.md)
+###### [Tips](../en/code/tips/index.md)
 Tips provide detailed and in-depth explanations related to PJS, which will help you gain concrete know-how and better application of PJS practices.
 
-###### [Advance](./code/advance.md)
+###### [Advance](../code/advance.md)
 Advance gives you the latest discussion and experimental concepts. Besides, you can get the latest information on method updates.
 
-###### [Reference](./code/reference.md)
+###### [Reference](../code/reference.md)
 Refernce describes the methods, concepts, and literature behind the PJS. You can understand the efficient usage of PJS and know the information that may be relevant for future updates of methods. Furthermore, knowing the background will help you apply the method.
 
 ##### Document comparison table
@@ -38,7 +38,7 @@ The way you use the document depends on the situation you are in. Here are some 
 
 **Case1. Those who lead the implementation of PJS on their own.**
 1. Read through Tutorial to gain a basic understanding
-2. Read [Essentials](./code/essentials.md) to get the big picture and the important point
+2. Read [Essentials](../en/code/essentials.md) to get the big picture and the important point
 3. Read Tips to be prepared for different situations
 4. If you are not sure about something, read Reference for a better understanding
 
@@ -51,7 +51,7 @@ The way you use the document depends on the situation you are in. Here are some 
 
 **Case4. People who want to contribute to the development of the PJS method.**
 1. Read Tutorial to gain a basic understanding
-2. Read [Essentials](./code/essentials.md) to get the big picture and important points
+2. Read [Essentials](../en/code/essentials.md) to get the big picture and important points
 3. Read Tips to understand more detailed and in-depth explanations
 4. Read Advance to keep with the latest discussion
 5. Read Reference for a deeper understanding of the background ideas
