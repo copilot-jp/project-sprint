@@ -13,16 +13,16 @@ image: https://projectsprint.org/images/pjs_og.png
 ###### [Tutorial](./tutorial/index.md)
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
-###### [Essentials](./essentials.md)
+###### [Essentials](./code/essentials.md)
 Essentials provides the big picture of PJS also the core key concepts of PJS.
 
 ###### [Tips](./tips/index.md)
 Tips provide detailed and in-depth explanations related to PJS, which will help you gain concrete know-how and better application of PJS practices.
 
-###### [Advance](./advance.md)
+###### [Advance](./code/advance.md)
 Advance gives you the latest discussion and experimental concepts. Besides, you can get the latest information on method updates.
 
-###### [Reference](./reference.md)
+###### [Reference](./code/reference.md)
 Refernce describes the methods, concepts, and literature behind the PJS. You can understand the efficient usage of PJS and know the information that may be relevant for future updates of methods. Furthermore, knowing the background will help you apply the method.
 
 ##### Document comparison table
