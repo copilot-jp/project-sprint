@@ -13,10 +13,10 @@ image: https://projectsprint.org/images/pjs_og.png
 ###### [Tutorial](./code/tutorial/index.md)
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint (PJS) and how to put them into practice, also you can implement PJS into actual projects while reading Tutorial.
 
-###### [Essentials](./code/essentials.md)
+###### [Essentials](/en/code/essentials.md)
 Essentials provides the big picture of PJS also the core key concepts of PJS.
 
-###### [Tips](./code/tips/index.md)
+###### [Tips](/en/code/tips/index.md)
 Tips provide detailed and in-depth explanations related to PJS, which will help you gain concrete know-how and better application of PJS practices.
 
 ###### [Advance](./code/advance.md)
