@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Check the roles"
+title: "Checking Roles"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

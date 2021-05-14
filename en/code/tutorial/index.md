@@ -33,9 +33,9 @@ Let's try to describe how to actually manage the project through the project spr
 #### Let's improve it
 Project Sprint is a method that also has a mechanism to improve the project management. Let's continue to improve the project based on what we have done in "Let's try".
 
-- [ConducReflection](section4-1.md)
-- [Reviewing the goals and milestones of the project](section4-2.md)
-- [Confirming the roles](section4-3.md)
+- [Conducting a Reflection](section4-1.md)
+- [Reviewing Project Goals and Milestones](section4-2.md)
+- [Checking Roles](section4-3.md)
 
 #### For those who want to learn more
 This section describes the user community for learning Project Sprint and contributing to method creation yourself.

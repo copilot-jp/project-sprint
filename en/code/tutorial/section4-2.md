@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reviewing a project's goals and milestones"
+title: "Reviewing Project Goals and Milestones"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
