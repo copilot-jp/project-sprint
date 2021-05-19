@@ -6,7 +6,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 The content of this article falls under the "teaming domain" in Project Sprint.
 
-The "ideal state" of teaming is when team members have the same expectations of each other's roles (called roles). In other words, when a team member thinks, "He will do this," that team member also thinks, "This is what I should do. The "ideal state" of teaming does not have a definite form. The reason is that it is difficult to determine "If we achieve this level, we are an ideal team! is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one.
+The "ideal state" of teaming is when team members have the same expectations of each other's roles (called roles). In other words, when a team member thinks, "He will do this," that team member also thinks, "This is what I should do.” The "ideal state" of teaming does not have a definite form. The reason is that it is difficult to determine "If we achieve this level, we are an ideal team!” is difficult to determine. Therefore, in Project Sprint, we always aim for "a better team state than the current one.”
 
 #### Basic information of team members
 

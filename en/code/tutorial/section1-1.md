@@ -4,7 +4,7 @@ title: "Project Sprint 101"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-This article provides an overview of project sprints and helps you understand the content of individual documents in "Let's Get Ready," "Let's Try," and "Let's Improve.
+This article provides an overview of Project Sprint and helps you understand the content of individual documents in "Let's Get Ready," "Let's Try," and "Let's Improve.
 
 Project Sprint is a "project promotion method" that enables diverse members to produce complex outputs in uncertain environments and situations.
 
@@ -18,7 +18,7 @@ In Project Sprint, the activities to promote a project are divided into three ca
 - Process: Activities that focus on the procedures that drive the project forward
 - Teaming: Activities that focus on the relationships among team members
 
-The basic mechanism of Project Sprint is "to make progress and teaming ideal through process. So, what exactly is the "ideal state" of progress and teaming?
+The basic mechanism of Project Sprint is "to make progress and teaming ideal through process." So, what exactly is the "ideal state" of progress and teaming?
 
 The "ideal state" of progress is the state in which the goals of the project have been achieved. The first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve those goals and the path to create those deliverables (called milestones), and follow them. However, project goals and milestones are not absolute; rather, they change flexibly in response to changes in the environment, so it is necessary to consider that they can be constantly reviewed.
 
@@ -28,7 +28,7 @@ To achieve the ideal state of progress and teaming, we use "process".
 
 Process is based on regular meetings and discussion of the agenda there.
 
-In Project Sprint, meetings are used as "a place where all team members can share space and time to quickly and efficiently make decisions that everyone agrees on," and agendas are used as "a way to share and recognize the activities of team members in a project with other team members. In addition, the agenda is positioned as "something that is clearly stated so that the activities of team members in the project can be shared and recognized by other team members.
+In Project Sprint, meetings are used as "a place where all team members can share space and time to quickly and efficiently make decisions that everyone agrees on," and agendas are used as "a way to share and recognize the activities of team members in a project with other team members.” In addition, the agenda is positioned as "something that is clearly stated so that the activities of team members in the project can be shared and recognized by other team members.”
 
 Through these meetings, we can share the progress of the project, continuously improve the way the project is carried out, review milestones toward the project goal, and confirm each other's roles.
 

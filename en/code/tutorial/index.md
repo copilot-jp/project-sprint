@@ -4,11 +4,11 @@ title: "Project Sprint CODE Tutorial"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-This set of documents provides a step-by-step explanation of the basic concepts and practices of project sprints.
+This set of documents provides a step-by-step explanation of the basic concepts and practices of Project Sprint.
 
-There are four chapters throughout, and by reading them in order from the top, you will be able to use project sprints in your actual projects.
+There are four chapters throughout, and by reading them in order from the top, you will be able to use Project Sprint in your actual projects.
 
-It can be used as a first step for learning if you haven't done project sprints yet, and it can also be read by those who have already done project sprints as a foundation for implementation.
+It can be used as a first step for learning if you haven't done Project Sprint yet, and it can also be read by those who have already done Project Sprint as a foundation for implementation.
 
 ### Table of Contents
 
@@ -18,14 +18,14 @@ This is an overview of Project Sprint that you should read first.
   - [Project Sprint 101](section1-1.md)
 
 #### Let's Get Ready
-This section describes what you need to do to prepare for starting a Project Sprint. The first step is to start the project sprint based on the structure you have decided here.
+This section describes what you need to do to prepare for starting Project Sprint. The first step is to start Project Sprint based on the structure you have decided here.
 
 - [Setting Goals and Milestones for a Project](section2-1.md)
 - [Knowing your Team Members and Setting their Roles](section2-2.md)
 - [Designing a Meeting](section2-3.md)
 
 #### Let's do it!
-Let's try to describe how to actually manage the project through the project sprint. Let's put the system we created in "Let's Prepare" into action.
+Let's try to describe how to actually manage the project through Project Sprint. Let's put the system we created in "Let's Prepare" into action.
 
 - [Preparing for a Meeting](section3-1.md)
 - [Holding a Meeting](section3-2.md)
