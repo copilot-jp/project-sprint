@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips12:  Why meetings should be held on a regular basis "
+title: "Tips12:  Why Meetings Should Be Held on a Regular Basis "
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
@@ -12,7 +12,7 @@ As described [in Designing a meetings](../tutorial/section2-3.md), Project Sprin
 
 2. Lowers the cost of coordinating team members' schedules.
 
-   Nowadays, there are many projects in which diverse members from inside and outside the company participate, and adjusting the schedule each time can be time-consuming. For this reason, it is more efficient to set up a schedule in advance. Also, if meetings are adjusted each time, it is impossible to hold meetings at the necessary timing. This undermines the advantage of the project sprint, which is to gather enough participants at once to make decisions quickly and efficiently.
+   Nowadays, there are many projects in which diverse members from inside and outside the company participate, and adjusting the schedule each time can be time-consuming. For this reason, it is more efficient to set up a schedule in advance. Also, if meetings are adjusted each time, it is impossible to hold meetings at the necessary timing. This undermines the advantage of the Project Sprint, which is to gather enough participants at once to make decisions quickly and efficiently.
 
 3. By holding the meetings on the same day and time, people from other teams are more likely to come peek in to share.
 
@@ -22,8 +22,7 @@ As described [in Designing a meetings](../tutorial/section2-3.md), Project Sprin
 
    By having a regular period of time, for example, a standard interval of "what can be done in a week," it is easier to predict if this amount of task can be done. Creating realistic tasks will ensure that the output is produced, which in turn will increase the accuracy of the agenda.
 
-5. If the meeting is held on a regular basis, it will be easier to create a work rhythm, which will make the task easier
-   to digest.
+5. If the meeting is held on a regular basis, it will be easier to create a rhythm of work, making it easier to digest tasks.
 
    For example, every Monday we have this meeting, so let's set aside time for this kind of work. This makes it easier for individual members to plan their work.
 

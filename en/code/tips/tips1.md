@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips1: Useful concepts for organizing project timeline (tracks/phases/events)"
+title: "Tips1: Useful Concepts for Organizing Project Timeline (tracks/phases/events)"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
@@ -53,7 +53,7 @@ For example, suppose you have a project with the goal of "launching a new busine
 
 By executing these milestones in order from the top, the goal can be achieved. Milestones need to be tied to deliverables, which is why they are written in this way. (The research document, the new business plan, and the environment in which the business can be launched are each deliverables.
 
-However, in terms of communication in a project, it is better to be able to express what we are doing now. However, for project communication, it is more useful to be able to express what we are doing now. Each of these is called a "phase". So, in this example, the phase can be called as follows,
+However, in terms of communication in a project, it is better to be able to express what we are doing now. Each of these is called a "phase". So, in this example, the phase can be called as follows,
 
 - Until milestone 1 is achieved: Research phase
 - Until milestone 2 is achieved: Planning phase

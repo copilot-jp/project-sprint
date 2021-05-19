@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips8: All elements that should be included in the agenda"
+title: "Tips8: All Elements that Should be Included in the Agenda"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
@@ -21,7 +21,7 @@ Specifically, the following additional elements should be included.
 - Result (the explicit output that is produced when the discussion is over)
 - The means by which the participants will prove that they are satisfied with the completion of the agenda
 
-The more each of these elements is clear in advance, the more efficient and effective the discussion will be. If any of these elements are difficult to describe by the agenda owner alone or difficult to understand by other team members, the facilitator's (accelerator's) role is to make them easier to understand and to organize the discussion so that these elements can be realized. The facilitator's role is to organize the discussion so that these elements can be realized.
+The more each of these elements is clear in advance, the more efficient and effective the discussion will be. If any of these elements are difficult to describe by the agenda owner alone or difficult to understand by other team members, the facilitator's (accelerator's) role is to make them easier to understand and to organize the discussion so that these elements can be realized. 
 
 
 

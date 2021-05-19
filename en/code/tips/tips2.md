@@ -14,8 +14,8 @@ A milestone map is a sheet that provides an overview of the milestones in a proj
 A milestone map should include the following elements
 
   - Phase name: semantic positioning between milestones
-  - Due date start date: usually the day after the previous milestone end date)
-  - Due date end date (*): the date when the milestone is due to be completed
+  - Start date of due date: usually the day after the previous milestone's end date)
+  - End date of due date (*): the date when the milestone is due to be completed
   - Deliverables(*): Deliverables required upon completion of the milestone
   - Desired state: Describes what you want the project to look like internally when the milestone is completed, or what you want the project to look like externally when you receive the project deliverables.
   - Note: Feel free to include additional information.

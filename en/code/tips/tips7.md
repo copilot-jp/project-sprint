@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips7: Know-how about the meeting environment"
+title: "Tips7: Know-How About the Meeting Environment"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

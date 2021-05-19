@@ -16,7 +16,7 @@ This set of documents contains detailed and in-depth explanations of Project Spr
 6. [Using a Roll Sheet](tips6.md)
 7. [Know-How About the Meeting Environment](tips7.md)
 8. [All Elements That Should be Included in the Agenda](tips8.md)
-9. [Typical Reflection Techniques](tips9.md)
+9. [Typical Looking Back Techniques](tips9.md)
 10. [Tension Triage Methods](tips10.md)
 11. [How to Set Tasks in a Way That Makes Sense to the Team and Is Efficient](tips11.md)
 12. [Why Meetings Should Be Held on a Regular Basis](tips12.md)

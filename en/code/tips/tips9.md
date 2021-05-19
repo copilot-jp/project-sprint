@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips9: Typical Reflection Techniques"
+title: "Tips9: Typical Looking Back Techniques"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

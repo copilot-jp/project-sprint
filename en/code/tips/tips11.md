@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips11: How to set tasks in a way that makes sense to the team and is efficient"
+title: "Tips11: How to Set Tasks in a Way That Makes Sense to the Team and Is Efficient"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

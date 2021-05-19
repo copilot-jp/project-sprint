@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips6: Using a roll sheet"
+title: "Tips6: Using a Roll Sheet"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
