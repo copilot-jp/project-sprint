@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Knowing your team members and setting their roles"
+title: "Knowing your Team Members and Setting their Roles"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

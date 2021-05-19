@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing a meeting"
+title: "Designing a Meeting"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
