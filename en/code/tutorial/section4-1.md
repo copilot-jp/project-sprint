@@ -11,7 +11,7 @@ Process is a Project Sprint-specific mechanism based on regular meetings and dis
 In this article, I would like to explain about looking back, which is one of the ways to enable continuous improvement of the project process.
 
 #### Reflection
-In Project Sprint, we aim to continuously improve (optimize) the way we work on the project through meetings. These optimization efforts are collectively referred to as the "continuous improvement approach," which can be further divided into two types of efforts: "tension triage" and "look back.”
+In Project Sprint, we aim to continuously improve (optimize) the way we work on the project through meetings. These optimization efforts are collectively referred to as the "continuous improvement approach," which can be further divided into two types of efforts: "tension triage" and "look back”.
 
 Tension triage is an approach that is conducted at each meeting, as described in the section [on Holding a meeting](../tutorial/section3-2.md), and mainly focuses on the current feelings of team members.
 
@@ -23,7 +23,7 @@ This "period of time" can be divided into the following two types, both of which
 The timing is set at the end of a milestone. This timing is suitable for reviewing how much progress has been made toward the goal. It also allows you to look back at any deviations from the original plan and prepare for the optimal kickoff to achieve the next milestone.
 
 ##### Periodic Timing
-This is an effort to look back on the project at regular intervals, such as "every few weeks" or "every few months.” This is because projects are uncertain and unpredictable, so we try to look back on them at regular intervals. For example, if there is a situation where a milestone cannot be achieved for any length of time, the timing of the forced optimization will trigger a problem to be solved.
+This is an effort to look back on the project at regular intervals, such as "every few weeks" or "every few months”. This is because projects are uncertain and unpredictable, so we try to look back on them at regular intervals. For example, if there is a situation where a milestone cannot be achieved for any length of time, the timing of the forced optimization will trigger a problem to be solved.
 
 In any case, as in the case of tension triage, it is important to be able to refer to the transition of the ideal state (i.e., project goals, milestones, and team roles) in the progress domain and teaming domain when looking back, so that you can see what you should have done then and what you should do in the future. In this way, it is easier to gain insights such as "What should we have done then?
 
