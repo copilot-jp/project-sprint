@@ -19,10 +19,10 @@ Essentials provides the big picture of PJS also the core key concepts of PJS.
 ###### [Tips](../en/code/tips/index.md)
 Tips provide detailed and in-depth explanations related to PJS, which will help you gain concrete know-how and better application of PJS practices.
 
-###### [Advance](../code/advance.md)
+###### [Advance](../en/code/advance.md)
 Advance gives you the latest discussion and experimental concepts. Besides, you can get the latest information on method updates.
 
-###### [Reference](../code/reference.md)
+###### [Reference](../en/code/reference.md)
 Refernce describes the methods, concepts, and literature behind the PJS. You can understand the efficient usage of PJS and know the information that may be relevant for future updates of methods. Furthermore, knowing the background will help you apply the method.
 
 ##### Document comparison table
