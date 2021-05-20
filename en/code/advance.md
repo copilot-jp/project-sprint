@@ -14,7 +14,7 @@ Therefore, the success of Project Sprint can be evaluated in terms of whether ea
 
 It is important to note that there is no absolute state to be reached for either success. The goals of a project can change, and what constitutes an ideal team depends on the size of the project, the timeline, and other factors.
 
-On the other hand, if Project Sprint is implemented and managed correctly, it means that it will bring success in progress and success in teaming. Therefore, the activity of PJS itself can be regarded as a success indicator.
+On the other hand, if Project Sprint is implemented and managed correctly, it means that it will bring success in progress and success in teaming. Therefore, the activity of Project Sprint itself can be regarded as a success indicator.
 
 #### Success Indicators for Progress
 

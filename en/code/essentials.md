@@ -4,12 +4,12 @@ title: "Project Sprint CODE Essentials"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
-This document describes the core key concepts of Project Sprint (PJS).
+This document describes the core key concepts of Project Sprint.
 
 
 ## Principles of Project Sprint
 
-In PJS, the phenomena in a project are divided into the following three **domains**.
+In Project Sprint, the phenomena in a project are divided into the following three **domains**.
 
 1. **Progress** : individual activities for the progress of the project (**progress activity**) and the progress status that indicates whether or not the goals defined in the project have been achieved (**progress status**).
 2. **Teaming** : Individual activities for team formation (**teaming activities**) and the state that indicates whether an ideal team is being formed (**teaming status**).
@@ -17,7 +17,7 @@ In PJS, the phenomena in a project are divided into the following three **domain
 
 By repeating the progress, teaming activities,and processes regularly or iteratively, the progress and teaming statuses can be brought closer to the ideal state.
 
-##### PJS concept image
+##### Project Sprint Concept Image
 ![PJS concept image](/en/images/essentials.png)
 
 
@@ -45,7 +45,7 @@ Individual activities can be divided into the following two categories.
 
 ## Process
 
-Process is a mechanism specific to PJS that allows individual activities to be reflected in the overall project results.
+Process is a mechanism specific to Project Sprint that allows individual activities to be reflected in the overall project results.
 
 By repeating activities and processes regularly and iteratively, the progress status and teaming status will become ideal. The process itself does not have an ideal status, but it is optimized to be the most efficient and effective form to bring the two statuses closer to the ideal.
 
@@ -64,7 +64,7 @@ Ultimately, the process yields the following results.
   * In the process domain, execution and optimization tasks to improve the mechanism itself.
 
 ## Role
-The role that each person plays in PJS is called **a role**. Each role can be played by more than one person. All team members are expected to take the initiative in introducing and implementing the PJS.
+The role that each person plays in Project Sprint is called **a role**. Each role can be played by more than one person. All team members are expected to take the initiative in introducing and implementing the Project Sprint.
 
 ---
 
