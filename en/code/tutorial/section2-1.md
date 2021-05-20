@@ -8,7 +8,7 @@ The content of this article is the "progress domain" in Project Sprint.
 
 The "ideal state" of the progress domain is the state in which the goals of the project have been achieved. Therefore, the first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve the goal and the path to create the deliverables (called milestones).
 
-#### Defining the Project Goal
+#### Defining Project Goals
 
 First, what is the goal of the project you are working on? Is it to develop a new business concept and create new value? Or are you working to achieve a set value, such as improving the efficiency of a system? Either way, make sure you have a clear goal for your project.
 
@@ -41,9 +41,9 @@ In practice, however, it is often the case that all team members first express t
 
 The level of granularity and abstraction of the milestones may vary depending on the distance from the goal. They will also vary from project to project. However, the milestones should be such that each team member who sees them can make decisions and take actions on their own. The milestones should be understandable to the team members directly involved in the milestone, and if there are multiple teams on the same project, the milestones should be viewable by other team members so that they can make decisions about the actions of each team member.
 
-Also, some projects may have multiple milestones that are set in a multi-line fashion (this is called a "track", which is the same as a "track" for the definition of a track) [See Tip 1](../tips/tips1.md). In such cases, we need a granularity and abstraction level that allows us to determine the dependencies and influences among milestones.
+Also, some projects may have multiple milestones that are set in a multi-line fashion (this is called a "track", which is the same as a "track" for the definition of a track [See Tip 1](../tips/tips1.md).) In such cases, we need a granularity and abstraction level that allows us to determine the dependencies and influences among milestones.
 
-Specifically, the description should be written in such a way that it is possible to adjust milestones in one track in order to achieve milestones in another track, or that other team members can spontaneously suggest, "I should provide this kind of output in order to achieve this milestone. In addition, you should be able to describe the project's goals and objectives to stakeholders outside the project.
+Specifically, the description should be written in such a way that it is possible to adjust milestones in one track in order to achieve milestones in another track, or that other team members can spontaneously suggest, "I should provide this kind of output in order to achieve this milestone." In addition, you should be able to describe the project's goals and objectives to stakeholders outside the project.
 
 Another criterion for setting appropriate milestones is whether or not it is objectively easy for stakeholders outside the project (e.g., people who need to be informed of the results of the project or people whose work will be affected by the results of the project) to understand what you are trying to achieve. This is one of the criteria for setting appropriate milestones.
 
