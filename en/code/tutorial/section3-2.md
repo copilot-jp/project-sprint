@@ -10,7 +10,7 @@ Process is a Project Sprint-specific mechanism that revolves around regular meet
 
 This article is divided into two time frames: meeting preparation/meeting holding. This article is about preparing for a meeting.
 
-#### The "Type" of a Meeting
+#### "Type" of a Meeting
 This article describes the basic progression of a meeting in a Project Sprint. The general structure of the meeting is as follows, and it will be easier to understand the contents of each meeting if you have this in mind first.
 
 - Early stage: Task progress report, tension triage, agenda triage
