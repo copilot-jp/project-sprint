@@ -50,7 +50,11 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - releasenotes.md
+ - ja/code/tutorial/index.md
+ - ja/code/essentials.md
+ - ja/code/tips/index.md
+ - ja/code/advance.md
+ - ja/code/reference.md
 
 # Build settings
 theme: minima

@@ -140,6 +140,12 @@ title: "Release Notes"
 
 ## Site
 
+### v1.1.0 (Apr 30th, 2021)
+
+- Added
+  - Header menu
+  - text styling for highlight
+
 ### v1.0.4 (Nov 19th, 2020)
 
 - Added
