@@ -5,6 +5,11 @@ title: "Release Notes"
 
 ## CODE
 
+### v2.0.1 (Jun 02nd, 2021)
+
+- EN
+  - Change thoroughly in accordance with JA v2.0.1
+
 ### v2.0.1 (Feb 10th, 2021)
 
 - JA
