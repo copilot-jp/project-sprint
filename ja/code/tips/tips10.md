@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips10: テンショトリアージの方法"
+title: "テンショトリアージの方法"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips5: 実務で使いやすいロールの設定"
+title: "実務で使いやすいロールの設定"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

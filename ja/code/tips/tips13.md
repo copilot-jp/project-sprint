@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips13: ロールの分類と性質"
+title: "ロールの分類と性質"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

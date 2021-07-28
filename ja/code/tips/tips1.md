@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips1: プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)"
+title: "プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ/イベント)"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

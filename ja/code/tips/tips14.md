@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips14: アジェンダの目的"
+title: "アジェンダの目的"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

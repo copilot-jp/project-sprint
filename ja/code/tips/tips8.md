@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips8: アジェンダに含まれているとよい全要素"
+title: "アジェンダに含まれているとよい全要素"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

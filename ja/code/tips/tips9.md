@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips9: 代表的な振り返りの手法"
+title: "代表的な振り返りの手法"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips9: 継続的改善アプローチ"
+title: "継続的改善アプローチ"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

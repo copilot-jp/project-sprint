@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips2: マイルストーンマップの利用"
+title: "マイルストーンマップの利用"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

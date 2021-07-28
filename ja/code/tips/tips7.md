@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips7: ミーティング環境についてのノウハウ"
+title: "ミーティング環境についてのノウハウ"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
