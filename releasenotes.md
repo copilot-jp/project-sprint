@@ -5,11 +5,16 @@ title: "Release Notes"
 
 ## CODE
 
-### v2.0.2 (Feb XX, 2021)
+
+### v2.0.2 (Jul 15th, 2021)
 
 - JA
-  - 
+  - アジェンダの定義を変更。アジェンダアイテムの概念を追記。
 
+### v2.0.1 (Jun 2nd, 2021)
+
+- EN
+  - Change thoroughly in accordance with JA v2.0.1
 
 ### v2.0.1 (Feb 10th, 2021)
 
@@ -145,6 +150,12 @@ title: "Release Notes"
   - Tips
 
 ## Site
+
+### v1.1.0 (Apr 30th, 2021)
+
+- Added
+  - Header menu
+  - text styling for highlight
 
 ### v1.0.4 (Nov 19th, 2020)
 

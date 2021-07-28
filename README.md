@@ -37,7 +37,7 @@ This is the repository for [the Project Sprint site](https://projectsprint.org) 
 
 ## コントリビューターとしての参加の方法
 
-* [For Contributors](https://projectsprint.org/contribute.html)
+* [For Contributors](https://projectsprint.org/contributing.html)
 
 ## Deployment / Staging Site
 
