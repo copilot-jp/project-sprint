@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips10: テンショントリアージの方法"
+title: "テンショントリアージの方法"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

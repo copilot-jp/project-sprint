@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips3: プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）"
+title: "プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips12: ミーティングを定例開催にする理由"
+title: "ミーティングを定例開催にする理由"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
