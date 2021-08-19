@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips8: アジェンダアイテムに含まれているとよい全要素"
+title: "アジェンダアイテムに含まれているとよい全要素"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips6: ロールシートの利用"
+title: "ロールシートの利用"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips15: チームの定義"
+title: "チームの定義"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
