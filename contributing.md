@@ -30,7 +30,7 @@ Issueが作成された後、そのIssueに対応するべきかどうか、そ�
 
 Pull RequestやIssue上での議論を経て加えられた変更内容は、定期的なタイミングで[Project Sprint](https://projectsprint.org) のウェブサイトに反映されます。
 
-変更箇所は[リリースノート](https://projectsprint.org/releasenotes.html)に記載されるほか、[Slackコミュニティ https://projectsprint.slack.com/](https://projectsprint.slack.com/) の #04_SGMs/PJS_リリース情報 チャンネル内でもアナウンスされます。
+変更箇所は[リリースノート](https://projectsprint.org/releasenotes.html)に記載されるほか、[Slackコミュニティ](https://projectsprint.slack.com/) の #04_SGMs/PJS_リリース情報 チャンネル内でもアナウンスされます。
 
 #### GitHub上での相談相手
 

@@ -25,6 +25,10 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 * [コントリビューターとしての参加の方法](contributing.md)
 
+## Release Management
+
+* [リリースマネジメント](releasemanagement.md)
+
 ## License
 
 Released under the [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/) license. See [LICENSE](LICENCE).
