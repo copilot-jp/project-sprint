@@ -4,11 +4,12 @@
   <div class="wrapper">
 
     <h2 class="footer-heading">
-      <a href="/">{{ site.title | escape }}</a>
+      {{ site.title | escape }}
     </h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+
+      <div class="footer-col footer-col-3">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -21,17 +22,38 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
+        <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></p>
+        <p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
       </div>
 
-      <div class="footer-col footer-col-1">
-        <a href="/ja/">Japanese</a> | <a href="/en/">English</a>
+      <div class="footer-col footer-col-3">
+        <ul>
+          <li><a href="/index.html">Project Sprint</a></li>
+          <li><a href="/releasenotes.html">Release Notes</a></li>
+          <li><a href="/contributing.html">コントリビューターとしての参加の方法</a></li>
+        </ul>
+        <ul>
+          <li><a href="/ja/index.html">Project Sprint CODE (Japanese)</a></li>
+          <ul>
+            <li><a href="/ja/code/tutorial/index.html">Tutorial</a></li>
+            <li><a href="/ja/code/essentials.html">Essentials</a></li>
+            <li><a href="/ja/code/tips/index.html">Tips</a></li>
+            <li><a href="/ja/code/advance.html">Advance</a></li>
+            <li><a href="/ja/code/reference.html">Reference</a></li>
+          </ul>
+        </ul>
+        <ul>
+          <li><a href="/en/index.html">Project Sprint CODE (English)</a></li>
+          <ul>
+            <li><a href="/en/code/tutorial/">Tutorial</a></li>
+            <li><a href="/en/code/essentials.html">Essentials</a></li>
+            <li><a href="/en/code/tips/index.html">Tips</a></li>
+            <li><a href="/en/code/advance.html">Advance</a></li>
+            <li><a href="/en/code/reference.html">Reference</a></li>
+          </ul>
+        </ul>
       </div>
 
-      <div class="footer-col footer-col-1">
-        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-        <br />
-        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-      </div>
     </div>
 
   </div>
