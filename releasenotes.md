@@ -5,7 +5,7 @@ title: "Release Notes"
 
 ## CODE
 
-### v2.2.0 (Sep ●th, 2021)
+### v2.2.0 (Sep 28th, 2021)
 
 - JA
   - スタンドアップの導入についての記述をTipsに追加。
