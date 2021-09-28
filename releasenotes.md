@@ -151,7 +151,7 @@ title: "Release Notes"
 
 ## Site
 
-### v1.1.1 (Sep 27th, 2021)
+### v1.1.1 (Sep 28th, 2021)
 
 - Updated
   - Header navigation for English pages
