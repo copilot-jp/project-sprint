@@ -36,6 +36,7 @@ Pull RequestやIssue上での議論を経て加えられた変更内容は、定
 
 | 相談したい内容 | 相談相手の GitHub Username |
 | --- | --- |
+| コントリビューター行動規範に関すること | [@KokoroKagawa](https://github.com/KokoroKagawa)(コミュニティーリーダー) |
 | projectsprint.orgに記載されている文章に関すること<br>このリポジトリにおけるGitHub運用に関すること | [@KokoroKagawa](https://github.com/KokoroKagawa) |
 | projectsprint.orgに記載されている図表に関すること<br>projectsprint.org のサイト仕様に関すること | [@kikuchiharuma](https://github.com/kikuchiharuma) |
 | そのほか、どうしたらよいかわからないことすべて | [@motoi](https://github.com/motoi) |

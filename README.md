@@ -38,6 +38,7 @@ This is the repository for [the Project Sprint site](https://projectsprint.org) 
 ## コントリビューターとしての参加の方法
 
 * [For Contributors](https://projectsprint.org/contributing.html)
+* [コントリビューター規範](https://projectsprint.org/ja/codeofconduct.html)（英語版：[Code of Conduct](https://projectsprint.org/en/codeofconduct.html)）
 
 ## Deployment / Staging Site
 
