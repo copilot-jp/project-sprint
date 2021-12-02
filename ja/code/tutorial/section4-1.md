@@ -31,10 +31,9 @@ image: https://projectsprint.org/images/pjs_og.png
 振り返りの実施についてもミーティングのアジェンダアイテムとなるため、事前にアジェンダアイテムの提出を行う必要があります。
 
 ##### このページと関係するTips
-- [実務で使いやすいロールの設定](../tips/tips6.md)
-- [継続的改善アプローチ](tips14.md)
-- [代表的な振り返りの手法](tips15.md)
-
+- [継続的改善アプローチ](tips4.md)
+- [代表的な振り返りの手法](tips5.md)
+- [テンショントリアージの方法](tips6.md)
 ---
 
 ##### Project Sprint CODE
