@@ -145,9 +145,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 
 ##### このページと関係するTips
-- [チームが納得できて作業効率のよいタスクの設定方法](../tips/tips4.md)
-- [アジェンダに含まれているとよい全要素](../tips/tips10.md)
-- [テンショントリアージの手法](../tips/tips16.md)
+- [テンショントリアージの手法](../tips/tips6.md)
 
 ---
 
