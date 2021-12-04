@@ -10,7 +10,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 #### プロジェクト環境にまつわるTips
 Tips1. [プロジェクトの時間軸を整理するための便利な考え方（トラック/フェーズ)](tips1.md)<br>
-Tips2. [スタンドアップの導入](Tips2.md)
+Tips2. [スタンドアップの導入](tips2.md)
 
 #### ミーティングにまつわるTips
 Tips3. [ミーティングを定例開催にする理由](tips3.md)
