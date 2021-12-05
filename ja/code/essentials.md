@@ -20,5 +20,4 @@ image: https://projectsprint.org/images/pjs_og.png
 
 - [Tutorial](./tutorial/index.md)
 - Essentials
-- [Advance](./advance.md)
 - [Reference](./reference.md)

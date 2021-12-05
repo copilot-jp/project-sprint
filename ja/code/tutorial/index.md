@@ -56,5 +56,4 @@ image: https://projectsprint.org/images/pjs_og.png
 - Tutorial
 - [Essentials](../essentials.md)
 - [Tips](../tips/index.md)
-- [Advance](../advance.md)
 - [Reference](../reference.md)
