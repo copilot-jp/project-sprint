@@ -15,11 +15,6 @@ Tips2. [スタンドアップの導入](tips2.md)
 #### ミーティングにまつわるTips
 Tips3. [ミーティングを定例開催にする理由](tips3.md)
 
-#### 改善にまつわるTips
-Tips4. [継続的改善アプローチ](tips4.md)<br>
-Tips5. [代表的な振り返りの手法](tips5.md)<br>
-Tips6. [テンショントリアージの方法](tips6.md)
-
 ---
 
 ##### Project Sprint CODE
