@@ -22,6 +22,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 - [プロジェクトの環境整備](section2-0.md)
 - [プロジェクトのゴールとマイルストーンを設定する](section2-1.md)
+  - [プロジェクトの時間軸を整理するための便利な考え方：トラックとフェーズ](section2-1-1.md)
 - [チームメンバーを知り、ロールを設定する](section2-2.md)
 - [ミーティングを設計する](section2-3.md)
 
