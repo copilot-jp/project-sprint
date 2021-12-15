@@ -49,7 +49,7 @@ image: https://projectsprint.org/images/pjs_og.png
 #### さらに興味のある方へ
 プロジェクトスプリントを学習・実践し、自らもメソッド作りに改善提案や貢献をしたいと思われる方向けに、その方法について記載しています。
 
-- [コントリビューターとしての参加の方法](https://projectsprint.org/contributing.html)
+- [コントリビューターとしての参加の方法](/contributing.md)
 
 ---
 
