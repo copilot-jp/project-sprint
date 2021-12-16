@@ -32,7 +32,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 **Case1. 自らプロジェクトスプリントの導入を主導する方**
 1. [Tutorial](../ja/code/tutorial/index.md)を通読し、基本的な理解をする
-2. [Essentials](../ja/code/essentials.md)を読み、全体像や重要な箇所をつかむ
+2. [Essentials](../ja/code/essentials.md)を読み、核となる行動規範や重要な箇所をつかむ
 3. 分からないことがあれば、[Reference](../ja/code/reference.md)を読み、理解を深める
 
 **Case2. プロジェクトスプリントを導入することが決まったプロジェクトのメンバーの方**
@@ -43,6 +43,6 @@ image: https://projectsprint.org/images/pjs_og.png
 
 **Case4. プロジェクトスプリントというメソッドの発展に貢献したいと考えてくださる方**
 1. [Tutorial](../ja/code/tutorial/index.md)を読み、基本的な理解を深める
-2. [Essentials](../ja/code/essentials.md)を読み、全体像や重要な個所をつかむ
-3. [Advance](../ja/code/advance.md)を読み、最新の議論を知る
-5. [Reference](../ja/code/reference.md)を読み、背景にある考え方をより深く理解する
+2. [Essentials](../ja/code/essentials.md)を読み、核となる行動規範や重要な箇所をつかむ
+3. [Reference](../ja/code/reference.md)を読み、背景にある考え方をより深く理解する
+4. [コントリビューターとしての参加の方法](contributing.md)に沿って、気づきを共有したり改善提案を行ったりする
