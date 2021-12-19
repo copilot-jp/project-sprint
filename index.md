@@ -9,11 +9,15 @@ image: https://projectsprint.org/images/pjs_og.png
 
 Methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
 
-# Project Sprint CODE
+# Project Sprint CODE v3
 
 * [日本語](ja/index.md)
 
-* [English](en/index.md)
+## Project Sprint CODE v2
+
+* 日本語 [v2.2.0](oldversions/v2_2_0/ja/index.md)
+
+* English [v2.0.1](oldversions/v2_2_0/en/index.md)
 
 ## Release Notes
 
@@ -27,7 +31,7 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 ## Release Management
 
-* [リリースマネジメント](releasemanagement.md)
+* [Release Management](releasemanagement.md)
 
 ## License
 
