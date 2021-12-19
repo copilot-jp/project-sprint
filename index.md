@@ -11,7 +11,7 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 # Project Sprint CODE v3
 
-* [日本語](ja/index.md)
+* 日本語 [v3.0.0]](ja/index.md)
 
 ## Project Sprint CODE v2
 
