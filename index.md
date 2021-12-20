@@ -11,9 +11,15 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 # Project Sprint CODE
 
-* [日本語](ja/index.md)
+## Version 3
 
-* [English](en/index.md)
+* 日本語 [v3.0.0-alpha](ja/index.md)
+
+## Version 2
+
+* 日本語 [v2.2.0](oldversions/v2_2_0/ja/index.md)
+
+* English [v2.0.1](oldversions/v2_2_0/en/index.md)
 
 ## Release Notes
 
@@ -27,7 +33,7 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 ## Release Management
 
-* [リリースマネジメント](releasemanagement.md)
+* [Release Management](releasemanagement.md)
 
 ## License
 
