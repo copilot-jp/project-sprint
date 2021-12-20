@@ -45,4 +45,4 @@ image: https://projectsprint.org/images/pjs_og.png
 1. [Tutorial](../ja/code/tutorial/index.md)を読み、基本的な理解を深める
 2. [Essentials](../ja/code/essentials.md)を読み、核となる行動規範や重要な箇所をつかむ
 3. [Reference](../ja/code/reference.md)を読み、背景にある考え方をより深く理解する
-4. [コントリビューターとしての参加の方法](contributing.md)に沿って、気づきを共有したり改善提案を行ったりする
+4. [コントリビューターとしての参加の方法](/contributing.md)に沿って、気づきを共有したり改善提案を行ったりする
