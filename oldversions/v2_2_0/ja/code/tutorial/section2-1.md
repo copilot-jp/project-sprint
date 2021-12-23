@@ -52,7 +52,7 @@ image: https://projectsprint.org/images/pjs_og.png
 マイルストーンが作れないときは、ゴールを見直してください。前述のように、ゴールにはマイルストーンがかける程度の具体性がある必要があります。
 
 ##### ゴールとマイルストーンの関係
-![ゴールとマイルストーンの関係](/ja/images/goal-milestone.png)
+![ゴールとマイルストーンの関係](../../images/goal-milestone.png)
 ([Project Sprint CODE Essentials](../../code/essentials.md)より引用）
 
 #### 設定したゴールとマイルストーンの扱い
