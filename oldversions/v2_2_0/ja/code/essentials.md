@@ -18,7 +18,7 @@ image: https://projectsprint.org/images/pjs_og.png
 プログレスとチーミングのアクティビティとプロセスを定期的・反復的に繰り返すことで、プログレスとチーミングのステータスが理想の状態に近づくことができます。
 
 ##### プロジェクトスプリント概念図
-![プロジェクトスプリント概念図](/ja/images/essentials.png)
+![プロジェクトスプリント概念図](../images/essentials.png)
 
 
 ## ステータス

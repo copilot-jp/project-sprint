@@ -11,7 +11,7 @@ image: https://projectsprint.org/images/pjs_og.png
 プロジェクトスプリントでは、プロジェクトを推進するための活動を3つに分けて考えます。
 
 ##### プロジェクトスプリント概念図
-![プロジェクトスプリント概念図](/ja/images/essentials.png)
+![プロジェクトスプリント概念図](../../images/essentials.png)
 ([Project Sprint CODE Essentials](../essentials.md)より引用）
 
 - プログレス：プロジェクトの成果物やゴールにフォーカスした活動
