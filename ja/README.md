@@ -1,7 +1,5 @@
 # CODE (Japanese)
 
-
-
 ![Project Sprint](../images/pjs\_logo.png)
 
 **CODEとは**
