@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Holding a Meeting"
+title: Holding a Meeting
 image: https://projectsprint.org/images/pjs_og.png
 ---
+
+# Holding a Meeting
 
 The content of this article falls under the "process domain" in Project Sprint.
 
@@ -10,22 +12,23 @@ Process is a Project Sprint-specific mechanism that revolves around regular meet
 
 This article is divided into two time frames: meeting preparation/meeting holding. This article is about preparing for a meeting.
 
-#### "Type" of a Meeting
+**"Type" of a Meeting**
+
 This article describes the basic progression of a meeting in a Project Sprint. The general structure of the meeting is as follows, and it will be easier to understand the contents of each meeting if you have this in mind first.
 
-- Early stage: Task progress report, tension triage, agenda triage
-- Middle: Individual agenda progression
-- End: Confirmation of tasks that came out of this meeting, and confirmation of the agenda for the next meeting
+* Early stage: Task progress report, tension triage, agenda triage
+* Middle: Individual agenda progression
+* End: Confirmation of tasks that came out of this meeting, and confirmation of the agenda for the next meeting
 
 In addition, the beginning and end of the meeting are particularly easy to formulate, and as time goes on, the specific methodology, time requirements, and order of details will become more defined. Find the "pattern" of the meeting that works best for your team.
 
-#### Task Progress Report and Tension Triage
+**Task Progress Report and Tension Triage**
 
 At the beginning of the meeting, do a task progress report and a tension triage. Through these, team members can update each other on what has happened between the last meeting and the current meeting. The results of the discussion will help you decide what to talk about at the meeting that day.
 
 Note that task progress reports and tension triage are agendas in themselves. Therefore, although they are conducted before the agenda triage described below, the facilitator (moderator) needs to manage the progress of these agendas as well.
 
-##### Task Progress Reports
+**Task Progress Reports**
 
 With the exception of the first meeting, each person should have created some tasks after the previous meetings. Check the progress of these tasks.
 
@@ -33,7 +36,7 @@ If the tasks have resulted in outputs, check to see if there is an agenda to be 
 
 If it has already been submitted as an agenda, there is no need to add it here.
 
-##### Tension Triage
+**Tension Triage**
 
 Tension is "the feeling of discomfort you want to convey to other members as you spend time on the project. Specifically, it refers to the gap between the current state and the better state, the little ideas, concerns, and anxieties that each member thinks could be made better. Triage refers to the act of sorting and prioritizing.
 
@@ -45,7 +48,7 @@ The content shared in the tension triage should be dropped into actions for reso
 
 If a task has already been listed or submitted as an agenda, there is no need to add it here.
 
-#### Agenda Triage
+**Agenda Triage**
 
 The next step is to perform agenda triage. Agenda triage involves all team members present at the meeting.
 
@@ -76,15 +79,15 @@ After prioritizing, any agenda items that cannot be discussed on the day of the 
 
 The agenda items that will be discussed on the day can be discussed in the order of priority, or they can be rearranged so that related topics can continue to be discussed, depending on the content. The advantage of reordering is that it is more efficient to discuss related topics in succession.
 
-#### Facilitating the Meeting
+**Facilitating the Meeting**
 
-##### Digesting Individual Agendas
+**Digesting Individual Agendas**
 
 Once the agenda triage is complete, it is time to discuss each agenda item individually.
 
 Each individual agenda will be facilitated mainly by the respective agenda owner based on the agenda already listed. Facilitators (accelerators) should participate in the discussion to improve the content and final conclusion of the discussion. A recorder should be used to record the process and content of the discussion in real time, so that it is always available to the participants.
 
-##### Managing the Agenda
+**Managing the Agenda**
 
 The facilitator (moderator) is responsible for managing and coordinating the agenda throughout the meeting. However, all of the agenda management and coordination described below should be discussed with team members. Again, the basic criterion for decision-making is what options are most effective for achieving the most recent milestone, but ultimately the conclusions reached by the team members will take precedence.
 
@@ -94,13 +97,11 @@ If the agenda extends beyond the scheduled time, the facilitator (moderator) sho
 
 If carried over to the next session, this agenda should be
 
-
 {:start="3"}
+
 1. Agenda carried over from the previous week
 
-Agenda carried over from the previous week
-If you want to carry it over to the next meeting, this agenda will be treated as one of the The details of the agenda should have been completed by now, but you should also be able to check the recorder so that you can keep track of what has been discussed in the previous meetings.
-
+Agenda carried over from the previous week If you want to carry it over to the next meeting, this agenda will be treated as one of the The details of the agenda should have been completed by now, but you should also be able to check the recorder so that you can keep track of what has been discussed in the previous meetings.
 
 If you decide to continue the discussion until a certain conclusion is reached, adjust the time for other agenda items or, in some cases, carry over other agenda items to the next meeting.
 
@@ -109,53 +110,56 @@ If an agenda item ends earlier than planned, consider extending the time of the 
 Also, discussion of individual agendas may result in new content to be discussed, or agendas. In this case, you need to consider whether to treat it as an additional agenda item for the day or carry it over to the next meeting.
 
 If you want to treat it as an additional agenda item for the day, do one of the following
-- Adjust the time for other agenda items.
-- Carry over the other agenda items to a future meeting
-- Check with all meeting participants to extend the meeting time.
+
+* Adjust the time for other agenda items.
+* Carry over the other agenda items to a future meeting
+* Check with all meeting participants to extend the meeting time.
 
 If the content of the agenda is clear, it can be discussed on the day of the meeting, but if not, it is better to carry it over to the next meeting. If not, you may want to carry it over to the next meeting.
 
 {:start="1"}
+
 1. Agenda submitted before the meeting
 
 will be treated as one of the agenda items submitted before the meeting.
 
 {:start="3"}
+
 1. Agenda carried over from the previous week
 
 The difference between this and the previous week's agenda is that the content of the agenda is not explicitly defined. Therefore, it is important to end the meeting with at least a clear agenda owner for any agenda that arises during the meeting. The agenda owner should then make sure to clarify the content of the other agenda items in advance before the next meeting.
 
-#### At the End of the Meeting
+**At the End of the Meeting**
 
 At the end of the meeting, review the tasks that came out of the meeting and the agenda for the next meeting. This will allow you to review the results of this meeting and what needs to be done before the next meeting. As a precondition for these tasks, it is also effective to conduct a milestone review. This will make it easier to prioritize what needs to be done and to what extent before the next meeting.
 
 These are also agendas in themselves. Therefore, it is necessary for the facilitator (moderator) to manage these agendas as well.
 
-##### Confirmation of the tasks that came out of this meeting
+**Confirmation of the tasks that came out of this meeting**
 
 Through the discussion of the agenda discussed in this meeting, there should be some tasks that the team members should do. Based on the recorder's record, check and list the tasks that were created. Be sure to clearly identify the specific action, person in charge, and deadline for the listed tasks.
 
-##### Confirmation of the agenda for the next and subsequent meetings
+**Confirmation of the agenda for the next and subsequent meetings**
 
 Although the actual agenda for the meeting is not finalized until the day of the meeting, at the end of each meeting, discuss the agenda to be discussed at the next meeting. Such an agenda could include, for example, the following
 
-- Agenda items that have been carried over to the next meeting
-- Agenda items that should be discussed at a predetermined timing, such as progress confirmation.
+* Agenda items that have been carried over to the next meeting
+* Agenda items that should be discussed at a predetermined timing, such as progress confirmation.
 
 By confirming with all team members in advance, it is easier to prevent the agenda owner from failing to submit an agenda or incomplete content in an agenda that has been carried over.
 
+**Tips related to this page**
 
-##### Tips related to this page
+* [All elements that should be included in an agenda](../tips/tips8.md)
+* [How to proceed with tension triage](../tips/tips10.md)
+* [How to set tasks in a way that makes sense to the team and is efficient](../tips/tips11.md)
 
-- [All elements that should be included in an agenda](../tips/tips8.md)
-- [How to proceed with tension triage](../tips/tips10.md)
-- [How to set tasks in a way that makes sense to the team and is efficient](../tips/tips11.md)
+***
 
----
+**Project Sprint CODE**
 
-##### Project Sprint CODE
-- [Tutorial](../tutorial/index.md)
-- [Essentials](../essentials.md)
-- [Tips](../tips/index.md)
-- [Advance](../advance.md)
-- [Reference](../reference.md)
+* [Tutorial](broken-reference)
+* [Essentials](../../../../../code/essentials.md)
+* [Tips](../tips/index.md)
+* [Advance](../advance.md)
+* [Reference](../reference.md)

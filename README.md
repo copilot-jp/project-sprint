@@ -20,7 +20,7 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 ### Version 2
 
 * 日本語 [v2.2.0](oldversions/v2\_2\_0/ja/index.md)
-* English [v2.0.1](oldversions/v2\_2\_0/en/index.md)
+* English [v2.0.1](broken-reference)
 
 ### Release Notes
 

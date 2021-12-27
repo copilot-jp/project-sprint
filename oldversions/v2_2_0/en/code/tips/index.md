@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Project Sprint CODE Tips"
+title: Project Sprint CODE Tips
 image: https://projectsprint.org/images/pjs_og.png
 ---
 
+# Project Sprint CODE Tips
+
 This set of documents contains detailed and in-depth explanations of Project Sprint.
 
-### Table of Contents
+#### Table of Contents
 
 1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](tips1.md)
 2. [Using a Milestone Map](tips2.md)
@@ -14,7 +16,7 @@ This set of documents contains detailed and in-depth explanations of Project Spr
 4. [Preparing Project Environments](tips4.md)
 5. [Setting Up Roles That Are Easy to Use in Practice](tips5.md)
 6. [Using a Roll Sheet](tips6.md)
-7. [Know-How About the Meeting Environment](tips7.md)
+7. [Know-How About the Meeting Environment](../../../../../code/tips/tips7.md)
 8. [All Elements That Should be Included in the Agenda](tips8.md)
 9. [Typical Looking Back Techniques](tips9.md)
 10. [Tension Triage Methods](tips10.md)
@@ -23,11 +25,12 @@ This set of documents contains detailed and in-depth explanations of Project Spr
 13. [Classification and Properties of Roles](tips13.md)
 14. [The Purpose of an Agenda](tips14.md)
 
----
+***
 
-##### Project Sprint CODE
-- [Tutorial](../tutorial/index.md)
-- [Essentials](../essentials.md)
-- Tips
-- [Advance](../advance.md)
-- [Reference](../reference.md)
+**Project Sprint CODE**
+
+* [Tutorial](broken-reference)
+* [Essentials](../../../../../code/essentials.md)
+* Tips
+* [Advance](../advance.md)
+* [Reference](../reference.md)

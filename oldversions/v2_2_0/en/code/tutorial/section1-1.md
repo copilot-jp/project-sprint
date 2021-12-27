@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Project Sprint 101"
+title: Project Sprint 101
 image: https://projectsprint.org/images/pjs_og.png
 ---
+
+# Project Sprint 101
 
 This article provides an overview of Project Sprint and helps you understand the content of individual documents in "Let's Get Ready," "Let's Try," and "Let's Improve".
 
@@ -10,13 +12,13 @@ Project Sprint is a "project promotion method" that enables diverse members to p
 
 In Project Sprint, the activities to promote a project are divided into three categories.
 
-##### Project Sprint Conceptual Diagram
-![Project Sprint Conceptual Diagram](/en/images/essentials.png)
-([Project Sprint CODE Essentials](../essentials.md)より引用）
+**Project Sprint Conceptual Diagram**
 
-- Progress: Activities that focus on the deliverables and goals of the project
-- Process: Activities that focus on the procedures that drive the project forward
-- Teaming: Activities that focus on the relationships among team members
+![Project Sprint Conceptual Diagram](../../../../../en/images/essentials.png) ([Project Sprint CODE Essentials](../essentials.md)より引用）
+
+* Progress: Activities that focus on the deliverables and goals of the project
+* Process: Activities that focus on the procedures that drive the project forward
+* Teaming: Activities that focus on the relationships among team members
 
 The basic mechanism of Project Sprint is "to make progress and teaming ideal through process." So, what exactly is the "ideal state" of progress and teaming?
 
@@ -32,11 +34,12 @@ In Project Sprint, meetings are used as "a place where all team members can shar
 
 Through these meetings, we can share the progress of the project, continuously improve the way the project is carried out, review milestones toward the project goal, and confirm each other's roles.
 
----
+***
 
-##### Project Sprint CODE
-- [Tutorial](../tutorial/index.md)
-- [Essentials](../essentials.md)
-- [Tips](../tips/index.md)
-- [Advance](../advance.md)
-- [Reference](../reference.md)
+**Project Sprint CODE**
+
+* [Tutorial](index.md)
+* [Essentials](../essentials.md)
+* [Tips](broken-reference)
+* [Advance](../../../../../code/advance.md)
+* [Reference](../../../../../code/reference.md)

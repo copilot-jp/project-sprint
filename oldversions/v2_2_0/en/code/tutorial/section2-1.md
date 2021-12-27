@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Setting Goals and Milestones for a Project"
+title: Setting Goals and Milestones for a Project
 image: https://projectsprint.org/images/pjs_og.png
 ---
+
+# Setting Goals and Milestones for a Project
 
 The content of this article is the "progress domain" in Project Sprint.
 
 The "ideal state" of the progress domain is the state in which the goals of the project have been achieved. Therefore, the first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve the goal and the path to create the deliverables (called milestones).
 
-#### Defining Project Goals
+**Defining Project Goals**
 
 First, what is the goal of the project you are working on? Is it to develop a new business concept and create new value? Or are you working to achieve a set value, such as improving the efficiency of a system? Either way, make sure you have a clear goal for your project.
 
@@ -18,9 +20,9 @@ In practice, however, it is often the case that all the team members first excha
 
 In this case, the process of formulating is as follows
 
-- Background of the project (relevant business plans, etc.)
-- Preliminary knowledge of the project to be undertaken
-- Constraints such as budget and deadline
+* Background of the project (relevant business plans, etc.)
+* Preliminary knowledge of the project to be undertaken
+* Constraints such as budget and deadline
 
 It will be smoother if a person who has a deep understanding of the basic information surrounding the project.
 
@@ -30,7 +32,8 @@ The goal should be specific enough to allow for the creation of milestones as de
 
 If you are unable to create a goal, you may set up a preliminary project in which the goal itself is to create a goal and intensively study it. In this case, the milestone is to gather basic information surrounding the project (background of the project, prior knowledge about the project, and constraints), with the goal of making the goal explicit. Based on the clarified goal, set the original project milestones.
 
-#### Setting Milestones
+**Setting Milestones**
+
 A milestone is a description of a specific point in a project with a set of concrete deliverables and a deadline associated with it. Milestones are set as many times as necessary, counting backward from the goal of the project, and most often there are multiple milestones.
 
 By referring to the milestones, the team can see what they need to do from the current point and what they should aim for afterwards.
@@ -51,31 +54,33 @@ Usually, the most recent milestones are more specific in terms of both due date 
 
 If you are unable to create milestones, review your goals. As mentioned earlier, the goal needs to be specific enough to allow for milestones.
 
-##### Relationship between Goals and Milestones
-![Relationship between Goals and Milestones](/en/images/goal-milestone_eng.png)
-(cited from [Project Sprint CODE Essentials](../../code/essentials.md)）
+**Relationship between Goals and Milestones**
 
-#### Handling of Setting Goals and Milestones
+![Relationship between Goals and Milestones](../../../../../en/images/goal-milestone\_eng.png) (cited from [Project Sprint CODE Essentials](../../../../../code/essentials.md)）
+
+**Handling of Setting Goals and Milestones**
+
 The goals and milestones you set should be available to team members at all times.
 
 This way, when team members perform a task during the project or discuss it among themselves, they can immediately check whether the milestone or the goal of the project beyond the milestone has been met.
 
 Also, be aware that milestones and goals can be changed according to the situation. Milestones and goals can be changed at any time during the project, based on changes in the environment surrounding the project and what you learn as you actually complete the tasks.
 
-The actual process of changing them is explained [in Reviewing a project's goals and milestones](../tutorial/section4-2.md).
+The actual process of changing them is explained [in Reviewing a project's goals and milestones](section4-2.md).
 
+**Tips related to this page**
 
-##### Tips related to this page
-- [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1.md)
-- [Using the Milestone Map](../tips/tips2.md)
-- [What kinds of things are produced in a project (outputs/artifacts)](../tips/tips3.md)
-- [Preparing the project environment](../tips/tips4.md)
+* [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1.md)
+* [Using the Milestone Map](../tips/tips2.md)
+* [What kinds of things are produced in a project (outputs/artifacts)](../tips/tips3.md)
+* [Preparing the project environment](../tips/tips4.md)
 
----
+***
 
-##### Project Sprint CODE
-- [Tutorial](../tutorial/index.md)
-- [Essentials](../essentials.md)
-- [Tips](../tips/index.md)
-- [Advance](../advance.md)
-- [Reference](../reference.md)
+**Project Sprint CODE**
+
+* [Tutorial](broken-reference)
+* [Essentials](../../../../../code/essentials.md)
+* [Tips](../tips/index.md)
+* [Advance](../advance.md)
+* [Reference](../reference.md)

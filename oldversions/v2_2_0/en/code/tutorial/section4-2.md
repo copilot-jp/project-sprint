@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Reviewing Project Goals and Milestones"
+title: Reviewing Project Goals and Milestones
 image: https://projectsprint.org/images/pjs_og.png
 ---
+
+# Reviewing Project Goals and Milestones
 
 The content of this article falls under the "progress domain" in Project Sprint.
 
@@ -10,10 +12,12 @@ The process is a Project Sprint-specific mechanism that revolves around regular 
 
 In this article, we will discuss project goals and milestone reviews.
 
-#### Milestone Review
-As mentioned [in Designing Project Goals and Milestones](../tutorial/section2-1.md), milestones and project goals can be changed. Milestones and goals can be changed at any time during the project, based on changes in the environment surrounding the project and what you learn from actually completing the tasks.
+**Milestone Review**
+
+As mentioned [in Designing Project Goals and Milestones](section2-1.md), milestones and project goals can be changed. Milestones and goals can be changed at any time during the project, based on changes in the environment surrounding the project and what you learn from actually completing the tasks.
 
 Milestones should be reviewed at the following times
+
 1. When a milestone has been achieved
 2. When it becomes apparent that a milestone will not be achieved on time (either later or earlier than planned)
 3. When it becomes apparent that a milestone is not appropriate for the project goal.
@@ -21,21 +25,23 @@ Milestones should be reviewed at the following times
 5. When a team member feels that the milestone should be reviewed for some other reason.
 
 You should also review the goals of the project at the following times
+
 1. When the project has progressed to the point where it is clear that the project goal itself needs to be revised.
 2. When milestones are not achieved on time and it becomes clear that the project goal should be revised.
 3. For some other reason, a team member thinks that the project goal should be reviewed.
 
 The implementation of milestone and project goal reviews is also on the meeting agenda, so you will need to submit an agenda in advance.
 
+**Tips related to this page**
 
-##### Tips related to this page
-- [Using a Milestone Map](../tips/tips2.md)
+* [Using a Milestone Map](../tips/tips2.md)
 
----
+***
 
-##### Project Sprint CODE
-- [Tutorial](../tutorial/index.md)
-- [Essentials](../essentials.md)
-- [Tips](../tips/index.md)
-- [Advance](../advance.md)
-- [Reference](../reference.md)
+**Project Sprint CODE**
+
+* [Tutorial](broken-reference)
+* [Essentials](../../../../../code/essentials.md)
+* [Tips](../tips/index.md)
+* [Advance](../advance.md)
+* [Reference](../reference.md)

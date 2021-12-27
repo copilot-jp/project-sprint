@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Designing a Meeting"
+title: Designing a Meeting
 image: https://projectsprint.org/images/pjs_og.png
 ---
+
+# Designing a Meeting
 
 The content of this article falls under the "Process Domain" in Project Sprint.
 
@@ -10,10 +12,11 @@ Process is a Project Sprint-specific mechanism that revolves around regular meet
 
 In this section, we describe the design of the meeting, which is the starting point for the process.
 
-#### Meeting Design
+**Meeting Design**
+
 In the Project Sprint, we regard a meeting as a place where all team members can share space and time, quickly and efficiently recognize each other, and make decisions that everyone agrees on. To achieve this, design the meeting appropriately and agree on it with the project members.
 
-First, the meeting needs to be a regular meeting. For more information on why this is so, see [Tip 12]((../tips/tips12.md)).
+First, the meeting needs to be a regular meeting. For more information on why this is so, see [Tip 12](\(../tips/tips12.md\)).
 
 The frequency of meetings can be weekly, monthly, bi-weekly, etc., depending on the nature of the project and the number of team members. However, considering that the project sprint is a project promotion method, it is unlikely that meetings will be held more than every other month.
 
@@ -23,17 +26,18 @@ However, since the agenda for a meeting is not always consistent, it is often be
 
 In addition, make sure that the meeting environment is conducive to the aforementioned participants and that information is shared in real time. This is an important point in order to achieve the quick and efficient recognition mentioned above. Specifically, prepare a remote meeting environment where people can participate regardless of their location, and use a document sharing service to share what has been decided on the spot.
 
+**Tips related to this page**
 
-##### Tips related to this page
-- [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1.md)
-- [Know-how about the meeting environment](../tips/tips7.md)
-- [Developing a project environment](../tips/tips4.md)
+* [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1.md)
+* [Know-how about the meeting environment](../../../../../code/tips/tips7.md)
+* [Developing a project environment](../tips/tips4.md)
 
----
+***
 
-##### Project Sprint CODE
-- [Tutorial](../tutorial/index.md)
-- [Essentials](../essentials.md)
-- [Tips](../tips/index.md)
-- [Advance](../advance.md)
-- [Reference](../reference.md)
+**Project Sprint CODE**
+
+* [Tutorial](broken-reference)
+* [Essentials](../../../../../code/essentials.md)
+* [Tips](../tips/index.md)
+* [Advance](../advance.md)
+* [Reference](../reference.md)
