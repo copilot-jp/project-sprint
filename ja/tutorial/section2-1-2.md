@@ -69,11 +69,3 @@ image: https://projectsprint.org/images/pjs_og.png
 などと呼ぶことができます。
 
 フェーズの名称は、プロジェクトゴールに向けたマイルストーン全体の中でそのフェーズがどういう位置づけなのかが分かるものにします。また、自分たちのチームはもちろん、プロジェクト内の他チームのメンバーから見たときにも何をするのかが分かりやすく記載されていることが重要です。
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

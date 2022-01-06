@@ -44,11 +44,3 @@ Google re:Work\
 #### センスメイキング理論
 
 カール・ワイクを中心に発展されている理論です。正確性よりもチームの納得に重きを置いている考え方に共感しています。
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](essentials.md)
-* Reference

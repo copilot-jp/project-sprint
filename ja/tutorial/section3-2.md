@@ -135,11 +135,3 @@ image: https://projectsprint.org/images/pjs_og.png
 * 進捗確認など、あらかじめタイミングを決めて議論するべきとされるアジェンダアイテム
 
 事前にチームメンバー全員で確認することで、アジェンダアイテムオーナーのアジェンダアイテム提出漏れや、持ち越したアジェンダアイテムの内容の不備を防ぎやすくなります。
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

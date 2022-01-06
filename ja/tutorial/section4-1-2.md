@@ -31,11 +31,3 @@ image: https://projectsprint.org/images/pjs_og.png
    * アジェンダアイテム化する
 2. テンションをあげた人がこれで必要なことが得られれば終了とし、得られなければ、続けて議論する(3と4を詳しく繰り返す)
 3. 時間の許す限り、他のテンションについても2\~5の手順を繰り返す
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

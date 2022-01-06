@@ -42,11 +42,3 @@ image: https://projectsprint.org/images/pjs_og.png
 なおここでいうホワイトボードは、オフラインミーティングにおける物理的なものに限りません。オンラインミーティング用のホワイトボードツールもありますので、そういったものを利用してもかまいませんし、むしろ保存のしやすさという点ではこちらのほうが優れている場合もあります。
 
 また、議事録を画面表示しながらリアルタイムで作成すると、議事録自体がホワイトボードと同様の役割を果たします。この観点からも、議事録の作成とリアルタイム共有は非常に重要です。
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

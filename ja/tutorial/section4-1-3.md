@@ -22,11 +22,3 @@ image: https://projectsprint.org/images/pjs_og.png
 3. 未アサインのヘルプ内容や期待値につき、メンバー相互に議論してアサイン先を決める
 4. 改めて自分のやるべきことを精査し、各々承認し、議論して深める
 5. これまでの議論を踏まえて、各メンバーが自分の役割を更新し共有する
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

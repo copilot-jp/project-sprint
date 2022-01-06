@@ -24,11 +24,3 @@ image: https://projectsprint.org/images/pjs_og.png
 * タスクがリストアップされ、遂行されているか
 * タスクを遂行する中で発見された問題点やテンションが、ミーティングにおけるアジェンダアイテムとしてリストアップされ、議論・意思決定されているか
 * ミーティングにおける議論・意思決定の結果が、次にやるべきこととしてタスクに落とし込まれているか
-
-***
-
-## Project Sprint CODE
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

@@ -115,11 +115,3 @@ image: https://projectsprint.org/images/pjs_og.png
 また、マイルストーンやゴールは状況に合わせて変えてもよいものだと意識してください。プロジェクトを取り巻く環境の変化や実際にタスクを遂行する中でわかってきたことを踏まえて、マイルストーンやゴールはプロジェクト中にいつでも変更することが可能です。
 
 実際の変更の流れは[プロジェクトのゴールとマイルストーンを見直す](section4-2.md)で解説します。
-
-***
-
-**Project Sprint CODE**
-
-* [Tutorial](broken-reference)
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)

@@ -65,11 +65,3 @@
 プロジェクトスプリントを学習・実践し、自らもメソッド作りに改善提案や貢献をしたいと思われる方向けに、その方法について記載しています。
 
 &#x20;  5.1. [コントリビューターとしての参加の方法](../../contributing.md)
-
-***
-
-**Project Sprint CODE**
-
-* Tutorial
-* [Essentials](../essentials.md)
-* [Reference](../reference.md)
