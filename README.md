@@ -15,12 +15,12 @@ Methodology for a diverse and cross-functional teams to drive projects that prod
 
 ### Version 3
 
-* 日本語 [v3.0.0-alpha](broken-reference)
+* 日本語 [v3.0.0-alpha](ja/)
 
 ### Version 2
 
-* 日本語 [v2.2.0](broken-reference)
-* English [v2.0.1](broken-reference)
+* 日本語 [v2.2.0](https://project-sprint.gitbook.io/project-sprint-1/v/v2.2.0-ja/)
+* English [v2.0.1](https://project-sprint.gitbook.io/project-sprint-1/v/v2.0.1-en/)
 
 ### Release Notes
 
