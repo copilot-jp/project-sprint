@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Project Sprint](README.md)
-* [v3.3.0-alpha](ja/README.md)
+* [CODE](ja/README.md)
   * [Tutorial](ja/tutorial/README.md)
     * [Project Sprint 101](ja/tutorial/section1-1.md)
     * [プロジェクトの環境整備](ja/tutorial/section2-0.md)
