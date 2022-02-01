@@ -25,7 +25,7 @@
 
 **このページと関係するTips**
 
-* [実務で使いやすいロールの設定](broken-reference)
-* [ロールシートの利用](broken-reference)
-* [プロジェクトの環境整備](broken-reference)
-* [ロールの分類と性質](broken-reference)
+* [実務で使いやすいロールの設定](../tips/deiyasuirruno.md)
+* [ロールシートの利用](../tips/rrushtono.md)
+* [プロジェクトの環境整備](../tips/purojekutono.md)
+* [ロールの分類と性質](../tips/rrunoto.md)
