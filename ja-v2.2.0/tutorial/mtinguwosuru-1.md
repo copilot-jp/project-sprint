@@ -130,6 +130,6 @@
 
 **このページと関係するTips**
 
-* [アジェンダに含まれているとよい全要素](broken-reference)
-* [テンショントリアージの進め方](broken-reference)
-* [チームが納得できて作業効率のよいタスクの設定方法](broken-reference)
+* [アジェンダに含まれているとよい全要素](../tips/ajendaaitemunimareteirutoyoi.md)
+* [テンショントリアージの方法](../tips/tenshontorijino.md)
+* [チームが納得できて作業効率のよいタスクの設定方法](../tips/chmugadekitenoyoitasukuno.md)

@@ -34,9 +34,9 @@
 
 **このページと関係するTips**
 
-* [実務で使いやすいロールの設定](broken-reference)
-* [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）](broken-reference)
-* [ミーティング環境についてのノウハウ](broken-reference)
-* [プロジェクトの環境整備](broken-reference)
-* [アジェンダに含まれているとよい全要素](broken-reference)
-* [アジェンダの目的](https://github.com/copilot-jp/project-sprint/blob/Gitbook-v2.2.0/ja/code/tips/tips14/README.md)
+* [実務で使いやすいロールの設定](../tips/deiyasuirruno.md)
+* [プロジェクトで作り出されるものにはどのようなものがあるのか（アウトプット/成果物）](../tips/purojekutoderisarerumononihadonoyounamonogaarunokaautoputto.md)
+* [ミーティング環境についてのノウハウ](../tips/mtingunitsuitenonouhau.md)
+* [プロジェクトの環境整備](../tips/purojekutono.md)
+* [アジェンダに含まれているとよい全要素](../tips/ajendaaitemunimareteirutoyoi.md)
+* [アジェンダの目的](../tips/ajendano.md)

@@ -10,7 +10,7 @@
 
 プロジェクトスプリントの基本的な概念の説明と実践方法が順を追って説明されており、読みながらプロジェクトスプリントを実際に導入することができます。
 
-### [**Essentials**](../ja-v3.0.0-alpha/essentials.md)
+### [**Essentials**](essentials.md)
 
 プロジェクトスプリントのコアとなる重要概念について説明されており、全体像を理解することができます。
 
@@ -18,11 +18,11 @@
 
 プロジェクトスプリントにまつわる詳細な説明・深ぼった説明が記載されており、プロジェクトスプリント実践の具体的ノウハウを得たり、より応用がきくようになります。
 
-### [**Advance**](code/advance.md)
+### [**Advance**](advance.md)
 
 プロジェクトスプリントに最新の議論・実験的な概念が記載されており、メソッドのアップデートに関する最新情報を得ることができます。
 
-### [**Reference**](code/reference.md)
+### [**Reference**](reference.md)
 
 プロジェクトスプリントの背景にある諸メソッド・概念・文献について記載されており、プロジェクトスプリントの効率的な理解が可能になり、また今後のメソッドのアップデートに関わりそうな情報を知ることができます。さらに、背景を知ることでメソッドの応用も可能になります。
 
@@ -40,9 +40,9 @@
 **Case1. 自らプロジェクトスプリントの導入を主導する方**
 
 1. [Tutorial](tutorial/)を通読し、基本的な理解をする
-2. [Essentials](code/essentials.md)を読み、全体像や重要な箇所をつかむ
+2. [Essentials](essentials.md)を読み、全体像や重要な箇所をつかむ
 3. [Tips](tips/)を読み、様々な状況に対応できるようにする
-4. 分からないことがあれば、[Reference](code/reference.md)を読み、理解を深める
+4. 分からないことがあれば、[Reference](reference.md)を読み、理解を深める
 
 **Case2. プロジェクトスプリントを導入することが決まったプロジェクトのメンバーの方**
 
@@ -51,12 +51,12 @@
 
 **Case3. プロジェクトスプリントというものの概要を手早く理解したい方**
 
-1. Tutorialの「[Project Sprint 101](code/tutorial/section1-1.md)」を読む
+1. Tutorialの「[Project Sprint 101](tutorial/project-sprint-101.md)」を読む
 
 **Case4. プロジェクトスプリントというメソッドの発展に貢献したいと考えてくださる方**
 
 1. [Tutorial](tutorial/)を読み、基本的な理解を深める
-2. [Essentials](code/essentials.md)を読み、全体像や重要な個所をつかむ
+2. [Essentials](essentials.md)を読み、全体像や重要な個所をつかむ
 3. [Tips](tips/)を読み、より詳細な説明、深ぼった説明を理解する
-4. [Advance](code/advance.md)を読み、最新の議論を知る
-5. [Reference](code/reference.md)を読み、背景にある考え方をより深く理解する
+4. [Advance](advance.md)を読み、最新の議論を知る
+5. [Reference](reference.md)を読み、背景にある考え方をより深く理解する
