@@ -1,7 +1,5 @@
 # Conducting a Reflection
 
-
-
 The content of this article falls under the "process domain" in Project Sprint.
 
 Process is a Project Sprint-specific mechanism based on regular meetings and discussion of the agenda at those meetings. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and confirm each other's roles.

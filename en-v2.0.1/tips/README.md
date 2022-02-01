@@ -1,9 +1,5 @@
 # Tips
 
-
-
-
-
 This set of documents contains detailed and in-depth explanations of Project Sprint.
 
 #### Table of Contents

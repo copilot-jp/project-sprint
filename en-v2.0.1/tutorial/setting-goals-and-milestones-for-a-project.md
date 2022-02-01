@@ -1,7 +1,5 @@
 # Setting Goals and Milestones for a Project
 
-
-
 The content of this article is the "progress domain" in Project Sprint.
 
 The "ideal state" of the progress domain is the state in which the goals of the project have been achieved. Therefore, the first step is to define the goals of the project that you want to achieve in the future. Then, we define the deliverables needed to achieve the goal and the path to create the deliverables (called milestones).

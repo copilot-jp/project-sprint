@@ -1,7 +1,5 @@
 # Preparing for a Meeting
 
-
-
 The content of this article falls under the "process domain" in Project Sprint.
 
 Process is a Project Sprint-specific mechanism that revolves around regular meetings and the discussion of the agenda there. This will allow us to achieve the "ideal state" in both the progress and teaming domains.

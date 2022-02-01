@@ -1,7 +1,5 @@
 # Checking Roles
 
-
-
 The content of this article falls under the "teaming domain" in Project Sprint.
 
 The process is a Project Sprint-specific mechanism that revolves around regular meetings and agenda discussions. Through this mechanism, we can share the progress of the project, continuously improve the project process, review milestones toward the project goal, and confirm each other's roles.
