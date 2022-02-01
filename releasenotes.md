@@ -12,7 +12,7 @@ title: Release Notes
 * JA
   * プロジェクトのすべての要素はプロジェクトチームによって規定されるものであるという思想に基づき、プロジェクトチームを主体とする記述に全面アップデートしました。
 
-#### [v2.2.0](https://project-sprint.gitbook.io/project-sprint-1/v/v2.2.0-ja/) (Sep 28th, 2021)
+#### [v2.2.0](ja-v2.2.0/) (Sep 28th, 2021)
 
 * JA
   * スタンドアップの導入についての記述をTipsに追加。

@@ -15,6 +15,5 @@
 
 プロジェクトスプリントのCODEの中でも、目的やゴールの再定義のための仕組みを記載していますので、ご参照いただければと思います。
 
-* [振り返りを行う](../tutorial/ririwou.md)
-* [プロジェクトのゴールとマイルストーンを見直す](../tutorial/purojekutonogrutomairusutnwosu.md)
-
+* [振り返りを行う](https://github.com/copilot-jp/project-sprint/blob/Gitbook-v2.2.0/ja/code/tutorial/section4-1.html)
+* [プロジェクトのゴールとマイルストーンを見直す](https://github.com/copilot-jp/project-sprint/blob/Gitbook-v2.2.0/ja/code/tutorial/section4-2.html)
