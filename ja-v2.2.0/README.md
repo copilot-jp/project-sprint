@@ -1,8 +1,6 @@
-# CODE
+# Ja v2.2.0
 
-
-
-![Project Sprint](../images/pjs\_logo.png)
+## ![Project Sprint](../images/pjs\_logo.png)****
 
 ## **CODEとは**
 
