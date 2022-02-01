@@ -1,46 +1,65 @@
----
-layout: home
-image: https://projectsprint.org/images/pjs_og.png
----
+このリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。
 
-# Project Sprint
+This is the repository for [the Project Sprint site](https://projectsprint.org) hosted by GitHub Pages and build with Minima Template. Project Sprint is the methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations. Discussion in this repository should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else though you cannot use Japanese, please contact [@KokoroKagawa](https://github.com/KokoroKagawa) in English.
 
-![Project Sprint](images/pjs\_logo.png)
+# このリポジトリについて
+ようこそ！このリポジトリには、[Project Sprint](https://projectsprint.org) のウェブサイトをビルドするために必要な全アセットが格納されています。貢献に興味を持っていただきありがとうございます！
 
-多様性のあるメンバーによる部門/組織横断のチームが、不確実性の高い環境・状況で、複雑なアウトプットを行うことを可能にするプロジェクト推進メソッド。
+## Project Sprintとは
+多様性のあるメンバーによる部門/組織横断のチームが、不確実性の高い環境・状況で、複雑なアウトプットを行うことを可能にするプロジェクト推進メソッドです。
 
-Methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
+## コントリビューターを歓迎します
+こんにちは、このメソッドの言い出しっぺである 定金 基 / Sadakane Motoi [@motoi](https://github.com/motoi)です。  
+普段は株式会社コパイロツトという会社で様々なプロジェクトの推進サポートを仕事にしています。  
 
-## Project Sprint CODE
+この Project Sprint プロジェクト ならびに GitHubリポジトリ では、Project Sprint の思想に共感いただき、一緒にメソッドをアップデートしてくれる仲間(=コントリビューター)を募集しています。
 
-### Version 3
+### Project Sprint 公開に至る経緯  
+このメソッドは株式会社コパイロツトのミッションと、そのミッションにのっとりノウハウを公開するところがきっかけになっています。  
+私の勤める株式会社コパイロツトはミッションとして「プロジェクトの推進で失敗する人を減らし、自分の能力を活かして楽しく働く人を増やす」というものを掲げています。  
+そのミッションに基づき、コパイロツト社内のプロジェクト推進の実践知をまとめて公開する。また、このメソッドは世界中の色々なものを参考にさせていただいているので、公開することで自分たちなりに世界に貢献したい。  
+こんな流れで Project Sprint というメソッドをつくり上げましたが、それはきっかけでしかありません。  
+今現在は株式会社コパイロツト以外のメソッドに共感してもらえるメンバーも一緒にこのメソッドを進化させています。
 
-* 日本語 [v3.0.0-alpha](ja/)
+### Project Sprint がオープンになることでどんな社会を目指しているのか
+いま社会は素早く多様に変化をつづけており、それにともない組織やプロジェクトの目的が変化しつづけています。それにともない働き方もプロジェクトベースにシフトしています。  
+そんな社会、組織、プロジェクトの動きに追従できるプロジェクトを推進するメソッドが存在することで、プロジェクトに携わるすべての方々が、安心してプロジェクトにコミットできる状態を作ることができるのではないか、とコントリビューター一同は考えており、日々メソッドを練り上げています。  
+この思想に共感いただける世界中のメンバーでメソッドをアップデートしていくことによって、みんなでプロジェクトが推進できる社会になるとよいなとおもっています。  
 
-### Version 2
+### GitHub経験値は問いません。誰でもご自分に合った方法でご参加ください！
+コントリビューターとして参加するにあたり、GitHubに習熟している必要はありません。このメソッドいいな！と共感いただける方であれば、誰でもどんな方法でも安心してご参加いただき、ぜひご一緒にメソッドを進化させていけたらとおもいます！  
 
-* 日本語 [v2.2.0](https://project-sprint.gitbook.io/project-sprint-1/v/v2.2.0-ja/)
-* English [v2.0.1](https://project-sprint.gitbook.io/project-sprint-1/v/v2.0.1-en/)
+私自身、今回のプロジェクトで初めてGitHubをきちんと利用し始めているので、よちよちと参加しています。
+ですが、熟練のコントリビューターが優しく手助けをしてくれますので、GitHubをこれから覚えるぞ！という方も、どんどんご参加いただければと思います。
+また、私のようにGitHubがまだまだわからない、カルチャーがよくわからない、という方でもご参加いただけるように、GitHubを直接利用しなくても参加いただける方法を用意しています。
 
-### Release Notes
+もちろん、存分にGitHubを使いこなしているかたもお待ちしています！
 
-* [Release Notes](releasenotes.md)
+## コントリビューターとしての参加の方法
 
-### Contributing
+* [For Contributors](https://projectsprint.org/contributing.html)
+* [コントリビューター規範](https://projectsprint.org/ja/codeofconduct.html)（英語版：[Code of Conduct](https://projectsprint.org/en/codeofconduct.html)）
 
-* [GitHub Repository](https://github.com/copilot-jp/project-sprint)
-* [How to Contribute](contributing.md)
+## Deployment / Staging Site
 
-### Release Management
+* projectsprint.org is built from the master branch and hosted by GitHub Pages. Merging to master branch means site release.
 
-* [Release Management](releasemanagement.md)
+* Any pull request against master branch has its preview site build and hosted automatically by Netlify. To get link for a PR see GitHub Pull Request Checks.
 
-### License
+## Running the website locally using Jekyll
 
-Released under the [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/) license. See [LICENSE](LICENCE/).
+1. To test the website locally, you have to install Ruby and Jekyll. See instruction here: https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
 
-### SuperGoodMeetings
+2. Open Terminal and navigate to your local source directory.
 
-複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツール。 Project Sprint をサポートするプロジェクト構造や入力項目を持つ。
+3. Run build process to type this:
 
-* [SuperGoodMeetings](https://supergoodmeetings.com)
+```
+bundle exec jekyll serve
+```
+
+4. Open browser and navigate to http://localhost:4000
+
+## リリースノート
+
+* [Release Notes](https://projectsprint.org/releasenotes.html)
