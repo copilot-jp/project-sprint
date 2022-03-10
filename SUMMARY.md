@@ -23,7 +23,7 @@
     * [プロジェクトスプリントの成功指標](ja-v3.0.0/tutorial/section4-4.md)
   * [Essentials](ja-v3.0.0/essentials.md)
   * [Reference](ja-v3.0.0/reference.md)
-* [Ja v3.0.0](ja-v3.0.0-alpha/README.md)
+* [Ja v3.0.0-alpha](ja-v3.0.0-alpha/README.md)
   * [Tutorial](ja-v3.0.0-alpha/tutorial/README.md)
     * [Project Sprint 101](ja-v3.0.0-alpha/tutorial/section1-1.md)
     * [プロジェクトの環境整備](ja-v3.0.0-alpha/tutorial/section2-0.md)

@@ -5,7 +5,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 # Project Sprint
 
-![Project Sprint](images/pjs\_logo.png)
+![Project Sprint](images/pjs_og.png)
 
 定例ミーティングで取り組みの成果を共有して環境への認識を揃えることを繰り返し、プロジェクトチームが進化するプロジェクトゴールを自律的に達成しつづけるためのメソッド。
 

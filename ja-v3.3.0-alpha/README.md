@@ -1,6 +1,6 @@
 # CODE
 
-![Project Sprint](../images/pjs\_logo.png)
+![Project Sprint](../images/pjs_logo.png)
 
 ## **CODEとは**
 
