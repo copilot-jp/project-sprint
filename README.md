@@ -1,11 +1,4 @@
----
-layout: home
-image: https://projectsprint.org/images/pjs_og.png
----
-
-# Project Sprint
-
-![Project Sprint](images/pjs_og.png)
+![](images/pjs_og.png)
 
 定例ミーティングで取り組みの成果を共有して環境への認識を揃えることを繰り返し、プロジェクトチームが進化するプロジェクトゴールを自律的に達成しつづけるためのメソッド。
 
@@ -13,13 +6,13 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ### Version 3
 
-* 日本語 [v3.0.0](ja-v3.0.0/)
-* 日本語 [v3.0.0-alpha](ja-v3.0.0-alpha/)
+* 日本語 [v3.0.0](ja-v3.0.0/README.md)
+* 日本語 [v3.0.0-alpha](ja-v3.0.0-alpha/README.md)
 
 ### Version 2
 
-* 日本語 [v2.2.0](ja-v2.2.0/)
-* English [v2.0.1](en-v2.0.1/)
+* 日本語 [v2.2.0](ja-v2.2.0/README.md)
+* English [v2.0.1](en-v2.0.1/README.md)
 
 ### Release Notes
 
