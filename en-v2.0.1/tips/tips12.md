@@ -1,6 +1,6 @@
 # Tips12: Why Meetings Should Be Held on a Regular Basis
 
-As described [in Designing a meetings](../tutorial/designing-a-meeting.md), Project Sprint require meetings to be held regularly. Here, we will explain why.
+As described [in Designing a meetings](../tutorial/1-3.md), Project Sprint require meetings to be held regularly. Here, we will explain why.
 
 1.  It guarantees the opportunity to catch up on the differences between the last meeting and the current meeting.
 

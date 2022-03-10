@@ -1,6 +1,6 @@
 # Tips11: How to Set Tasks in a Way That Makes Sense to the Team and Is Efficient
 
-Project Sprint has a cycle of confirming the tasks that came out of the meeting at the end of the meeting, and reporting the progress of the tasks up to that point at the beginning of the next meeting. As explained in the section on [Holding a Meeting](../tutorial/holding-a-meeting.md), when describing a task, you should clarify the following at least;
+Project Sprint has a cycle of confirming the tasks that came out of the meeting at the end of the meeting, and reporting the progress of the tasks up to that point at the beginning of the next meeting. As explained in the section on [Holding a Meeting](../tutorial/2-2.md), when describing a task, you should clarify the following at least;
 
 * Specific action to be taken
 * Person in charge

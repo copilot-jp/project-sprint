@@ -1,6 +1,6 @@
 # Tips10: Tension Triage Methods
 
-As explained in the section on [Holding a meeting](../tutorial/holding-a-meeting.md), conduct a tension triage at the beginning of the meeting. This will allow each member to share the gaps between the current situation and the better situation, as well as any ideas, concerns, or worries that they may have, and to take action to resolve them.
+As explained in the section on [Holding a meeting](../tutorial/2-2.md), conduct a tension triage at the beginning of the meeting. This will allow each member to share the gaps between the current situation and the better situation, as well as any ideas, concerns, or worries that they may have, and to take action to resolve them.
 
 Tension triage, for example, is carried out in the following steps, but it is only one example. Try to arrange it in a way that works best for your team to achieve the above objectives more efficiently and effectively.
 

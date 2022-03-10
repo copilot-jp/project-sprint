@@ -1,6 +1,6 @@
 # Tips8: All Elements that Should be Included in the Agenda
 
-As discussed [in Preparing for a meeting](../tutorial/preparing-for-a-meeting.md), meeting agenda should include the following elements
+As discussed [in Preparing for a meeting](../tutorial/2-1.md), meeting agenda should include the following elements
 
 * Name of Agenda
 * How to proceed (a specific image of how the discussion will proceed)

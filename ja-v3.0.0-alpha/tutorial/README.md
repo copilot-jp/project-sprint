@@ -10,7 +10,7 @@
 
 最初に読んでほしいプロジェクトスプリントの概要を紹介しています。
 
-&#x20;  1.1. [Project Sprint 101](section1-1.md)
+1.1. [Project Sprint 101](section1-1.md)
 
 ## **2. 準備しよう**
 

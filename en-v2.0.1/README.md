@@ -1,6 +1,6 @@
 # En v2.0.1
 
-![Project Sprint](../oldversions/v2\_2\_0/images/pjs\_logo.png)
+## ![](../images/pjs_logo.png)
 
 **What is CODE?**
 
