@@ -7,6 +7,11 @@ title: Release Notes
 
 ### CODE
 
+#### v3.0.0 (Mar 10th, 2022）
+
+* JA
+  * Tutorial内の101をアクションベースで再改訂する等、より分かりやすく汎用性のある形にアップデートしました。
+
 #### v3.0.0-alpha (Dec 20th, 2021）
 
 * JA

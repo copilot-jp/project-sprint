@@ -13,7 +13,8 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ### Version 3
 
-* 日本語 [v3.0.0-alpha](ja-v3.0.0/)
+* 日本語 [v3.0.0](ja-v3.0.0/)
+* 日本語 [v3.0.0-alpha](ja-v3.0.0-alpha/)
 
 ### Version 2
 
