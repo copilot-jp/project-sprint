@@ -7,13 +7,13 @@ image: https://projectsprint.org/images/pjs_og.png
 
 ![Project Sprint](images/pjs\_logo.png)
 
-定例ミーティングを通じて、プロジェクトチームとしてゴールに近づきつづけるためのメソッド。
+定例ミーティングで取り組みの成果を共有して環境への認識を揃えることを繰り返し、プロジェクトチームが進化するプロジェクトゴールを自律的に達成しつづけるためのメソッド。
 
 ## Project Sprint CODE
 
 ### Version 3
 
-* 日本語 [v3.0.0-alpha](ja-v3.0.0-alpha/)
+* 日本語 [v3.0.0-alpha](ja-v3.0.0/)
 
 ### Version 2
 
