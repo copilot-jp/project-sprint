@@ -22,6 +22,6 @@ In addition, make sure that the meeting environment is conducive to the aforemen
 
 **Tips related to this page**
 
-* [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md)
+* [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md)
 * [Know-how about the meeting environment](../tips/tips7-know-how-about-the-meeting-environment.md)
-* [Developing a project environment](../tips/tips4-preparing-project-environments.md)
+* [Developing a project environment](../tips/4-preparing-project-environments.md)

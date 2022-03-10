@@ -25,5 +25,5 @@ There is no limit to the number of roles to be defined, and there is no "must de
 
 * [Setting up roles that are easy to use in practice](../tips/tips5-setting-up-roles-that-are-easy-to-use-in-practice.md)
 * [Using a role sheet](../tips/tips6-using-a-roll-sheet.md)
-* [Preparing the Project Environment](../tips/tips4-preparing-project-environments.md)
+* [Preparing the Project Environment](../tips/4-preparing-project-environments.md)
 * [Classification and nature of roles](../tips/tips13-classification-and-properties-of-roles.md)

@@ -4,10 +4,10 @@ This set of documents contains detailed and in-depth explanations of Project Spr
 
 #### Table of Contents
 
-1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](tips1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md)
-2. [Using a Milestone Map](tips2-using-a-milestone-map.md)
-3. [What Are Some of the Things That Are Produced in a Project(outputs/deliverables)](tips3-what-are-some-of-the-things-that-are-produced-in-a-project-outputs-deliverables.md)
-4. [Preparing Project Environments](tips4-preparing-project-environments.md)
+1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md)
+2. [Using a Milestone Map](2-using-a-milestone-map.md)
+3. [What Are Some of the Things That Are Produced in a Project(outputs/deliverables)](3-what-are-some-of-the-things-that-are-produced-in-a-project-outputs-deliverables.md)
+4. [Preparing Project Environments](4-preparing-project-environments.md)
 5. [Setting Up Roles That Are Easy to Use in Practice](tips5-setting-up-roles-that-are-easy-to-use-in-practice.md)
 6. [Using a Roll Sheet](tips6-using-a-roll-sheet.md)
 7. [Know-How About the Meeting Environment](tips7-know-how-about-the-meeting-environment.md)

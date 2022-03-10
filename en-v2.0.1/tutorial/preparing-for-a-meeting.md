@@ -33,8 +33,8 @@ Before the start of each meeting, each team member should submit an agenda in ad
 **Tips related to this page**
 
 * [Setting up roles that are easy to use in practice](../tips/tips5-setting-up-roles-that-are-easy-to-use-in-practice.md)
-* [What kinds of things are produced in a project (outputs/products)](../tips/tips3-what-are-some-of-the-things-that-are-produced-in-a-project-outputs-deliverables.md)
+* [What kinds of things are produced in a project (outputs/products)](../tips/3-what-are-some-of-the-things-that-are-produced-in-a-project-outputs-deliverables.md)
 * [Know-how about the meeting environment](../tips/tips7-know-how-about-the-meeting-environment.md)
-* [Creating a project environment](../tips/tips4-preparing-project-environments.md)
+* [Creating a project environment](../tips/4-preparing-project-environments.md)
 * [All elements that should be included in an agenda](../tips/tips8-all-elements-that-should-be-included-in-the-agenda.md)
 * [The purpose of the agenda](../tips/tips14-the-purpose-of-an-agenda.md)

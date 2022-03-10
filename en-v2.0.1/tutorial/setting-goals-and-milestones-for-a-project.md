@@ -38,7 +38,7 @@ In practice, however, it is often the case that all team members first express t
 
 The level of granularity and abstraction of the milestones may vary depending on the distance from the goal. They will also vary from project to project. However, the milestones should be such that each team member who sees them can make decisions and take actions on their own. The milestones should be understandable to the team members directly involved in the milestone, and if there are multiple teams on the same project, the milestones should be viewable by other team members so that they can make decisions about the actions of each team member.
 
-Also, some projects may have multiple milestones that are set in a multi-line fashion (this is called a "track", which is the same as a "track" for the definition of a track [See Tip 1](../tips/tips1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md).) In such cases, we need a granularity and abstraction level that allows us to determine the dependencies and influences among milestones.
+Also, some projects may have multiple milestones that are set in a multi-line fashion (this is called a "track", which is the same as a "track" for the definition of a track [See Tip 1](../tips/1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md).) In such cases, we need a granularity and abstraction level that allows us to determine the dependencies and influences among milestones.
 
 Specifically, the description should be written in such a way that it is possible to adjust milestones in one track in order to achieve milestones in another track, or that other team members can spontaneously suggest, "I should provide this kind of output in order to achieve this milestone." In addition, you should be able to describe the project's goals and objectives to stakeholders outside the project.
 
@@ -64,7 +64,7 @@ The actual process of changing them is explained [in Reviewing a project's goals
 
 **Tips related to this page**
 
-* [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/tips1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md)
-* [Using the Milestone Map](../tips/tips2-using-a-milestone-map.md)
-* [What kinds of things are produced in a project (outputs/artifacts)](../tips/tips3-what-are-some-of-the-things-that-are-produced-in-a-project-outputs-deliverables.md)
-* [Preparing the project environment](../tips/tips4-preparing-project-environments.md)
+* [Useful ideas for organizing the project timeline (tracks/phases/events)](../tips/1-useful-concepts-for-organizing-project-timeline-tracks-phases-events.md)
+* [Using the Milestone Map](../tips/2-using-a-milestone-map.md)
+* [What kinds of things are produced in a project (outputs/artifacts)](../tips/3-what-are-some-of-the-things-that-are-produced-in-a-project-outputs-deliverables.md)
+* [Preparing the project environment](../tips/4-preparing-project-environments.md)

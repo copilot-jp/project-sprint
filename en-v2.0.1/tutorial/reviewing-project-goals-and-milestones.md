@@ -28,4 +28,4 @@ The implementation of milestone and project goal reviews is also on the meeting 
 
 **Tips related to this page**
 
-* [Using a Milestone Map](../tips/tips2-using-a-milestone-map.md)
+* [Using a Milestone Map](../tips/2-using-a-milestone-map.md)
