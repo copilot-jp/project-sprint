@@ -14,7 +14,7 @@ In Project Sprint, the phenomena in a project are divided into the following thr
 By repeating the progress, teaming activities,and processes regularly or iteratively, the progress and teaming statuses can be brought closer to the ideal state.
 
 ##### Project Sprint Concept Image
-![PJS concept image](/en/images/essentials.png)
+![PJS concept image](/en-v2.0.1/images/essentials.png)
 
 
 ## Status
