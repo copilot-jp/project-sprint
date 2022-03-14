@@ -2,7 +2,7 @@
 
 This set of documents contains detailed and in-depth explanations of Project Sprint.
 
-#### Table of Contents
+## Table of Contents
 
 1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](tips1.md)
 2. [Using a Milestone Map](tips2.md)

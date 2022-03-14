@@ -2,9 +2,9 @@
 
 Project Sprint is based on the concept of goals and milestones to organize the project timeline. In addition to these goals and milestones, this article introduces concepts that team members should know to communicate with each other.
 
-#### Tracks - the concept when you want to have a multi-linear milestone progression for a goal
+## Tracks - the concept when you want to have a multi-linear milestone progression for a goal
 
-##### Track/Phase Conceptual Diagram
+### Track/Phase Conceptual Diagram
 ![Concept Map of Track](/en/images/track_eng.png)
 
 When working on a project with project goals and milestones in Project Sprint, the simplest structure is
@@ -39,7 +39,7 @@ The flow of creating Milestone A and Milestone B are called "tracks" respectivel
 
 For example, when considering a project to launch a website (the goal is to complete the website), the team to design the website and the team to set up the system environment for the website will proceed in parallel (though related). At this point, by dividing each work area into "tracks" and separating milestones for each track, we can have a more structured view of the project.
 
-#### Phases - Semantic positioning between milestones
+## Phases - Semantic positioning between milestones
 
 For example, suppose you have a project with the goal of "launching a new business" and for this you have set the following milestones
 
@@ -59,7 +59,7 @@ It is important that the names of the phases make it easy to understand what you
 
 As a result, you may need to collaborate with other tracks to share progress and check milestones in detail. In this case, the role responsible for the progress will be the one to consider and decide if collaboration is necessary, while the role responsible for the process will be the one to arrange the meeting.
 
-#### Events - Key events that affect the setting of milestones and goals.
+## Events - Key events that affect the setting of milestones and goals.
 
 Anything in the project's external environment that project members need to be aware of because it affects the setting of milestones and goals is called an "event" and should be managed separately.
 
