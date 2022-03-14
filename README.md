@@ -8,8 +8,8 @@
 
 ### Version 3
 
-* 日本語 [v3.0.0](ja-v3.0.0/)
-* 日本語 [v3.0.0-alpha](ja-v3.0.0-alpha/)
+* 日本語 [v3.0.0](ja-v3.0.0-alpha/)
+* 日本語 [v3.0.0-alpha](ja-v3.0.0/)
 
 ### Version 2
 

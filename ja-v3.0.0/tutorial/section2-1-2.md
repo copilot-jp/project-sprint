@@ -10,7 +10,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 **トラック/フェーズ概念図**
 
-![トラック概念図](../images/track.png)
+![トラック概念図](../../ja-v3.0.0-alpha/images/track.png)
 
 ## **トラック - ゴールに対して複線的なマイルストーンの進行をしたいときの考え方**
 
