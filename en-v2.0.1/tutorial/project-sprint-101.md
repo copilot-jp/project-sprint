@@ -8,7 +8,7 @@ In Project Sprint, the activities to promote a project are divided into three ca
 
 **Project Sprint Conceptual Diagram**
 
-![ (cited from Project Sprint CODE Essentials）](../../en/images/essentials.png)
+![ (cited from Project Sprint CODE Essentials）](../../en-v2.0.1/images/essentials.png)
 
 * Progress: Activities that focus on the deliverables and goals of the project
 * Process: Activities that focus on the procedures that drive the project forward

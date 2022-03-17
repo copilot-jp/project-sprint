@@ -6,7 +6,7 @@ There are four chapters throughout, and by reading them in order from the top, y
 
 It can be used as a first step for learning if you haven't done Project Sprint yet, and it can also be read by those who have already done Project Sprint as a foundation for implementation.
 
-#### Table of Contents
+## Table of Contents
 
 **Introduction**
 

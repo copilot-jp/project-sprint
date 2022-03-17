@@ -1,21 +1,15 @@
----
-layout: home
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # Project Sprint
 
-![Project Sprint](images/pjs\_logo.png)
+![](images/pjs\_og.png)
 
-多様性のあるメンバーによる部門/組織横断のチームが、不確実性の高い環境・状況で、複雑なアウトプットを行うことを可能にするプロジェクト推進メソッド。
-
-Methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations.
+定例ミーティングで取り組みの成果を共有して環境への認識を揃えることを繰り返し、プロジェクトチームが進化するプロジェクトゴールを自律的に達成しつづけるためのメソッド。
 
 ## Project Sprint CODE
 
 ### Version 3
 
-* 日本語 [v3.0.0-alpha](ja-v3.0.0-alpha/)
+* 日本語 [v3.0.0](ja-v3.0.0-alpha/)
+* 日本語 [v3.0.0-alpha](ja-v3.0.0/)
 
 ### Version 2
 

@@ -1,39 +1,39 @@
 # En v2.0.1
 
-![Project Sprint](../oldversions/v2\_2\_0/images/pjs\_logo.png)
+## ![](../images/pjs_logo.png)
 
-**What is CODE?**
+# **What is CODE?**
 
 **CODE** is a generic term for a set of documents describing Project Sprint.
 
-[**Tutorial**](tutorial/)
+## [**Tutorial**](tutorial/)
 
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint and how to put them into practice, also you can implement Project Sprint into actual projects while reading Tutorial.
 
-[**Essentials**](essentials.md)
+## [**Essentials**](essentials.md)
 
 Essentials provides the big picture of Project Sprint also the core key concepts of Project Sprint.
 
-[**Tips**](tips/)
+## [**Tips**](tips/)
 
 Tips provide detailed and in-depth explanations related to Project Sprint, which will help you gain concrete know-how and better application of Project Sprint practices.
 
-[**Advance**](advance.md)
+## [**Advance**](advance.md)
 
 Advance gives you the latest discussion and experimental concepts. Besides, you can get the latest information on method updates.
 
-[**Reference**](reference.md)
+## [**Reference**](reference.md)
 
 Reference describes the methods, concepts, and literature behind Project Sprint. You can understand the efficient usage of Project Sprint and know the information that may be relevant for future updates of methods. Furthermore, knowing the background will help you apply the method.
 
-**Document comparison table**
+# **Document comparison table**
 
 | Document Title | Tutorial                                                        | Essentials                      | Tips                                                    | Advance                                                | Reference                                                                                                                      |
 | -------------- | --------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | Descriptions   | Explanation of basic concepts and how to put them into practice | Key concepts and framework      | Detailed and in-depth explanations                      | Latest discussions and experimental concepts           | Background methods, concepts, and literature                                                                                   |
 | Effects        | To understand the basics and the introduction procedure         | To understand the whole process | To understand specific know-how and application methods | To understand the latest information on method updates | To understanding of efficient Project Sprint, information that may be related to method updates, and knowledge for application |
 
-**Learning pass**
+# **Learning pass**
 
 The way you use the document depends on the situation you are in. Here are some recommended steps for each of the main target audiences.
 
