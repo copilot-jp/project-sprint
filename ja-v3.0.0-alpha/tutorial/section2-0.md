@@ -1,9 +1,3 @@
----
-layout: post
-title: プロジェクトの環境整備
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # プロジェクトの環境整備
 
 この記事では、プロジェクスプリントの実施を助けるプロジェクト環境について記載します。

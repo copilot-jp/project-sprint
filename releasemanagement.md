@@ -1,8 +1,3 @@
----
-layout: post
-title: リリースマネジメント
----
-
 # Release Management
 
 ## バージョン管理

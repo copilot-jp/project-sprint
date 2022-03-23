@@ -1,8 +1,3 @@
----
-layout: post
-title: Release Notes
----
-
 # Release Notes
 
 ### CODE

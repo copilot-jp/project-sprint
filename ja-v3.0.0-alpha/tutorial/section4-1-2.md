@@ -1,9 +1,3 @@
----
-layout: post
-title: 現在の心の声を活用する：テンショントリアージ
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # 現在の心の声を活用する：テンショントリアージ
 
 ## **テンショントリアージとは**

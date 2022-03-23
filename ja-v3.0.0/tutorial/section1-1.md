@@ -1,9 +1,3 @@
----
-layout: post
-title: Project Sprint 101
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # Project Sprint 101
 
 プロジェクトスプリントは、プロジェクトチームがプロジェクトゴールを設定したりプロジェクトゴールに向かって進んだりするのを助けるために、ものごとの捉え方・考え方や、最適化を促進するための仕組みを提供します。
