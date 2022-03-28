@@ -1,5 +1,4 @@
 ---
-layout: post
 title: プロジェクトゴールとマイルストーンを設定する
 image: https://projectsprint.org/images/pjs_og.png
 ---
@@ -55,7 +54,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 **▼プロジェクトゴールとマイルストーンの関係**
 
-![ゴールとマイルストーンの関係](../images/goal-milestone.png)
+![ゴールとマイルストーンの関係](<../images/goal-milestone (3).png>)
 
 ### **設定における注意点**
 
