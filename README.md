@@ -27,7 +27,7 @@
 ### Contributing
 
 * [GitHub Repository](https://github.com/copilot-jp/project-sprint)
-* [コントリビューターとしての参加の方法](contributing.md)
+* [How to Contribute](contributing.md)
 
 ### License
 
