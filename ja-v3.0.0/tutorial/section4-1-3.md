@@ -1,9 +1,3 @@
----
-layout: post
-title: 未来の展望と仮説：ロールセッション
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # 未来の展望と仮説：ロールセッション
 
 ## **ロールセッションとは**

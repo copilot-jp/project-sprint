@@ -1,9 +1,3 @@
----
-layout: post
-title: "Project Sprint CODE"
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # コントリビューター行動規範
 
 ## 私たちの約束
