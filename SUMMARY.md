@@ -20,7 +20,7 @@
       * [未来の展望と仮説：ロールセッション](ja-v3.0.0/tutorial/section4-1-3.md)
     * [プロジェクトゴールとマイルストーンを見直す](ja-v3.0.0/tutorial/section4-2.md)
     * [ロールを確認する](ja-v3.0.0/tutorial/section4-3.md)
-    * [プロジェクトスプリントの成功指標](ja-v3.0.0/tutorial/section4-4.md)
+    * [Project Sprintの成功指標](ja-v3.0.0/tutorial/section4-4.md)
   * [Essentials](ja-v3.0.0/essentials.md)
   * [Reference](ja-v3.0.0/reference.md)
 * [Ja v3.0.0-alpha](ja-v3.0.0-alpha/README.md)
