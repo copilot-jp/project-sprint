@@ -8,13 +8,13 @@
 
 ### Version 3
 
-* 日本語 [v3.0.0](ja-v3.0.0-alpha/)
-* 日本語 [v3.0.0-alpha](ja-v3.0.0/)
+* 日本語 [v3.0.0](ja-v3.0.0-alpha/README.md)
+* 日本語 [v3.0.0-alpha](/ja-v3.0.0/README.md)
 
 ### Version 2
 
-* 日本語 [v2.2.0](ja-v2.2.0/)
-* English [v2.0.1](en-v2.0.1/)
+* 日本語 [v2.2.0](ja-v2.2.0/README.md)
+* English [v2.0.1](en-v2.0.1/README.md)
 
 ### Release Notes
 
