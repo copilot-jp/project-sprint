@@ -41,7 +41,7 @@
 
 #### **Case3. プロジェクトスプリントというものの概要を手早く理解したい方**
 
-1. Tutorialの「[Project Sprint 101](broken-reference)」を読む
+1. Tutorialの「[Project Sprint 101](tutorial/section1-1.md)」を読む
 
 #### **Case4. プロジェクトスプリントというメソッドの発展に貢献したいと考えてくださる方**
 
