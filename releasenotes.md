@@ -1,11 +1,11 @@
----
-layout: post
-title: Release Notes
----
-
 # Release Notes
 
 ### CODE
+
+#### v3.0.1 (Apr 15th, 2022）
+
+* JA
+    * リンク切れ箇所の調整、不要ファイル削除、Ja-v3.0.0-alphaの一部ファイルがJa-v3.0.0のものと置き換わっていたのを元に戻す等の対応を行いました。
 
 #### v3.0.0 (Mar 10th, 2022）
 
