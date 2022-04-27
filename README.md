@@ -6,46 +6,29 @@
 
 ## Project Sprint Guide
 
-Project Sprintは、変化しつづけるプロジェクトに寄り添うことのできる、定例ミーティングを活用したプロジェクトマネジメントメソドロジーとして、2020年にリリースされました。以降大小さまざまなアップデートを繰り返し、今現在も進化しつづけている、オープンソースのメソッドです。ここに含まれるドキュメントの活用方法は、読者の方が置かれている状況により様々です。
+Project Sprintは、変化しつづけるプロジェクトに寄り添うことのできる、定例ミーティングを活用したプロジェクトマネジメントメソドロジーとして、2020年にリリースされました。以降大小さまざまなアップデートを繰り返し、今現在も進化しつづけている、オープンソースのメソッドです。ここに含まれるドキュメントの活用方法と事務局が期待するフィードバックは、読者の方が置かれている状況によって異なります。
 
-|対象読者|特に読むべきドキュメント|目的|事務局からの期待|
-|---|---|---|---|
-|Project Sprintを既に実践している方|Essentials<br>実践編<br>Reference|・現在の実践とEssentialsの記載内容に乖離がないか確認する<br>・よりよい実践方法を導入しプロジェクトの進め方を改善する<br>・Project Sprintの背景にある諸概念を取り入れ理解を深める|・実践知のフィードバック<br>・記述の拡充や改善の提案|
-|プロジェクトマネジメントの経験があり、新しい方法論としてProject Sprintをインプットしたいと考える方|Project Sprint 101<br>理論編<br>Essential|・概念としてのProject Sprintを理解する<br>・核となる行動規範や価値観を掴む|・実践してみたいかどうかのフィードバック<br>・共感・違和感等の共有|
-|プロジェクトマネジメントの経験はないが、Project Sprintに興味がある方|Project Sprint 101|・Project Sprintの概要を手早く理解する|---|
+|対象読者|目的|事務局が期待するフィードバック|
+|---|---|---|
+|プロジェクトマネジメントの経験及びProject Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・新たな理論（Project Sprintが取り込むべき考え方やまだ記述されていない論点）<br>・Project Sprintの導入や活用に関する疑問・質問|
+|プロジェクトマネジメントの経験はないが、Project Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・Project Sprintの導入や活用に関する疑問・質問|
+|プロジェクトマネジメントの経験があり、新しい方法論としてProject Sprintをインプットしたいと考える方|・概念としてのProject Sprintを理解し、核となっている行動規範や価値観を把握する<br>・Project Sprintの特徴や利点を理解する|・Project Sprintに対する共感・違和感<br>・Project Sprintの導入や活用に関する疑問・質問|
+|プロジェクトマネジメントの経験はないが、Project Sprintに興味がある方|・Project Sprintの概要を理解する|---|
 
+フィードバックは、[コントリビューターとしての参加の方法](contributing.md)のページを参考に、GitHubのIssueでお寄せください。もっとカジュアルに、Slack上のユーザーコミュニティへの参加からでも結構です。どのようなかたちであれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思いますし、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
 
-## Project Sprint CODE
+## ラーニングパス
 
-### Version 3
-* 日本語 [v3.1.0](ja-v3.1.0/README.md)
-* 日本語 [v3.0.0](ja-v3.0.0/README.md)
-* 日本語 [v3.0.0-alpha](/ja-v3.0.0-alpha/README.md)
+Project Sprintにおける記述は、「プロジェクトの推進を手取り足取り支援する」といった性質のものではなく、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な内容により重点を置くものでありたいと考えています。そのため、細かい導入マニュアルや利用ガイドは置かず、基本的な概念や実践方法とその理解を助けるための記述を中心にしています。
+ただし、スムーズな理解のためには、下記の順にお読みいただくとよいでしょう。
 
-### Version 2
+1. [Project Sprint 101](ja-v3.1.0/tutorial/section1-1.md)を読み、Project Sprintの基本メカニズムや理解するための前提、コア・アクションを把握する
+2. [Tutorial](ja-v3.1.0/tutorial/README.md)の理論に関する記述を中心に読み、基本的な概念や重要な箇所をつかむ
+3. [Essentials](essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
+4. [Tutorial](ja-v3.1.0/tutorial/README.md)の実践に関する記述を中心に読み、具体的な実践イメージをつかむ
 
-* 日本語 [v2.2.0](ja-v2.2.0/README.md)
-* English [v2.0.1](en-v2.0.1/README.md)
+## SuperGoodMeetings
 
-### Release Notes
-
-* [Release Notes](releasenotes.md)
-
-### Release Management
-
-* [Release Management](releasemanagement.md)
-
-### Contributing
-
-* [GitHub Repository](https://github.com/copilot-jp/project-sprint)
-* [How to Contribute](contributing.md)
-
-### License
-
-Released under the [CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/) license. See [LICENSE](LICENCE/).
-
-### SuperGoodMeetings
-
-複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツール。 Project Sprint をサポートするプロジェクト構造や入力項目を持つ。
+複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツールです。 Project Sprint をサポートするプロジェクト構造や入力項目を持ちます。
 
 * [SuperGoodMeetings](https://supergoodmeetings.com)
