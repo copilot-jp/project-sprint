@@ -1,7 +1,7 @@
 # Table of contents
 
-* [README](README.md)
-* [Project Sprint (Ja v3.1.0)](ja-v3.1.0/README.md)
+* [Project Sprint](README.md)
+* [CODE (Ja v3.1.0)](ja-v3.1.0/README.md)
   * [Tutorial](ja-v3.1.0/tutorial/README.md)
     * [Project Sprint 101](ja-v3.1.0/tutorial/section1-1.md)
     * [プロジェクトライフサイクル](ja-v3.1.0/tutorial/section2-0.md)
@@ -25,7 +25,7 @@
     * [Project Sprintの成功指標](ja-v3.1.0/tutorial/section4-4.md)
   * [Essentials](ja-v3.1.0/essentials.md)
   * [Reference](ja-v3.1.0/reference.md)
-* Project Sprint v2
+* CODE (v2)
   * [Ja v2.2.0](ja-v2.2.0/README.md)
     * [Tutorial](ja-v2.2.0/tutorial/README.md)
       * [Project Sprint 101](ja-v2.2.0/tutorial/project-sprint-101.md)
