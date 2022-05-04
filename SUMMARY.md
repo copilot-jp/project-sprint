@@ -25,7 +25,7 @@
     * [Project Sprintの成功指標](ja-v3.1.0/tutorial/section4-4.md)
   * [Essentials](ja-v3.1.0/essentials.md)
   * [Reference](ja-v3.1.0/reference.md)
-v2
+* v2
   * [Ja v2.2.0](ja-v2.2.0/README.md)
     * [Tutorial](ja-v2.2.0/tutorial/README.md)
       * [Project Sprint 101](ja-v2.2.0/tutorial/project-sprint-101.md)
