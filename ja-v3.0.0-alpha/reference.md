@@ -1,10 +1,3 @@
----
-layout: post
-title: Reference
-image: https://projectsprint.org/images/pjs_logo.png
-type: article
----
-
 # Reference
 
 このドキュメントは、プロジェクトスプリントプロジェクトスプリントの背景にある諸メソッド・概念・文献について記載しています。

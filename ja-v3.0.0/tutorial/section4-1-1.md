@@ -1,9 +1,3 @@
----
-layout: post
-title: 過去の経験を活かす：振り返り
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # 過去の経験を活かす：振り返り
 
 ## **振り返りとは**

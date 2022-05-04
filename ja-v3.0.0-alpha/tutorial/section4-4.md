@@ -1,9 +1,3 @@
----
-layout: post
-title: プロジェクトスプリントの成功指標
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # プロジェクトスプリントの成功指標
 
 プロジェクトスプリントは、チームが

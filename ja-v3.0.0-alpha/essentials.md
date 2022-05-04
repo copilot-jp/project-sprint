@@ -1,9 +1,3 @@
----
-layout: post
-title: Essentials
-image: https://projectsprint.org/images/pjs_og.png
----
-
 # Essentials
 
 プロジェクトスプリントは、プロジェクトチームがプロジェクトゴールの達成へと進んでいくための、考え方や仕組みを提供します。
