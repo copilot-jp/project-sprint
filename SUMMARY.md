@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Project Sprint](README.md)
-* [Ja v3.1.0](ja-v3.1.0/README.md)
+* [README](README.md)
+* [Project Sprint Ja v3.1.0](ja-v3.1.0/README.md)
   * [Tutorial](ja-v3.1.0/tutorial/README.md)
     * [Project Sprint 101](ja-v3.1.0/tutorial/section1-1.md)
     * [プロジェクトライフサイクル](ja-v3.1.0/tutorial/section2-0.md)
@@ -37,7 +37,7 @@
       * [振り返りを行う](ja-v2.2.0/tutorial/3-1.md)
       * [プロジェクトのゴールとマイルストーンを見直す](ja-v2.2.0/tutorial/3-2.md)
       * [ロールを確認する](ja-v2.2.0/tutorial/3-3.md)
-     * [ユーザーコミュニティ](ja-v2.2.0/tutorial/4-1.md)
+      * [ユーザーコミュニティ](ja-v2.2.0/tutorial/4-1.md)
     * [Essentials](ja-v2.2.0/essentials.md)
     * [Tips](ja-v2.2.0/tips/README.md)
       * [プロジェクトの環境整備](ja-v2.2.0/tips/purojekutono.md)
