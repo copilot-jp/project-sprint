@@ -49,7 +49,7 @@ Project Sprintでは、プロセスでの認識合わせとマイルストーン
 
 **▼プロジェクトゴールとマイルストーンの関係**
 
-![ゴールとマイルストーンの関係](../images/goal-milestone.png)
+![ゴールとマイルストーンの関係](../../ja-v3.0.0-alpha/images/goal-milestone.png)
 
 ### **設定における注意点**
 

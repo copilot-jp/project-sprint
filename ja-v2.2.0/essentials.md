@@ -14,7 +14,7 @@
 
 **プロジェクトスプリント概念図**
 
-![](../ja-v3.0.0-alpha/images/essentials.png)
+![](<images/essentials (3).png>)
 
 ### ステータス
 

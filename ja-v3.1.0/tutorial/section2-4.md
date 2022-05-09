@@ -34,7 +34,7 @@ Project Sprintでは「ミーティング」を、「チームメンバーが一
 
 （PMBOKの概念を参照）
 
-![](../../ja-v3.0.0-alpha/images/process.png)
+![](<../../ja-v3.0.0-alpha/images/process (2).png>)
 
 **2. 前回のミーティングから今回のミーティングまでの差分をキャッチアップする機会を保証できる。**
 
