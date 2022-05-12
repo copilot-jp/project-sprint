@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Project Sprint](README.md)
-* [CODE v3(Ja)](code-v3(ja)/README.md)
+* [CODE (Ja)](ja/README.md)
   * [v3.1](ja-v3.1/README.md)
     * [Tutorial](ja-v3.1/tutorial/README.md)
       * [Project Sprint 101](ja-v3.1/tutorial/section1-1.md)
@@ -48,7 +48,6 @@
       * [プロジェクトスプリントの成功指標](ja-v3.0.0/tutorial/section4-4.md)
     * [Essentials](ja-v3.0.0/essentials.md)
     * [Reference](ja-v3.0.0/reference.md)
-* [CODE v2(Ja)](code-v2(ja)/README.md)
   * [v2.2.0](ja-v2.2.0/README.md)
     * [Tutorial](ja-v2.2.0/tutorial/README.md)
       * [Project Sprint 101](ja-v2.2.0/tutorial/project-sprint-101.md)
@@ -82,7 +81,7 @@
       * [代表的な振り返りの手法](ja-v2.2.0/tips/4-5.md)
     * [Advance](ja-v2.2.0/advance.md)
     * [Reference](ja-v2.2.0/reference.md)
-* [CODE v2(En)](code-v2(en)/README.md)
+* [CODE (En)](en/README.md)
   * [v2.0.1](en-v2.0.1/README.md)
     * [Tutorial](en-v2.0.1/tutorial/README.md)
       * [Project Sprint 101](en-v2.0.1/tutorial/project-sprint-101.md)
