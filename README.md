@@ -22,10 +22,10 @@ Project Sprintは、変化しつづけるプロジェクトに寄り添うこと
 Project Sprintにおける記述は、「プロジェクトの推進を手取り足取り支援する」といった性質のものではなく、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な内容により重点を置くものでありたいと考えています。そのため、細かい導入マニュアルや利用ガイドは置かず、基本的な概念や実践方法とその理解を助けるための記述を中心にしています。
 ただし、スムーズな理解のためには、下記の順にお読みいただくとよいでしょう。
 
-1. [Project Sprint 101](ja-v3.1/tutorial/section1-1.md)を読み、Project Sprintの基本メカニズムや理解するための前提、コア・アクションを把握する
-2. [Tutorial](ja-v3.1/tutorial/README.md)の理論に関する記述を中心に読み、基本的な概念や重要な箇所をつかむ
+1. [Project Sprint 101](ja-v3.1.0/tutorial/section1-1.md)を読み、Project Sprintの基本メカニズムや理解するための前提、コア・アクションを把握する
+2. [Tutorial](ja-v3.1.0/tutorial/README.md)の理論に関する記述を中心に読み、基本的な概念や重要な箇所をつかむ
 3. [Essentials](essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
-4. [Tutorial](ja-v3.1/tutorial/README.md)の実践に関する記述を中心に読み、具体的な実践イメージをつかむ
+4. [Tutorial](ja-v3.1.0/tutorial/README.md)の実践に関する記述を中心に読み、具体的な実践イメージをつかむ
 
 ## SuperGoodMeetings
 
