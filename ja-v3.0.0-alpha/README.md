@@ -14,7 +14,7 @@
 
 プロジェクトスプリントの核となる行動規範がシンプルに述べられており、そこからプロジェクトスプリントが立脚する思想や価値観を理解することができます。
 
-### [**Reference**](../ja-v3.0.0/reference.md)
+### [**Reference**](reference.md)
 
 プロジェクトスプリントの背景にある諸メソッド・概念・文献について記載されており、プロジェクトスプリントの効率的な理解が可能になり、また今後のメソッドのアップデートに関わりそうな情報を知ることができます。さらに、背景を知ることでメソッドの応用も可能になります。
 
@@ -33,7 +33,7 @@
 
 1. [Tutorial](tutorial/README.md)を通読し、基本的な理解をする
 2. [Essentials](essentials.md)を読み、核となる行動規範や重要な箇所をつかむ
-3. 分からないことがあれば、[Reference](../ja-v3.0.0/reference.md)を読み、理解を深める
+3. 分からないことがあれば、[Reference](reference.md)を読み、理解を深める
 
 #### **Case2. プロジェクトスプリントを導入することが決まったプロジェクトのメンバーの方**
 
@@ -41,11 +41,11 @@
 
 #### **Case3. プロジェクトスプリントというものの概要を手早く理解したい方**
 
-1. Tutorialの「[Project Sprint 101](../ja-v3.0.0/tutorial/section1-1.md)」を読む
+1. Tutorialの「[Project Sprint 101](tutorial/section1-1.md)」を読む
 
 #### **Case4. プロジェクトスプリントというメソッドの発展に貢献したいと考えてくださる方**
 
 1. [Tutorial](tutorial/README.md)を読み、基本的な理解を深める
 2. [Essentials](essentials.md)を読み、核となる行動規範や重要な箇所をつかむ
-3. [Reference](../ja-v3.0.0/reference.md)を読み、背景にある考え方をより深く理解する
+3. [Reference](reference.md)を読み、背景にある考え方をより深く理解する
 4. [How to Contibute](../contributing.md)に沿って、気づきを共有したり改善提案を行ったりする
