@@ -12,9 +12,8 @@
 |  トラック  |  [トラック](theory/tracks.md)  |  [トラックの設定](practice/setting-up-track.md)  |
 | マイルストーン  |  [マイルストーン](theory/milestones.md)  |  [マイルストーンの設定](practice/milestones.md)  |
 |  期待値とロール  | [期待値とロール](theory/rolls.md)  | [チームメンバーの理解とロールシートの利用](practice/rolls.md)  |
-|  定例ミーティングの設計  |  TD  |  TD  |
-|  ミーティングロールの設定  |  TD  |  TD  |
-|  アジェンダアイテム  |  TD  |  TD  |
+|  定例ミーティング  | [定例ミーティングの重要性](theory/meetings.md) | [定例ミーティングの設計](practice/meetings.md)<BR>[ミーティングロールの確認](practice/meeting_rolls.md)<BR>[ミーティング環境についてのノウハウ](practice/meeting_environments.md)<BR>[ミーティングの進行方法](practice/holding_meetings.md)  |
+|  アジェンダ  | [アジェンダ](theory/agenda.md)  | [アジェンダアイテムの要素](practice/agenda.md)  |
 |  定例ミーティングの進行  |  TD  |  ミーティング環境についてのノウハウ<BR>タスクの設定  |
 |  継続的改善アプローチ  |  [継続的改善アプローチ](theory/continuous-improvement-approach.md)  |  [振り返り](practice/looking-back.md)<BR>[テンショントリアージ](practice/tension-triage.md)<BR>[ロールセッション](practice/role-session.md)  |
 |  Project Sprintの成功指標  |  [Project Sprintの成功指標](theory/success-metrics.md)  |  -  |
