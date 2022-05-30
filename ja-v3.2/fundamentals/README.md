@@ -8,8 +8,9 @@
 | ---- | ---- | ---- |
 |  Project Sprint 101  |  [理論編](theory/101.md)  |  [実践編](practice/101.md)  |
 |  プロジェクトライフサイクル  |  [5つのサイクル](theory/project-lifecycle.md)  |  [実践編](practice/project-lifecycle.md)  |
-|  プロジェクトゴールとマイルストーン  |  プロジェクトゴールとマイルストーン  |  設定方法<BR>設定が難しいときの始め方<BR>見直し  |
-|  トラック  |  [トラックとは](theory/tracks.md)  |  [トラックの設定方法](practice/setting-up-track.md)  |
+|  プロジェクトゴール  |  [プロジェクトゴール](theory/project_goals.md)  |  [プロジェクトゴールの設定](practice/project_goals.md)  |
+|  トラック  |  [トラック](theory/tracks.md)  |  [トラックの設定](practice/setting-up-track.md)  |
+| マイルストーン  |  [マイルストーン](theory/milestones.md)  |  [マイルストーンの設定](practice/milestones.md)  |
 |  責任・役割・期待値の共有  |  TD  |  実践編<BR>責任・役割・期待値の確認  |
 |  定例ミーティングの設計  |  TD  |  TD  |
 |  ミーティングロールの設定  |  TD  |  TD  |
