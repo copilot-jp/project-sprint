@@ -7,11 +7,11 @@
 |  Contents  |  理論編  |  実践編  |
 | ---- | ---- | ---- |
 |  Project Sprint 101  |  [理論編](theory/101.md)  |  [実践編](practice/101.md)  |
-|  プロジェクトライフサイクル  |  [5つのサイクル](theory/project-lifecycle.md)  |  [実践編](practice/project-lifecycle.md)  |
+|  プロジェクトライフサイクル  |  [5つのサイクル](theory/project-lifecycle.md)  |  WIP  |
 |  プロジェクトゴール  |  [プロジェクトゴール](theory/project_goals.md)  |  [プロジェクトゴールの設定](practice/project_goals.md)  |
 |  トラック  |  [トラック](theory/tracks.md)  |  [トラックの設定](practice/setting-up-track.md)  |
 | マイルストーン  |  [マイルストーン](theory/milestones.md)  |  [マイルストーンの設定](practice/milestones.md)  |
-|  責任・役割・期待値の共有  |  TD  |  実践編<BR>責任・役割・期待値の確認  |
+|  期待値とロール  | [期待値とロール](theory/rolls.md)  | [チームメンバーの理解とロールシートの利用](practice/rolls.md)  |
 |  定例ミーティングの設計  |  TD  |  TD  |
 |  ミーティングロールの設定  |  TD  |  TD  |
 |  アジェンダアイテム  |  TD  |  TD  |
