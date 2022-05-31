@@ -1,61 +1,53 @@
 # How to Contribute
 
+Project Sprintは、[CC BY-SA 4.0ライセンス](LICENCE.md)で提供されるオープンなメソッドで、コントリビューターと呼ばれる有志のユーザーによって定義 / 改善を繰り返してかたちづくられています。Project Sprint プロジェクト ならびに [GitHubリポジトリ](https://github.com/copilot-jp/project-sprint/tree/master) では、Project Sprint の思想に共感しメソッドのアップデートに貢献してくれる仲間(=コントリビューター)を募集しています。  
+
 この記事では、Project Sprintにコントリビューターとして参加する方法について紹介します。
 
 ## まずはじめに
 
-こんにちは、このメソッドの言い出しっぺである 定金 基 / Sadakane Motoi @motoiです。
-普段は株式会社コパイロツトという会社で様々なプロジェクトの推進サポートを仕事にしています。
+### Project Sprint 公開に至る経緯
 
-Project Sprintは、定例ミーティングで取り組みの成果を共有して環境への認識を揃えることを繰り返し、プロジェクトチームが進化するプロジェクトゴールを自律的に達成しつづけるためのメソッドです。
-Project Sprintは、[CC BY-SA 4.0ライセンス](LICENCE.md)で提供されるオープンなメソッドで、コントリビューターと呼ばれる有志のユーザーによって定義 / 改善を繰り返してかたちづくられています。
-この Project Sprint プロジェクト ならびに [GitHubリポジトリ](https://github.com/copilot-jp/project-sprint/tree/master) では、Project Sprint の思想に共感いただき、一緒にメソッドをアップデートしてくれる仲間(=コントリビューター)を募集しています。
+こんにちは、このメソッドの言い出しっぺである 定金 基 / Sadakane Motoi [@motoi](https://github.com/motoi) です。普段は株式会社コパイロツトという会社で様々なプロジェクトの推進サポートを仕事にしています。
 
-### Project Sprint 公開に至る経緯  
-このメソッドは株式会社コパイロツトのミッションと、そのミッションにのっとったノウハウの公開がきっかけになっています。  
-私の勤める株式会社コパイロツトは、「プロジェクトの推進で失敗する人を減らし、自分の能力を活かして楽しく働く人を増やす」をミッションとして掲げています。  
-このミッションに基づき、コパイロツト社内のプロジェクト推進の実践知をまとめて公開する。また、このメソッドは世界中の色々なものを参考にさせていただいているので、公開することで自分たちなりに世界に何かを還元し貢献したい。  
-こんな流れで Project Sprint というメソッドをつくり上げましたが、それはきっかけでしかありません。  
-現在では、メソッドに共感してくれる社外メンバーも一緒にこのメソッドを進化させています。
+Project Sprintは、定例ミーティングを定期的・反復的な実践の起点とすることにより、進化するプロジェクトゴールをプロジェクトチームで漸進的に達成するための推進メソッドです。このメソッドは、株式会社コパイロツトのミッションと、そのミッションにのっとったノウハウの公開がきっかけになっています。  
 
-### Project Sprint がオープンになることでどんな社会を目指しているのか
-いま社会は素早く多様に変化をつづけており、それにともない組織やプロジェクトの目的が変化しつづけています。それにともない働き方もプロジェクトベースにシフトしています。  
-そんな社会、組織、プロジェクトの動きに追従できるプロジェクトを推進するメソッドが存在することで、プロジェクトに携わるすべての方々が、安心してプロジェクトにコミットできる状態を作ることができるのではないか、とコントリビューター一同は考えており、日々メソッドを練り上げています。  
-この思想に共感いただける世界中のメンバーでメソッドをアップデートしていくことによって、みんなでプロジェクトが推進できる社会になるとよいなとおもっています。  
+私の勤める株式会社コパイロツトは、「プロジェクトの推進に失敗する人を減らし、自分の能力を活かして楽しく働く人を増やす」をミッションとして掲げています。このミッションに基づき、コパイロツト社内のプロジェクト推進の実践知をまとめて公開する。また、このメソッドは世界中の色々なものを参考にさせていただいているので、公開することで自分たちなりに世界に何かを還元し貢献したい。こんな流れで Project Sprint というメソッドをつくり上げましたが、それはきっかけでしかありません。現在では、メソッドに共感してくれる社外メンバーも一緒にこのメソッドを進化させています。
 
-### GitHub経験値は問いません。誰でもご自分に合った方法でご参加ください！
-コントリビューターとして参加するにあたり、GitHubに習熟している必要はありません。このメソッドいいな！と共感いただける方であれば、誰でもどんな方法でも安心してご参加いただき、ぜひご一緒にメソッドを進化させていけたらとおもいます！  
+### Project Sprintを公開することでどんな社会を目指しているのか
 
-私自身、今回のプロジェクトで初めてGitHubをきちんと利用し始めたので、よちよちと参加しています。
-ですが、熟練のコントリビューターが優しく手助けをしてくれますので、GitHubをこれから覚えるぞ！という方も、どんどんご参加いただければと思います。
-また、私のようにGitHubがまだまだわからない、カルチャーがよくわからない、という方でもご参加いただけるように、GitHubを直接利用しなくても参加いただける方法を用意しています。
+いま社会は素早く多様に変化をつづけており、それにともない組織やプロジェクトの目的も目まぐるしく変化しつづけています。それにともない、働き方もプロジェクトベースにシフトしています。そんな社会、組織、プロジェクトの変化に遅れることなく対応できるプロジェクト推進メソッドが存在することで、プロジェクトに携わるすべての方々が、安心してプロジェクトにコミットできる状態を作ることができるのではないか。コントリビューター一同はそう考えて、日々メソッドを練り上げています。
 
-もちろん、存分にGitHubを使いこなしているかたもお待ちしています！
+この思想に共感いただける世界中のメンバーでProject Sprintをアップデートしていくことによって、みんなでプロジェクトを推進できる社会になるとよいなと思っています。  
 
-## GitHubを通じた参加方法
+### コントリビューターを歓迎します
 
-### 言語について
+プロジェクトを推進するための実践的な方法論やプロジェクトチームのあり方に興味がある方、プロジェクト推進に関するご自身の経験や知識を何らかの形で役立てたいと考えてくださる方を広く歓迎します。  
+このメソッドいいな！と共感いただける方、価値や可能性を感じていただける方はぜひ、Slack上での議論や事務局メンバーの定例ミーティングに参加し、ご自身の知識や経験を活かしてProject Sprintの進化に貢献していただければと思います。
 
-GitHubリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。
+現在事務局は週次でミーティングを行いながら、月次でProject Sprintのアップデートを行っています。この週次のミーティングを活性化させたり、SlackやGitHub上でProject Sprintのアップデートのヒントをくださったりする方であれば、スキルは問いません。ただし、現在事務局が担っている役割をお手伝いしてくださる、下記のような方がいれば嬉しく思います。
 
-Project Sprint is the methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations. The source code for the Project Sprint is hosted on Github and uses a service called GitBook for publishing its documentation.  Discussion in the [GitHub repository](https://github.com/copilot-jp/project-sprint/tree/master) should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else though you cannot use Japanese, please contact @KokoroKagawa in English.
+- 抽象的な概念を言語化・体系化し、Project Sprintの記述をアップデートしてくださる方
+- 抽象的な概念を絵や図にし、Project Sprintの記述を理解しやすい形にしてくださる方
 
-### コントリビューター規範
+Project SprintはGitHubを使用してアップデートされていますが、コントリビューターとしてご参加いただくにあたり、GitHubの使用に習熟している必要はありません。GitHubの使用方法やカルチャーがよくわからず発言しにくいという方は、まずは後述するSlack上のコミュニティにご参加いただき、日々行われている議論を眺めたり、気づいたことがあればコメントしたりしてみてください。必要に応じて事務局メンバーがサポートしたりフィードバックをお返ししたりします。
 
-* [コントリビューター規範](codeofconduct.md)（英語版：[Code of Conduct](codeofconduct_en.md)）
+もちろん、存分にGitHubを使いこなしているかたもお待ちしています！参加方法については、「具体的な参加方法」の項目をご参照ください。
 
-### **Pull Requestによる参加**
+## 具体的な参加方法
 
-GitHubの画面右上にあるForkボタンをクリックすると、ご利用のGitHubアカウントに紐付いた本リポジトリのコピーが作成されます。このコピーのことをフォークと呼びます。フォークリポジトリの中ではお好きなように変更を加えていただいて構いません。加えた変更をこのリポジトリに追加したい任意のタイミングにて、フォークリポジトリからPull Requestを作成してください。
+### Slack上のユーザーコミュニティへの参加
 
-Pull Requestが作成されると、コントリビューターの中のレビュー担当者が責任を持って明確かつ実用的なフィードバックを返します。 Pull Requestの作成者が、ご自身の役目としてフィードバックに対応してください。
-また、状況によっては2人以上のレビュー担当者からフィードバックが返されたり、アサインされていないレビュー担当者からのフィードバックが来ることがある点もご注意ください。
+Slack上の自由参加のユーザーコミュニティを通じて、事務局や他のコントリビューターと会話することができます。Project Sprintを実施してみて良かった点やうまくいかなかった点、Project Sprintが取り込むべき考え方やまだ記述されていない論点、Project Sprintの導入や活用に関する疑問・質問等を、[ユーザーコミュニティ](https://projectsprint.slack.com) の [#project-sprint_dev](https://projectsprint.slack.com/archives/C012VD9B79V) チャンネル内に自由に書き込んでください。事務局がフィードバックをお返ししたり、GitHub上のIssue化して対応したりします。  
 
-レビュー担当者はおよそ1週間に1回の頻度でフィードバックを提供できるように最善を尽くしますが、これは状況に応じて異なる場合があります。
+※ユーザーコミュニティへのユーザー登録は[こちら](https://slack.projectsprint.org)から行えます。
 
-### **Issueによる参加**
+また、このコミュニティでは、Project Sprintに関する最新のアップデート情報を知ったり、このメソッドを導入しようとしている人たちと交流することも可能です。
+ミートアップ等の開催情報もこのユーザーコミュニティを通じて案内されます。このミートアップでは、他のコントリビューターたちと直接ディスカッションをすることができます。
 
-[Issue一覧](https://github.com/copilot-jp/project-sprint/issues)右上にあるNew Issueボタンから、新しいIssueを作成し、このリポジトリに関するあらゆることを自由にディスカッションすることができます。
+### Issueによる参加
+
+GitHub上で、このリポジトリに関するあらゆることを自由にディスカッションすることができます。[Issue一覧](https://github.com/copilot-jp/project-sprint/issues)右上にあるNew Issueボタンから、新しいIssueを作成してください。
 
 議論されることとしては、例えば、
 
@@ -68,29 +60,39 @@ Issueを作成する際には、タイトルと本文は必ず記載するよう
 
 Issueが作成された後、そのIssueに対応するべきかどうか、その理由、対応するならばその進行方法、対応すべき期日について事務局が検討します。必要であれば、Issue作成者と会話しながらこれらの点を決定していきます。
 
-## **変更内容の反映**
+### Pull Requestによる参加
 
-Pull RequestやIssue上での議論を経て加えられた変更内容は、定期的なタイミングで[Project Sprint](https://projectsprint.org) のウェブサイトに反映されます。
+GitHubの画面右上にあるForkボタンをクリックすると、ご利用のGitHubアカウントに紐付いた本リポジトリのコピーが作成されます。このコピーのことをフォークと呼びます。フォークリポジトリの中ではお好きなように変更を加えていただいて構いません。加えた変更をこのリポジトリに追加したい任意のタイミングにて、フォークリポジトリからPull Requestを作成してください。
 
-変更箇所は[リリースノート](https://projectsprint.org/releasenotes.html)に記載されるほか、Slackの[ユーザーコミュニティ](https://projectsprint.slack.com) の #04\_SGMs/PJS\_リリース情報 チャンネル内でもアナウンスされます。
+Pull Requestが作成されると、コントリビューターの中のレビュー担当者が責任を持って明確かつ実用的なフィードバックを返します。 Pull Requestの作成者が、ご自身の役目としてフィードバックに対応してください。
+また、状況によっては2人以上のレビュー担当者からフィードバックが返されたり、アサインされていないレビュー担当者からのフィードバックが来ることがある点もご注意ください。
 
-## **GitHub上での相談相手**
+レビュー担当者はおよそ1週間に1回の頻度でフィードバックを提供できるように最善を尽くしますが、これは状況に応じて異なる場合があります。
 
-| 相談したい内容                                                                    | 相談相手の GitHub Username                                         |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| <p>projectsprint.orgに記載されている文章に関すること<br>このリポジトリにおけるGitHub運用に関すること</p>      | [@KokoroKagawa](https://github.com/KokoroKagawa)              |
-| <p>projectsprint.orgに記載されている図表に関すること<br>projectsprint.org のサイト仕様に関すること</p> | [@KokoroKagawa](https://github.com/KokoroKagawa)            |
-| コントリビューター行動規範に関すること                                                        | [@KokoroKagawa](https://github.com/KokoroKagawa)(コミュニティーリーダー) |
-| そのほか、どうしたらよいかわからないことすべて                                                    | [@motoi](https://github.com/motoi)                            |
+## 相談相手
 
-## GitHub以外の参加方法
+| 相談したい内容| 相談相手のSlack Username　|　相談相手のGitHub Username |
+| --- | --- | --- |
+| ・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<BR>・新たな理論（Project Sprintが取り込むべき考え方やまだ記述されていない論点）<BR>・その他projectsprint.orgの記述に関すること| @kokoro | [@KokoroKagawa](https://github.com/KokoroKagawa)              |
+| ・projectsprint.orgに掲載されている図表に関すること<br>・projectsprint.org のサイト仕様に関すること| @kokoro | [@KokoroKagawa](https://github.com/KokoroKagawa)            |
+| ・GitHubリポジトリの運用に関すること<br>・コントリビューター行動規範に関すること                                                        | @kokoro | [@KokoroKagawa](https://github.com/KokoroKagawa)(コミュニティーリーダー) |
+| ・Project Sprintの導入や活用に関する疑問・質問<BR>・そのほか、どうしたらよいかわからないことすべて                                                    | @sadakanemotoi | [@motoi](https://github.com/motoi)                            |
 
-### **ユーザーコミュニティやミートアップなどへの参加案内**
 
-このGitHubリポジトリのほかにも、Slack上の自由参加のユーザーコミュニティを通じてProject Sprintのコントリビューターと会話することができます。Project Sprintに関する最新のアップデート情報を知ったり、このメソッドを導入しようとしている人たちとディスカッションをすることができます。
+## 変更内容の反映
 
-[ユーザーコミュニティ https://projectsprint.slack.com/](https://projectsprint.slack.com) の #project\_sprint チャンネル内
+Pull RequestやIssue上での議論を経て加えられた変更内容は、定期的なタイミングで[Project Sprint](https://projectsprint.org) のウェブサイトに反映されます。詳しくは[Release Management](releasemanagement.md)を御参照ください。
 
-ユーザーコミュニティのユーザー登録は[こちら](https://slack.projectsprint.org)から行えます。
+変更箇所は[リリースノート](https://projectsprint.org/releasenotes.html)に記載されるほか、Slackの[ユーザーコミュニティ](https://projectsprint.slack.com) の [#release_note](https://projectsprint.slack.com/archives/CTZTFJSKH) チャンネル内でもアナウンスされます。
 
-また、ミートアップ開催情報もこのユーザーコミュニティを通じて案内されます。このミートアップでは、他のコントリビューターたちと直接話してディスカッションをすることができます。
+## その他
+
+### 言語について
+
+Slackコミュニティ及びGitHubリポジトリでのディスカッションは日本語で行われます。将来的にリポジトリ内のドキュメント群について英語版が整備された後、英語でのディスカッションが可能な運用体制をつくる予定です。
+
+Project Sprint is the methodology for a diverse and cross-functional teams to drive projects that produce complex outputs in highly uncertain environments and situations. The source code for the Project Sprint is hosted on Github and uses a service called GitBook for publishing its documentation.  Discussion in the [GitHub repository](https://github.com/copilot-jp/project-sprint/tree/master) should be done in Japanese until English version of documents are made. However, if you have any questions, opinions or anything else though you cannot use Japanese, please contact @KokoroKagawa in English.
+
+### コントリビューター規範
+
+* [コントリビューター規範](codeofconduct.md)（英語版：[Code of Conduct](codeofconduct_en.md)）
