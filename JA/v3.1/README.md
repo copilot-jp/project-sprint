@@ -1,6 +1,6 @@
 # Ja v3.1.0
 
-## ![](../images/pjs\_logo.png)
+## ![](../../images/pjs\_logo.png)
 
 ## **CODEとは**
 

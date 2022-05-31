@@ -13,7 +13,7 @@
 |  期待値とロール  | [期待値とロール]rolls.md)  | [チームメンバーの理解とロールシートの利用](../practices/rolls.md)<BR>[ロールの確認](../practices/reviewing_rolls.md)  |
 |  定例ミーティング  | [定例ミーティングの重要性](meetings.md) | [ミーティングの設計](../practices/meetings.md)<BR>[ミーティングの進行方法](../practices/holding_meetings.md)<BR>[タスクの設定](../practices/tasks.md)<BR>[ミーティングロールの確認](../practices/meeting_rolls.md)<BR>[ミーティング環境についてのノウハウ](../practices/meeting_environments.md)  |
 |  アジェンダ  | [アジェンダとは](agenda.md)  | [アジェンダアイテムの要素](../practices/agenda.md)  |
-|  プロジェクトの環境整備  | [実現したい状態と価値基準](project_environments.md)  | [構築したい具体的な環境](../practices/project_environments.md) <BR>[スタンドアップの導入](../practices/stand-up_meetings.md) |
+|  プロジェクトの環境整備  | [プロジェクトの環境整備](project_environments.md)  | [情報共有環境の構築](../practices/project_environments.md) <BR>[スタンドアップの導入](../practices/stand-up_meetings.md) |
 |  継続的改善アプローチ  |  [継続的改善アプローチ](continuous_improvement_approach.md)  |  [振り返り](../practices/looking_back.md)<BR>[テンショントリアージ](../practices/tension_triage.md)<BR>[ロールセッション](../practices/role_session.md)  |
 |  Project Sprintの成功指標  |  [Project Sprintの成功指標](success_metrics.md)  |  -  |
 |  Project Sprintの発展  |  -  |  [コントリビューターとしての参加の方法](../../../contributing.md)  |

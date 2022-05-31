@@ -23,8 +23,8 @@ Project Sprintにおける記述は、「プロジェクトの推進を手取り
 ただし、スムーズな理解のためには、下記の順にお読みいただくとよいでしょう。
 
 1. [Project Sprint 101](JA/v3.2/theories/101.md)を読み、Project Sprintの基本メカニズムや理解するための前提、コア・アクションを把握する
-2. Theories and Practicesの[Theories]((JA/v3.2/theories/README.md)を中心に読み、理論体系としてのProject Sprintを理解する
-3. [Essentials](essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
+2. Theories and Practicesの[Theories](JA/v3.2/theories/README.md)を中心に読み、理論体系としてのProject Sprintを理解する
+3. [Essentials](JA/v3.2/essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
 4. Theories and Practicesの[Practices](JA/v3.2/practices/README.md)を中心に読み、具体的な実践イメージをつかむ
 
 ## SuperGoodMeetings
