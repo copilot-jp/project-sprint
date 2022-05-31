@@ -6,14 +6,15 @@
 
 |  Contents  |  理論編  |  実践編  |
 | ---- | ---- | ---- |
-|  Project Sprint 101  |  [理論編](theory/101.md)  |  [実践編](practice/101.md)  |
+|  Project Sprint 101  |  [理論編](theory/101.md)  |WIP |
 |  プロジェクトライフサイクル  |  [5つのサイクル](theory/project-lifecycle.md)  |  WIP  |
 |  プロジェクトゴール  |  [プロジェクトゴール](theory/project_goals.md)  |  [プロジェクトゴールの設定](practice/project_goals.md)  |
 |  トラック  |  [トラック](theory/tracks.md)  |  [トラックの設定](practice/setting-up-track.md)  |
 | マイルストーン  |  [マイルストーン](theory/milestones.md)  |  [マイルストーンの設定](practice/milestones.md)  |
 |  期待値とロール  | [期待値とロール](theory/rolls.md)  | [チームメンバーの理解とロールシートの利用](practice/rolls.md)  |
-|  定例ミーティング  | [定例ミーティングの重要性](theory/meetings.md) | [定例ミーティングの設計](practice/meetings.md)<BR>[ミーティングロールの確認](practice/meeting_rolls.md)<BR>[ミーティング環境についてのノウハウ](practice/meeting_environments.md)<BR>[ミーティングの進行方法](practice/holding_meetings.md)<BR>[タスクの設定](practice/tasks.md)  |
+|  定例ミーティング  | [定例ミーティングの重要性](theory/meetings.md) | [ミーティングの設計](practice/meetings.md)<BR>[ミーティングの進行方法](practice/holding_meetings.md)<BR>[タスクの設定](practice/tasks.md)<BR>[ミーティングロールの確認](practice/meeting_rolls.md)<BR>[ミーティング環境についてのノウハウ](practice/meeting_environments.md)  |
 |  アジェンダ  | [アジェンダ](theory/agenda.md)  | [アジェンダアイテムの要素](practice/agenda.md)  |
+|  プロジェクトの環境整備  | [実現したい状態と価値基準](theory/project_environments.md)  | [構築したい具体的な環境](practice/project_environments.md) <BR>[スタンドアップの導入](practice/stand-up_meetings.md) |
 |  継続的改善アプローチ  |  [継続的改善アプローチ](theory/continuous-improvement-approach.md)  |  [振り返り](practice/looking-back.md)<BR>[テンショントリアージ](practice/tension-triage.md)<BR>[ロールセッション](practice/role-session.md)  |
 |  Project Sprintの成功指標  |  [Project Sprintの成功指標](theory/success-metrics.md)  |  -  |
 |  Project Sprintの発展  |  -  |  [コントリビューターとしての参加の方法](../../contributing.md)  |
