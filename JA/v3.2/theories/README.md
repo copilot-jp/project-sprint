@@ -10,7 +10,7 @@
 |  プロジェクトライフサイクル  |  [5つのサイクル](project_lifecycle.md)  |  WIP  |
 |  プロジェクトゴールとマイルストーン  |  [プロジェクトゴールとは](project_goals.md)<BR>[マイルストーンとは](milestones.md)  |  [プロジェクトゴールの設定](../practices/project_goals.md)<BR>  [マイルストーンの設定](../practices/milestones.md)  <BR>[プロジェクトゴールとマイルストーンの見直し](../practices/reviewing_project_goals_and_milestones.md) |
 |  トラック  |  [トラックとは](tracks.md)  |  [トラックの設定](../practices/tracks.md)  |
-|  期待値とロール  | [期待値とロール]rolls.md)  | [チームメンバーの理解とロールシートの利用](../practices/rolls.md)<BR>[ロールの確認](../practices/reviewing_rolls.md)  |
+|  期待値とロール  | [期待値とロール](rolls.md)  | [チームメンバーの理解とロールシートの利用](../practices/rolls.md)<BR>[ロールの確認](../practices/reviewing_rolls.md)  |
 |  定例ミーティング  | [定例ミーティングの重要性](meetings.md) | [ミーティングの設計](../practices/meetings.md)<BR>[ミーティングの進行方法](../practices/holding_meetings.md)<BR>[タスクの設定](../practices/tasks.md)<BR>[ミーティングロールの確認](../practices/meeting_rolls.md)<BR>[ミーティング環境についてのノウハウ](../practices/meeting_environments.md)  |
 |  アジェンダ  | [アジェンダとは](agenda.md)  | [アジェンダアイテムの要素](../practices/agenda.md)  |
 |  プロジェクトの環境整備  | [プロジェクトの環境整備](project_environments.md)  | [情報共有環境の構築](../practices/project_environments.md) <BR>[スタンドアップの導入](../practices/stand-up_meetings.md) |
