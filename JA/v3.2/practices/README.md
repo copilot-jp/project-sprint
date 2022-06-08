@@ -8,7 +8,7 @@
 | ---- | ---- | ---- |
 |  Project Sprint 101  |  [Project Sprint 101](../theories/101.md)  |WIP |
 |  プロジェクトライフサイクル  |  [5つのサイクル](../theories/project_lifecycle.md)  |  WIP  |
-|  プロジェクトゴールとマイルストーン  |  [プロジェクトゴールとは](../theories/project_goals.md)<BR>[マイルストーンとは](../theories/milestones.md)  |  [プロジェクトゴールの設定](project_goals.md)<BR>  [マイルストーンの設定](milestones.md)  <BR>[プロジェクトゴールとマイルストーンの見直し](reviewing_project_goals_and_milestones.md) |
+|  プロジェクトゴールとマイルストーン  |  [プロジェクトゴールとは](../theories/project_goals.md)<BR>[マイルストーンとは](../theories/milestones.md)<BR>[制約・イベント](../theories/restrictions.md)  |  [プロジェクトゴールの設定](project_goals.md)<BR>  [マイルストーンの設定](milestones.md)  <BR>[プロジェクトゴールとマイルストーンの見直し](reviewing_project_goals_and_milestones.md) |
 |  トラック  |  [トラックとは](../theories/tracks.md)  |  [トラックの設定](tracks.md)  |
 |  期待値とロール  | [期待値とロール](../theories/rolls.md)  | [チームメンバーの理解とロールシートの利用](rolls.md)<BR>[ロールの確認](reviewing_rolls.md)  |
 |  定例ミーティング  | [定例ミーティングの重要性](../theories/meetings.md) | [ミーティングの設計](meetings.md)<BR>[ミーティングの進行方法](holding_meetings.md)<BR>[タスクの設定](tasks.md)<BR>[ミーティングロールの確認](meeting_rolls.md)<BR>[ミーティング環境についてのノウハウ](meeting_environments.md)  |
