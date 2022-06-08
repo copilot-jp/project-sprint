@@ -2,7 +2,13 @@
 
 ### CODE
 
-#### [v3.2.0](JA/v3.2/README.md)(May 31st, 2022)
+#### [v3.2.1](JA/v3.2/README.md)(June 8th, 2022)
+
+    * トップページから最新版への導線作成
+    * コントリビューターとしての参加の方法uodate
+    * 「プロジェクトの環境整備」参照元の明確化
+
+#### [v3.2.0](https://github.com/copilot-jp/project-sprint/releases/tag/Ja_v3.2.0)(May 31st, 2022)
 
 * JA
     * Tutorialを理論編であるTheoriesと実践編であるPracticesに分類し再構築
@@ -15,7 +21,7 @@
 * JA
     * バージョンを上げる際のディレクトリ作成・命名ルールの変更（パッチ及びリビジョンの際はURL不変）
 
-#### [v3.1.0](JA/v3.1/README.md) (May 4th, 2022）
+#### [v3.1.0](https://github.com/copilot-jp/project-sprint/releases/tag/Ja_v3.1.0) (May 4th, 2022）
 
 * JA
     * プロジェクトライフサイクルを理論レベルで導入。
@@ -23,17 +29,17 @@
     * Project Sprint Guideとして、対象読者とそれぞれの目的、事務局が期待するフィードバックについて記載。
     * リリースマネジメント及びコントリビューターとしての参加の方法を更新。
 
-#### [v3.0.1](https://github.com/copilot-jp/project-sprint/releases/tag/Ja-v3.0.1) (Apr 15th, 2022）
+#### [v3.0.1](JA/v3.0/README.md) (Apr 15th, 2022）
 
 * JA
     * リンク切れ箇所の調整、不要ファイル削除、Ja-v3.0.0-alphaの一部ファイルがJa-v3.0.0のものと置き換わっていたのを元に戻す等の対応を行いました。
 
-#### [v3.0.0](ja-v3.0.0/README.md) (Mar 10th, 2022）
+#### [v3.0.0](https://github.com/copilot-jp/project-sprint/releases/tag/Ja-v3.0.0) (Mar 10th, 2022）
 
 * JA
   * Tutorial内の101をアクションベースで再改訂する等、より分かりやすく汎用性のある形にアップデートしました。
 
-#### [v3.0.0-alpha](ja-v3.0.0-alpha/README.md) (Dec 20th, 2021）
+#### [v3.0.0-alpha](https://github.com/copilot-jp/project-sprint/releases/tag/Ja-v3.0.0-alpha) (Dec 20th, 2021）
 
 * JA
   * プロジェクトのすべての要素はプロジェクトチームによって規定されるものであるという思想に基づき、プロジェクトチームを主体とする記述に全面アップデートしました。
