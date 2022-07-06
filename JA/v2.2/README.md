@@ -1,7 +1,5 @@
 # Ja v2.2.0
 
-## ![Project Sprint](../images/pjs_logo.png)
-
 ## **CODEとは**
 
 **CODE**とは、プロジェクトスプリントについて説明したドキュメント群の総称です。

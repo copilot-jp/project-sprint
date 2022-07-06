@@ -1,7 +1,5 @@
 # En v2.0.1
 
-## ![](../images/pjs_logo.png)
-
 # **What is CODE?**
 
 **CODE** is a generic term for a set of documents describing Project Sprint.
