@@ -1,5 +1,7 @@
 # Ja v3.2.0
 
+## ![](images/pjs_logo.png)
+
 ## **CODEとは**
 
 **CODE**とは、Project Sprintについて説明したドキュメント群の総称です。  

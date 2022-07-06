@@ -1,10 +1,10 @@
 # Project Sprint
 
-![](images/pjs\_og.png)
+## ![](images/pjs_logo.png)
+
+<span style="font-size: 200%">[Project Sprint (v3.3)](JA/v3.3/README.md)</span>
 
 **定例ミーティングを定期的・反復的な実践の起点とすることにより、進化するゴールをチームで漸進的に達成するためのプロジェクト推進メソッド。**
-
-[Project Sprint v3.2.1](JA/v3.2/README.md)
 
 ## Project Sprint Guide
 
