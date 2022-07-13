@@ -2,7 +2,7 @@
 
 * [Project Sprint](README.md)
 * [CODE (Ja)](JA/README.md)
-  * [v3.2](JA/v3.3/README.md)
+  * [v3.3](JA/v3.3/README.md)
     * [Theories](JA/v3.3/theories/README.md)
       * [Project Sprint 101](JA/v3.3/theories/101.md)
       * [プロジェクトライフサイクル](JA/v3.3/theories/project_lifecycle.md)
