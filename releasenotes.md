@@ -2,7 +2,11 @@
 
 ### CODE
 
-#### [v3.3.0](JA/v3.3/README.md)(July 6th, 2022)
+#### [v3.3.1](JA/v3.3/README.md)(July 14th, 2022)
+
+* 体裁崩れ修正
+
+#### [v3.3.0](https://github.com/copilot-jp/project-sprint/releases/tag/Ja_v3.3.0)(July 6th, 2022)
 
 * JA
   * 制約・イベントに関する記述を独立したページとして分離
