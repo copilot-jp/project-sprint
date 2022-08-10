@@ -9,7 +9,7 @@
       * [プロジェクトゴールとは](JA/v3.3/theories/project_goals.md)
       * [マイルストーンとは](JA/v3.3/theories/milestones.md)
       * [トラックとは](JA/v3.3/theories/tracks.md)
-      * [制約・イベント](restrictions.md)
+      * [制約・イベント](JA/v3.3/theories/restrictions.md)
       * [期待値とロール](JA/v3.3/theories/rolls.md)
       * [定例ミーティングの重要性](JA/v3.3/theories/meetings.md)
       * [アジェンダとは](JA/v3.3/theories/agenda.md)
