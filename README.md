@@ -6,6 +6,8 @@
 
 **定例ミーティングを定期的・反復的な実践の起点とすることにより、進化するゴールをチームで漸進的に達成するためのプロジェクト推進メソッド。**
 
+The project operating method allows teams to incrementally achieve evolving objectives by using recurring meetings as a series of originations of regular and iterative practice.
+
 ## Project Sprint Guide
 
 Project Sprintは、変化しつづけるプロジェクトに寄り添うことのできる、定例ミーティングを活用したプロジェクトマネジメントメソドロジーとして、2020年にリリースされました。以降大小さまざまなアップデートを繰り返し、今現在も進化しつづけている、オープンソースのメソッドです。ここに含まれるドキュメントの活用方法と事務局が期待するフィードバックは、読者の方が置かれている状況によって異なります。
