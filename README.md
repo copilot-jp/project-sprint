@@ -12,14 +12,14 @@ The project operating method allows teams to incrementally achieve evolving obje
 
 Project Sprintは、変化しつづけるプロジェクトに寄り添うことのできる、定例ミーティングを活用したプロジェクトマネジメントメソドロジーとして、2020年にリリースされました。以降大小さまざまなアップデートを繰り返し、今現在も進化しつづけている、オープンソースのメソッドです。ここに含まれるドキュメントの活用方法と事務局が期待するフィードバックは、読者の方が置かれている状況によって異なります。
 
+フィードバックは、[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)のページを参考に、GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思いますし、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
+
 |対象読者|目的|事務局が期待するフィードバック|
 |---|---|---|
 |プロジェクトマネジメントの経験及びProject Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・新たな理論（Project Sprintが取り込むべき考え方やまだ記述されていない論点）<br>・Project Sprintの導入や活用に関する疑問・質問|
 |プロジェクトマネジメントの経験はないが、Project Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・Project Sprintの導入や活用に関する疑問・質問|
 |プロジェクトマネジメントの経験があり、新しい方法論としてProject Sprintをインプットしたいと考える方|・概念としてのProject Sprintを理解し、核となっている行動規範や価値観を把握する<br>・Project Sprintの特徴や利点を理解する|・Project Sprintに対する共感・違和感<br>・Project Sprintの導入や活用に関する疑問・質問|
 |プロジェクトマネジメントの経験はないが、Project Sprintに興味がある方|・Project Sprintの概要を理解する|---|
-
-フィードバックは、[コントリビューターとしての参加の方法](contributing.md)のページを参考に、GitHubのIssueでお寄せください。もっとカジュアルに、Slack上のユーザーコミュニティへの参加からでも結構です。どのようなかたちであれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思いますし、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
 
 ## Learning Path
 
