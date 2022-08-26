@@ -13,6 +13,10 @@ JA
 **v3.3.1 (July 14th, 2022)**
 　- 体裁崩れ修正
 
+**v3.3.2 (August 26th, 2022)**
+　- タイポ・リンク切れ等修正
+　- Release Management及びContributorとしての参加方法、Code of ConductをGitHubへ移管
+
 ### [v3.2](JA/v3.2/README.md)
 
 **v3.2.0 (May 31st, 2022)**
