@@ -179,5 +179,4 @@
     * [Reference](EN/v2.0/reference.md)
 * [Release Notes](releasenotes.md)
 * [Release Management](releasemanagement.md)
-* [Code of Conduct](codeofconduct.md)
 * [How to Contribute](contributing.md)
