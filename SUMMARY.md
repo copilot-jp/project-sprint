@@ -178,5 +178,4 @@
     * [Advance](EN/v2.0/advance.md)
     * [Reference](EN/v2.0/reference.md)
 * [Release Notes](releasenotes.md)
-* [Release Management](releasemanagement.md)
 * [How to Contribute](contributing.md)
