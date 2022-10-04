@@ -1,4 +1,4 @@
-# Framework
+# フレームワーク
 
 ## Project Sprintは何を可能にするか
 
