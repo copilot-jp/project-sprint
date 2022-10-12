@@ -30,9 +30,3 @@ Project Sprintにおける記述は、「プロジェクトの推進を手取り
 2. Theories and Practicesの[Theories](JA/v3.3/theories/README.md)を中心に読み、理論体系としてのProject Sprintを理解する
 3. [Essentials](JA/v3.3/essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
 4. Theories and Practicesの[Practices](JA/v3.3/practices/README.md)を中心に読み、具体的な実践イメージをつかむ
-
-## SuperGoodMeetings
-
-複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツールです。 Project Sprint をサポートするプロジェクト構造や入力項目を持ちます。
-
-* [SuperGoodMeetings](https://supergoodmeetings.com)
