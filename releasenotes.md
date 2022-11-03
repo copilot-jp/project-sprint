@@ -24,6 +24,9 @@
   * タイポ・リンク切れ等修正
   * Release Management及びContributorとしての参加方法、Code of ConductをGitHubへ移管
 
+**v3.3.3 (October 4th, 2022)**
+  * タイポ修正、表記調整
+
 ### [v3.2](JA/v3.2/README.md)
 
 **v3.2.0 (May 31st, 2022)**
