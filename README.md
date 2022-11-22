@@ -1,8 +1,6 @@
 # Project Sprint
 
-## ![](images/pjs_og.png)
-
-<span style="font-size: 200%">[Project Sprint (v3.3)](JA/v3.3/README.md)</span>
+[](images/pjs_og.png)
 
 ## Project Sprint とは
 
@@ -21,13 +19,13 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 
 はじめての方にとっては、少しとっつきにくいと感じられることもあるかと思いますので、スムーズに理解いただくために、下記の順番でお読みいただくことをおすすめします。
 
-1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する
+1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する  
 　[&#9758; はじめに](JA/v4.0-alpha/introduction.md)
-2. Project Sprint の核となる概念や価値観に触れる
+2. Project Sprint の核となる概念や価値観に触れる  
 　[&#9758; フレームワーク](JA/v4.0-alpha/framework.md)
-3. 具体的な行動の指針や実践イメージを把握する
+3. 具体的な行動の指針や実践イメージを把握する  
 　[&#9758; チュートリアル](JA/v4.0-alpha/tutorial/README.md)
-4. チュートリアルの理解を踏まえ、改めてフレームワークの内容を理解する
+4. チュートリアルの理解を踏まえ、改めてフレームワークの内容を理解する  
 　[&#9758; フレームワーク](JA/v4.0-alpha/framework.md)
 
 ## Project Sprint の想定読者と活用方法
@@ -109,7 +107,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 Project Sprint は、プロジェクトの現場で得られた実践知のフィードバックを受けることにより、アップデートを繰り返してきました。
 
 - 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
-‐ プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
+- プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
 
 事務局のメンバーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思います。また、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
 
@@ -117,4 +115,4 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 
 GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
 - Discussionsとは、GitHubのオープンなコメントシステムです。
-‐ 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
+- 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
