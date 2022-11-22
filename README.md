@@ -1,10 +1,10 @@
 # Project Sprint
 
-[](images/pjs_og.png)
+![](images/pjs_og.png)
 
 ## Project Sprint とは
 
-Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint を体系立てた文章にまとめ、オープンソースのメソッドとして公開しているものです。
+Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint を体系立てた文書にまとめ、オープンソースのメソッドとして公開しているものです。
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
