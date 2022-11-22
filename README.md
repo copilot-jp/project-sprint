@@ -1,32 +1,120 @@
 # Project Sprint
 
-## ![](images/pjs_logo.png)
+## ![](images/pjs_og.png)
 
 <span style="font-size: 200%">[Project Sprint (v3.3)](JA/v3.3/README.md)</span>
 
-**定例ミーティングを定期的・反復的な実践の起点とすることにより、進化するゴールをチームで漸進的に達成するためのプロジェクト推進メソッド。**
+## Project Sprint とは
 
-The project operating method allows teams to incrementally achieve evolving objectives by using recurring meetings as a series of originations of regular and iterative practice.
+Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint を体系立てた文章にまとめ、オープンソースのメソッドとして公開しているものです。
 
-## Project Sprint Guide
+Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-Project Sprintは、変化しつづけるプロジェクトに寄り添うことのできる、定例ミーティングを活用したプロジェクトマネジメントメソドロジーとして、2020年にリリースされました。以降大小さまざまなアップデートを繰り返し、今現在も進化しつづけている、オープンソースのメソッドです。ここに含まれるドキュメントの活用方法と事務局が期待するフィードバックは、読者の方が置かれている状況によって異なります。
+**▼現在の最新ドキュメント**  
+[Project Sprint (v4.0-alpha)](JA/v4.0-alpha/README.md)
 
-フィードバックは、[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)のページを参考に、GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思いますし、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
+-----
 
-|対象読者|目的|事務局が期待するフィードバック|
-|---|---|---|
-|プロジェクトマネジメントの経験及びProject Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・新たな理論（Project Sprintが取り込むべき考え方やまだ記述されていない論点）<br>・Project Sprintの導入や活用に関する疑問・質問|
-|プロジェクトマネジメントの経験はないが、Project Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・Project Sprintの導入や活用に関する疑問・質問|
-|プロジェクトマネジメントの経験があり、新しい方法論としてProject Sprintをインプットしたいと考える方|・概念としてのProject Sprintを理解し、核となっている行動規範や価値観を把握する<br>・Project Sprintの特徴や利点を理解する|・Project Sprintに対する共感・違和感<br>・Project Sprintの導入や活用に関する疑問・質問|
-|プロジェクトマネジメントの経験はないが、Project Sprintに興味がある方|・Project Sprintの概要を理解する|---|
+## はじめての方へ
 
-## Learning Path
+本ドキュメントは、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な内容に重点を置きたいとの思いで記述されています。そのため、プロジェクトの推進を手取り足取り支援できるような細かい導入マニュアルや利用ガイドは今のところ置いておらず、基本的な概念や価値観と実践方法、そしてそれらの理解を助けるための記述をまとめたものになっています。
 
-Project Sprintにおける記述は、「プロジェクトの推進を手取り足取り支援する」といった性質のものではなく、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な内容により重点を置くものでありたいと考えています。そのため、細かい導入マニュアルや利用ガイドは置かず、基本的な概念や実践方法とその理解を助けるための記述を中心にしています。
-ただし、スムーズな理解のためには、下記の順にお読みいただくとよいでしょう。
+はじめての方にとっては、少しとっつきにくいと感じられることもあるかと思いますので、スムーズに理解いただくために、下記の順番でお読みいただくことをおすすめします。
 
-1. [Project Sprint 101](JA/v3.3/theories/101.md)を読み、Project Sprintの基本メカニズムや理解するための前提、コア・アクションを把握する
-2. Theories and Practicesの[Theories](JA/v3.3/theories/README.md)を中心に読み、理論体系としてのProject Sprintを理解する
-3. [Essentials](JA/v3.3/essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
-4. Theories and Practicesの[Practices](JA/v3.3/practices/README.md)を中心に読み、具体的な実践イメージをつかむ
+1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する
+　[&#9758; はじめに](JA/v4.0-alpha/introduction.md)
+2. Project Sprint の核となる概念や価値観に触れる
+　[&#9758; フレームワーク](JA/v4.0-alpha/framework.md)
+3. 具体的な行動の指針や実践イメージを把握する
+　[&#9758; チュートリアル](JA/v4.0-alpha/tutorial/README.md)
+4. チュートリアルの理解を踏まえ、改めてフレームワークの内容を理解する
+　[&#9758; フレームワーク](JA/v4.0-alpha/framework.md)
+
+## Project Sprint の想定読者と活用方法
+
+このドキュメントの活用方法は、読者の方が置かれている状況によって異なります。
+
+<table border="2">
+　<tr>
+   <th>読者</th><th>目的</th><th>お願いしたいフィードバック観点</th>
+ </tr>
+ <tr>
+    <td valign="top">プロジェクトマネジメントの経験<font color="#F082A0">あり</font>
+    <br>
+    Project Sprintの実践経験<font color="#F082A0">あり</font>
+    </td>
+    <td rowspan="2" valign="top">自身の実践経験とProject Sprintの<b>記述に乖離がないか確認</b>する
+    <br>
+    <br>
+    自身の<b>実践知をフィードバック</b>しProject Sprintを発展させる
+    <br>
+    <br>
+    バージョンアップの際の差分を確認し、<b>最新の内容をインプット</b>する
+    </td>
+    <td valign="top">実践知（Project Sprintを実践してみて良かった点や、うまくいかなかった点）
+    <br>
+    <br>
+    新たな理論（Project Sprintが取り込むべき考え方やまだ記述されていない論点）
+    <br>
+    <br>
+    Project Sprintの導入や活用に関する疑問・質問
+    </td>
+</tr>
+<tr>
+    <td valign="top"> プロジェクトマネジメントの経験<font color="#007bbb">なし</font>
+    <br>
+    Project Sprintの実践経験<font color="#F082A0">あり</font>
+    <br>
+    </td>
+    <td valign="top">実践知（Project Sprintを実践してみて良かった点や、うまくいかなかった点）
+    <br>
+    <br>
+    Project Sprintの導入や活用に関する疑問や、質問
+    </td>
+</tr>
+<tr>
+    <td valign="top"> プロジェクトマネジメントの経験<font color="#F082A0">あり</font>
+    <br>
+    Project Sprintの実践経験<font color="#007bbb">なし</font>
+    <br>
+    <br>
+    ※&nbsp;新しい方法論としてProject Sprintをインプットしたいと考える方
+    <br>
+    <td valign="top">概念としてのProject Sprintを理解し、核となっている<b>行動規範や価値観を把握</b>する
+    <br>
+    <br>
+    Project Sprintの<b>特徴や利点を理解</b>する
+    </td>
+    <td valign="top"> Project Sprintに対する共感・違和感
+    <br>
+    <br>
+    Project Sprintの導入や活用に関する疑問や、質問
+    </td>
+</tr>
+<tr>
+    <td valign="top"> プロジェクトマネジメントの経験<font color="#007bbb">なし</font>
+    <br>
+    Project Sprintの実践経験<font color="#007bbb">なし</font>
+    <br>
+    <br>
+    ※&nbsp;プロジェクトマネジメントの経験はないが、Project Sprintに興味がある方
+    <br>
+    </td>
+    <td valign="top"> Project Sprintの<b>概要を理解</b>する</td>
+    <td valign="top">---</td>
+</table>
+
+## フィードバックを歓迎します！
+
+Project Sprint は、プロジェクトの現場で得られた実践知のフィードバックを受けることにより、アップデートを繰り返してきました。
+
+- 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
+‐ プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
+
+事務局のメンバーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思います。また、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
+
+**＜フィードバックの方法＞**
+
+GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
+- Discussionsとは、GitHubのオープンなコメントシステムです。
+‐ 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
