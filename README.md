@@ -4,12 +4,17 @@
 
 ## Project Sprint とは
 
-Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint を体系的な文書にまとめ、オープンソースのメソッドとして公開しているものです。
+Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint をオープンソースのメソッドとして公開しているものです。
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
 **▼現在の最新ドキュメント**  
-[Project Sprint (v4.0-alpha)](JA/v4.0-alpha/README.md)
+Project Sprint (v4.0)
+- [Introduction](JA/v4.0-alpha/introduction.md)
+- [Framework](JA/v4.0-alpha/framework.md)
+
+**▼具体的な実践方法はこちら**
+- Practical Guide
 
 -----
 
@@ -27,18 +32,18 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 
 ## はじめての方へ
 
-本ドキュメントは、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な内容に重点を置きたいとの思いで記述されています。そのため、プロジェクトの推進を手取り足取り支援できるような細かい導入マニュアルや利用ガイドは今のところ置いておらず、基本的な概念や価値観と実践方法、そしてそれらの理解を助けるための記述をまとめたものになっています。
+本ドキュメントは、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な概念や価値観に重点を置きたいとの思いで記述されています。そのため、基本的な実践方法や本ドキュメントの理解を助けるための記述は別途Practical Guideにまとめられています。
 
 はじめての方にとっては、少しとっつきにくいと感じられることもあるかと思いますので、スムーズに理解いただくために、下記の順番でお読みいただくことをおすすめします。
 
 1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する  
-　[&#9758; はじめに](JA/v4.0-alpha/introduction.md)
+　[&#9758; Introduction](JA/v4.0-alpha/introduction.md)
 2. Project Sprint の核となる概念や価値観に触れる  
-　[&#9758; フレームワーク](JA/v4.0-alpha/framework.md)
+　[&#9758; Framework](JA/v4.0-alpha/framework.md)
 3. 具体的な行動の指針や実践イメージを把握する  
-　[&#9758; チュートリアル](JA/v4.0-alpha/tutorial/README.md)
+　[&#9758; Practical Guide](Coming soon!)
 4. チュートリアルの理解を踏まえ、改めてフレームワークの内容を理解する  
-　[&#9758; フレームワーク](JA/v4.0-alpha/framework.md)　(再読)
+　[&#9758; Framework](JA/v4.0-alpha/framework.md)　(再読)
 
 ## フィードバックを歓迎します！
 
