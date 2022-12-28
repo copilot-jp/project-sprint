@@ -35,4 +35,36 @@ Project Sprintにおける記述は、「プロジェクトの推進を手取り
 
 複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツールです。 Project Sprint をサポートするプロジェクト構造や入力項目を持ちます。
 
+<<<<<<< Updated upstream
 * [SuperGoodMeetings](https://supergoodmeetings.com)
+=======
+Frameworkの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
+
+1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する  
+　[&#9758; Introduction](JA/v4.0/introduction.md)
+2. Project Sprint の核となる概念や価値観に触れる  
+　[&#9758; Framework](JA/v4.0/framework.md)
+3. 過去版を参照し、各概念の詳細や実践の際の指針を把握する  
+　&#9758; [Theories](JA/v3.3/theories/README.md) and [Practices](JA/v3.3/practices/README.md) (v3.3.3)
+4. Frameworkを再読し、内容をより深く理解する  
+　[&#9758; Framework](JA/v4.0/framework.md)　(再読)
+
+## フィードバックを歓迎します！
+
+Project Sprint は、プロジェクトの現場で得られた実践知のフィードバックを受けることにより、アップデートを繰り返してきました。
+
+- 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
+- プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
+
+事務局のメンバーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。
+
+プロジェクトに関わる方それぞれがご自身の実践知をフィードバックしてくださることで、Project Sprint はより使いやすく、多くの人にとって価値のあるものになってゆくでしょう。
+
+どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思います。また、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
+
+**＜フィードバックの方法＞**
+
+GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
+- Discussionsとは、GitHubのオープンなコメントシステムです。
+- 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
+>>>>>>> Stashed changes
