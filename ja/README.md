@@ -2,7 +2,7 @@
 
 ## Version 4
 
-* [v4.0-alpha](v4.0-alpha/README.md)
+* [v4.0](v4.0/README.md)
 
 ## Version 3
 
