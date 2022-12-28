@@ -1,38 +1,62 @@
 # Project Sprint
 
-## ![](images/pjs_logo.png)
+![](images/pjs_og.png)
 
-<span style="font-size: 200%">[Project Sprint (v3.3)](JA/v3.3/README.md)</span>
+## Project Sprint とは
 
-**定例ミーティングを定期的・反復的な実践の起点とすることにより、進化するゴールをチームで漸進的に達成するためのプロジェクト推進メソッド。**
+Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint をオープンソースのメソッドとして公開しているものです。
 
-The project operating method allows teams to incrementally achieve evolving objectives by using recurring meetings as a series of originations of regular and iterative practice.
+Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-## Project Sprint Guide
+**▼現在の最新ドキュメント**  
+Project Sprint (v4.0)
+- [Introduction](JA/v4.0/introduction.md)
+- [Framework](JA/v4.0/framework.md)
 
-Project Sprintは、変化しつづけるプロジェクトに寄り添うことのできる、定例ミーティングを活用したプロジェクトマネジメントメソドロジーとして、2020年にリリースされました。以降大小さまざまなアップデートを繰り返し、今現在も進化しつづけている、オープンソースのメソッドです。ここに含まれるドキュメントの活用方法と事務局が期待するフィードバックは、読者の方が置かれている状況によって異なります。
+-----
 
-フィードバックは、[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)のページを参考に、GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思いますし、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
+## こんな方におすすめ
 
-|対象読者|目的|事務局が期待するフィードバック|
-|---|---|---|
-|プロジェクトマネジメントの経験及びProject Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・新たな理論（Project Sprintが取り込むべき考え方やまだ記述されていない論点）<br>・Project Sprintの導入や活用に関する疑問・質問|
-|プロジェクトマネジメントの経験はないが、Project Sprintの実践経験がある方|・自身の実践経験とProject Sprintの記述に乖離がないか確認する<br>・自身の実践知をフィードバックしProject Sprintを発展させる<br>・バージョンアップの際の差分を確認し、最新の内容をインプットする|・実践知（Project Sprintを実践してみて良かった点・うまくいかなかった点）<br>・Project Sprintの導入や活用に関する疑問・質問|
-|プロジェクトマネジメントの経験があり、新しい方法論としてProject Sprintをインプットしたいと考える方|・概念としてのProject Sprintを理解し、核となっている行動規範や価値観を把握する<br>・Project Sprintの特徴や利点を理解する|・Project Sprintに対する共感・違和感<br>・Project Sprintの導入や活用に関する疑問・質問|
-|プロジェクトマネジメントの経験はないが、Project Sprintに興味がある方|・Project Sprintの概要を理解する|---|
+Project Sprint は、「チームがプロジェクトを規定する」という新たな価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
 
-## Learning Path
+- チームが主体として自由にプロジェクトを規定しつづけられるという価値観に共感する
+- 従来の予測型のプロジェクトにおける管理的・中央集権的なアプローチがうまくいっていない
+- 今までの自分のプロジェクトの進め方に迷いがあり、もっとよいやり方がないだろうかと悩んでいる
 
-Project Sprintにおける記述は、「プロジェクトの推進を手取り足取り支援する」といった性質のものではなく、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な内容により重点を置くものでありたいと考えています。そのため、細かい導入マニュアルや利用ガイドは置かず、基本的な概念や実践方法とその理解を助けるための記述を中心にしています。
-ただし、スムーズな理解のためには、下記の順にお読みいただくとよいでしょう。
+そんな方はぜひ一度、Project Sprint がご案内する適応型のプロジェクトの世界へ飛び込んでみませんか？
 
-1. [Project Sprint 101](JA/v3.3/theories/101.md)を読み、Project Sprintの基本メカニズムや理解するための前提、コア・アクションを把握する
-2. Theories and Practicesの[Theories](JA/v3.3/theories/README.md)を中心に読み、理論体系としてのProject Sprintを理解する
-3. [Essentials](JA/v3.3/essentials.md)を読み、核となる行動規範と、Project Sprintが立脚する思想や価値観を理解する
-4. Theories and Practicesの[Practices](JA/v3.3/practices/README.md)を中心に読み、具体的な実践イメージをつかむ
+※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](JA/v4.0-alpha/introduction.md#重要な前提と用語)をご覧ください。
 
-## SuperGoodMeetings
+## はじめての方へ
 
-複数のミーティングを俯瞰しながら、ミーティングやアジェンダを直感的に編集することができる、ミーティング活用ツールです。 Project Sprint をサポートするプロジェクト構造や入力項目を持ちます。
+本ドキュメントは、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な概念や価値観に重点を置きたいとの思いで記述されています。v4の公開に当たって、フレームワークとしての強度を高めることと文書管理をしやすくすることを目的として、v3までは本ドキュメントに含まれていた各概念の詳細な説明や実践の際の指針を、本ドキュメントから分離しました。
 
-* [SuperGoodMeetings](https://supergoodmeetings.com)
+フレームワークの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
+
+1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する  
+　[&#9758; Introduction](JA/v4.0/introduction.md)
+2. Project Sprint の核となる概念や価値観に触れる  
+　[&#9758; Framework](JA/v4.0/framework.md)
+3. 過去版を参照し、各概念の詳細や実践の際の指針を把握する  
+　&#9758; [Theories](JA/v3.3/theories/README.md) and [Practices](JA/v3.3/practices/README.md) (v3.3.3)
+4. フレームワークを再読し、内容をより深く理解する  
+　[&#9758; Framework](JA/v4.0/framework.md)　(再読)
+
+## フィードバックを歓迎します！
+
+Project Sprint は、プロジェクトの現場で得られた実践知のフィードバックを受けることにより、アップデートを繰り返してきました。
+
+- 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
+- プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
+
+事務局のメンバーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。
+
+プロジェクトに関わる方それぞれがご自身の実践知をフィードバックしてくださることで、Project Sprint はより使いやすく、多くの人にとって価値のあるものになってゆくでしょう。
+
+どのようなかたちや内容であれ、このメソッドに関心やご意見、共感をお寄せいただけることを嬉しく思います。また、Project Sprintの発展に貢献したいと考えてくださる方も歓迎します。
+
+**＜フィードバックの方法＞**
+
+GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
+- Discussionsとは、GitHubのオープンなコメントシステムです。
+- 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
