@@ -2,22 +2,19 @@
 
 ## CODE
 
-### [v4.0](JA/v4.0-alpha/README.md)
+### [v4.0](JA/v4.0/README.md)
 
 **v4.0.0-alpha (October 4th, 2022)**
 * JA
   * 成果と出力に関する記述を取り込んだFrameworkを公開
   * v3.3内のタイポや表記揺れを整理
 
-<<<<<<< Updated upstream
-=======
 **v4.0.0 (December 29th, 2022)**
 * JA
   * Project Sprint の構成や、理解するうえで重要な前提・用語を把握するためのIntroductionを記述
   * Frameworkを全体アップデート
   * v3.3内のタイポや表記揺れを整理
 
->>>>>>> Stashed changes
 ### [v3.3](JA/v3.3/README.md)
 
 **v3.3.0 (July 6th, 2022)**

@@ -2,8 +2,9 @@
 
 * [TOP](README.md)
 * [Project Sprint (Ja)](JA/README.md)
-  * [v4.0-alpha](JA/v4.0-alpha/README.md)
-    * [フレームワーク](JA/v4.0-alpha/framework.md)
+  * [v4.0](JA/v4.0/README.md)
+    * [Introduction](JA/v4.0/introduction.md)
+    * [Framework](JA/v4.0/framework.md)
   * [v3.3](JA/v3.3/README.md)
     * [Theories](JA/v3.3/theories/README.md)
       * [Project Sprint 101](JA/v3.3/theories/101.md)
@@ -179,4 +180,5 @@
       * [Tips14: The Purpose of an Agenda](EN/v2.0/tips/tips14.md)
     * [Advance](EN/v2.0/advance.md)
     * [Reference](EN/v2.0/reference.md)
+* [Lisence](LICENSE.md)
 * [Release Notes](releasenotes.md)
