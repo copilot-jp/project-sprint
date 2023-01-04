@@ -13,8 +13,6 @@ Project Sprint (v4.0)
 - [Introduction](JA/v4.0/introduction.md)
 - [Framework](JA/v4.0/framework.md)
 
------
-
 ## こんな方におすすめ
 
 Project Sprint は、「チームがプロジェクトを規定する」という新たな価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
@@ -60,4 +58,3 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
 - Discussionsとは、GitHubのオープンなコメントシステムです。
 - 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
->>>>>>> Stashed changes
