@@ -9,9 +9,10 @@ Project Sprint は、定例会議を活用したプロジェクト推進のた�
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
 **▼現在の最新ドキュメント**  
-Project Sprint (v4.0)
-- [Introduction](JA/v4.0/introduction.md)
-- [Framework](JA/v4.0/framework.md)
+Project Sprint (v4.1)
+- [Introduction](JA/v4.1/introduction.md)
+- [Definitions](JA/v4.1/definitions.md)
+- [Framework](JA/v4.1/framework.md)
 
 ## こんな方におすすめ
 
