@@ -18,7 +18,7 @@ Project Sprint のフレームワークを取り入れることにより、プ�
 
 ## 2. Project Sprint の精神
 
-Project Sprint は、[「Adopt & Adapt (採用と適応)」](#user-content-fn-1)[^1]のスタンスで構築されています。
+Project Sprint は、「Adopt & Adapt (採用と適応)」[^1]のスタンスで構築されています。
 
 Project Sprint は、多様なプロジェクトに汎用的に適用することが可能です。しかし、 Project Sprint を自分たちのプロジェクトのフレームワークとして採用するかどうか、さらにどの部分をどういった形で採用するかは、個々のプロジェクトチームの意思に委ねられています。重要なのは、プロジェクトチームがどのような価値観に拠ってプロジェクトに取り組みたいかです。
 
@@ -42,4 +42,4 @@ Project Sprint は、実践知を集めて体系化することによってか�
 
 現在の Project Sprint の中でももっとも本質的な価値と言える内容を、 [Framework](framework.md) にまとめています。Project Sprint の根幹をなすものとしての厳密さを重視しているため、具体的な実践内容やその手順というより、プロジェクト推進の構造やそのための価値観といった、抽象度の高い内容が記述されています。 Project Sprint における各概念の捉え方・考え方や、プロジェクトにおいて推奨される振る舞いを読み取っていただければと思います。
 
-[^1]: [https://www.axelos.com/certifications/itil-service-management](https://www.axelos.com/certifications/itil-service-management)
+[^1]: [ITIL](https://en.wikipedia.org/wiki/ITIL)の精神に共感し、そのまま採用しています
