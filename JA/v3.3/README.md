@@ -1,6 +1,6 @@
 # v3.3
 
-## ![](../../images/pjs\_logo.png)
+## ![](<../v4.0/images/pjs\_logo (2).png>)
 
 ## **CODEとは**
 

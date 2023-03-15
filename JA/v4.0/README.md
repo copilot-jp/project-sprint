@@ -1,6 +1,6 @@
 # v4.0
 
-![](images/pjs\_logo.png)
+![](<../../images/pjs\_logo (1).png>)
 
 ## [Introduction](introduction.md)
 
