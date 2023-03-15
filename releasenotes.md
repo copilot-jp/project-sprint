@@ -9,9 +9,10 @@
   * 成果と出力に関する記述を取り込んだFrameworkを公開
   * v3.3内のタイポや表記揺れを整理
 
-**v4.0.0 (December 29th, 2022)**
+**v4.0.0 (March 16th, 2023)**
 * JA
-  * Project Sprint の構成や、理解するうえで重要な前提・用語を把握するためのIntroductionを記述
+  * Project Sprint の概要や価値観を紹介するIntroductionを記述
+  * Project Sprint を理解するための前提となるDefinitionsを記述
   * Frameworkを全体アップデート
   * v3.3内のタイポや表記揺れを整理
 

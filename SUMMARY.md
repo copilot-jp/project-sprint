@@ -4,6 +4,7 @@
 * [Project Sprint (Ja)](JA/README.md)
   * [v4.0](JA/v4.0/README.md)
     * [Introduction](JA/v4.0/introduction.md)
+    * [Definitions](JA/v4.0/definitions.md)
     * [Framework](JA/v4.0/framework.md)
   * [v3.3](JA/v3.3/README.md)
     * [Theories](JA/v3.3/theories/README.md)
