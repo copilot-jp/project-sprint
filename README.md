@@ -1,6 +1,6 @@
-# Project Sprint
+# TOP
 
-![](images/pjs_og.png)
+![](images/pjs\_og.png)
 
 ## Project Sprint とは
 
@@ -8,19 +8,20 @@ Project Sprint は、定例会議を活用したプロジェクト推進のた�
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-**▼現在の最新ドキュメント**  
+**▼現在の最新ドキュメント**\
 Project Sprint (v4.0)
-- [Introduction](JA/v4.0/introduction.md)
-- [Definitions](JA/v4.0/definitions.md)
-- [Framework](JA/v4.0/framework.md)
+
+* [Introduction](JA/v4.0/introduction.md)
+* [Definitions](JA/v4.0/definitions.md)
+* [Framework](JA/v4.0/framework.md)
 
 ## こんな方におすすめ
 
 Project Sprint は、「チームがプロジェクトを規定する」という新たな価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
 
-- チームが主体として自由にプロジェクトを規定しつづけられるという価値観に共感する
-- 従来の予測型のプロジェクトにおける管理的・中央集権的なアプローチがうまくいっていない
-- 今までの自分のプロジェクトの進め方に迷いがあり、もっとよいやり方がないだろうかと悩んでいる
+* チームが主体として自由にプロジェクトを規定しつづけられるという価値観に共感する
+* 従来の予測型のプロジェクトにおける管理的・中央集権的なアプローチがうまくいっていない
+* 今までの自分のプロジェクトの進め方に迷いがあり、もっとよいやり方がないだろうかと悩んでいる
 
 そんな方はぜひ一度、Project Sprint がご案内する適応型のプロジェクトの世界へ飛び込んでみませんか？
 
@@ -32,21 +33,23 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 
 Frameworkの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
 
-1. Project Sprint の構成や、理解する上で重要な前提・用語を把握する  
-　[&#9758; Introduction](JA/v4.0/introduction.md)
-2. Project Sprint の核となる概念や価値観に触れる  
-　[&#9758; Framework](JA/v4.0/framework.md)
-3. 過去版を参照し、各概念の詳細や実践の際の指針を把握する  
-　&#9758; [Theories](JA/v3.3/theories/README.md) and [Practices](JA/v3.3/practices/README.md) (v3.3.3)
-4. Frameworkを再読し、内容をより深く理解する  
-　[&#9758; Framework](JA/v4.0/framework.md)　(再読)
+1. Project Sprint からの提案の概要や、その基盤となる価値観を把握する\
+   ☞ [Introduction](JA/v4.0/introduction.md)
+2. Project Sprint におけるプロジェクト観と用語の定義を理解する\
+   ☞ [Definitions](JA/v4.0/definitions.md)
+3. Project Sprint の核となる概念や価値観に触れる\
+   ☞ [Framework](JA/v4.0/framework.md)
+4. 過去版を参照し、各概念の詳細や実践の際の指針を把握する\
+   ☞ [Theories](JA/v3.3/theories/) and [Practices](JA/v3.3/practices/) (v3.3.3)
+5. Frameworkを再読し、内容をより深く理解する\
+   ☞ [Framework](JA/v4.0/framework.md)　(再読)
 
 ## フィードバックを歓迎します！
 
 Project Sprint は、プロジェクトの現場で得られた実践知のフィードバックを受けることにより、アップデートを繰り返してきました。
 
-- 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
-- プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
+* 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
+* プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
 
 事務局のメンバーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。
 
@@ -57,5 +60,6 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 **＜フィードバックの方法＞**
 
 GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
-- Discussionsとは、GitHubのオープンなコメントシステムです。
-- 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
+
+* Discussionsとは、GitHubのオープンなコメントシステムです。
+* 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。

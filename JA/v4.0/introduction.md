@@ -3,9 +3,10 @@
 Project Sprint は、小さな成果を繰り返し確実に生み出すことを通じて、環境の変化を捉えつづけながら価値の創出を目指すためのフレームワークです。
 
 この Introduction では、 皆さんが Project Sprint に触れる際に、Project Sprint をどのような性質のものとして捉え、どのようなスタンスで臨んでいただくとよいかをご案内します。
-  1. Project Sprint の提案
-  2. Project Sprint の精神
-  3. Project Sprint のフレームワーク
+
+1. Project Sprint の提案
+2. Project Sprint の精神
+3. Project Sprint のフレームワーク
 
 ## 1. Project Sprint の提案
 
@@ -17,15 +18,15 @@ Project Sprint のフレームワークを取り入れることにより、プ�
 
 ## 2. Project Sprint の精神
 
-Project Sprint は、「Adopt & Adapt (採用と適応)」のスタンスで構築されています。
+Project Sprint は、[「Adopt & Adapt (採用と適応)」](#user-content-fn-1)[^1]のスタンスで構築されています。
 
 Project Sprint は、多様なプロジェクトに汎用的に適用することが可能です。しかし、 Project Sprint を自分たちのプロジェクトのフレームワークとして採用するかどうか、さらにどの部分をどういった形で採用するかは、個々のプロジェクトチームの意思に委ねられています。重要なのは、プロジェクトチームがどのような価値観に拠ってプロジェクトに取り組みたいかです。
 
 以下のような価値観に共感を覚えるプロジェクトチームは、 Project Sprint との親和性が高く、 Project Sprint のフレームワークによる効果が上がりやすいでしょう。逆に、この価値観への共感が難しい場合、Project Sprint からの提案がプロジェクトチームに混乱を生じさせてしまう可能性があります。
 
-- 所与の条件にとらわれず、チームの自己決定を重視する
-- 予測型か適応型かにとらわれず、状況に応じて柔軟に使い分ける
-- 最初に決めた目標の達成にとらわれず、小さな実験を日々繰り返し成果と改善を積み重ねる
+* 所与の条件にとらわれず、チームの自己決定を重視する
+* 予測型か適応型かにとらわれず、状況に応じて柔軟に使い分ける
+* 最初に決めた目標の達成にとらわれず、小さな実験を日々繰り返し成果と改善を積み重ねる
 
 こういった価値観を反映し、 Project Sprint においてプロジェクトをどのようなものとして捉えるとよいかは、 [Definitions](definitions.md)に改めて詳しく記述しています。
 
@@ -40,3 +41,5 @@ Project Sprint は、実践知を集めて体系化することによってか�
 堅牢な理論に立脚して構築された揺るぎないものではなく、プロジェクトの現場から日々新たな実践知を取り込みながら更新が続けられており、大きな進化の可能性も秘められています。
 
 現在の Project Sprint の中でももっとも本質的な価値と言える内容を、 [Framework](framework.md) にまとめています。Project Sprint の根幹をなすものとしての厳密さを重視しているため、具体的な実践内容やその手順というより、プロジェクト推進の構造やそのための価値観といった、抽象度の高い内容が記述されています。 Project Sprint における各概念の捉え方・考え方や、プロジェクトにおいて推奨される振る舞いを読み取っていただければと思います。
+
+[^1]: [https://www.axelos.com/certifications/itil-service-management](https://www.axelos.com/certifications/itil-service-management)
