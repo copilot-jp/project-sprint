@@ -12,13 +12,13 @@ It can be used as a first step for learning if you haven't done Project Sprint y
 
 This is an overview of Project Sprint that you should read first.
 
-* [Project Sprint 101](project-sprint-101.md)
+* [Project Sprint 101](broken-reference)
 
 **Let's Get Ready**
 
 This section describes what you need to do to prepare for starting Project Sprint. The first step is to start Project Sprint based on the structure you have decided here.
 
-* [Setting Goals and Milestones for a Project](1-1.md)
+* [Setting Goals and Milestones for a Project](broken-reference)
 * [Knowing your Team Members and Setting their Roles](1-2.md)
 * [Designing a Meeting](1-3.md)
 
