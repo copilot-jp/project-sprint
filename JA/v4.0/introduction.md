@@ -18,7 +18,7 @@ Project Sprint のフレームワークを取り入れることにより、プ�
 
 ## 2. Project Sprint の精神
 
-Project Sprint は、[「Adopt & Adapt (採用と適応)」](#user-cont ent-fn-1)[^1]のスタンスで構築されています。
+Project Sprint は、[「Adopt & Adapt (採用と適応)」](#user-content-fn-1)[^1]のスタンスで構築されています。
 
 Project Sprint は、多様なプロジェクトに汎用的に適用することが可能です。しかし、 Project Sprint を自分たちのプロジェクトのフレームワークとして採用するかどうか、さらにどの部分をどういった形で採用するかは、個々のプロジェクトチームの意思に委ねられています。重要なのは、プロジェクトチームがどのような価値観に拠ってプロジェクトに取り組みたいかです。
 
