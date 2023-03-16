@@ -1,6 +1,6 @@
 # Tips2: Using a Milestone Map
 
-As described in the section on the [Setting goals and milestones for a project](../tutorial/1-1.md), a milestone is "a description of a set of specific deliverables and the deadlines associated with them. This milestone map should be shared and agreed upon by all team members, and should be available for constant reference throughout the project.
+As described in the section on the [Setting goals and milestones for a project](broken-reference), a milestone is "a description of a set of specific deliverables and the deadlines associated with them. This milestone map should be shared and agreed upon by all team members, and should be available for constant reference throughout the project.
 
 We recommend using a "milestone map" as a tool to help you with this task.
 
