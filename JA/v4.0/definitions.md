@@ -1,4 +1,4 @@
-## Definitions
+# Definitions
 
 ここでは、Project Sprint を理解するための前提として、Project Sprint のプロジェクト観を説明し、その他の用語を定義します。
 
