@@ -1,6 +1,6 @@
 # v4.0
 
-![](<../../images/pjs\_logo (1).png>)
+![](images/illust_documents.png)
 
 ## [Introduction](introduction.md)
 
