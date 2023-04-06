@@ -62,4 +62,4 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
 
 * Discussionsとは、GitHubのオープンなコメントシステムです。
-* 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Method-operation-rules)）をご参照ください。
+* 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Operation-Rules)）をご参照ください。
