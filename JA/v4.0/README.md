@@ -21,4 +21,4 @@ v4では、Project Sprint がこれまでも重視してきた「作成物を生
 * 予測型・適応型両方のプロジェクトに対応できるようになる
 * プロジェクトをよりチームメンバー全員のものとして捉えることができるようになる
 
-★Project Sprint の内容に疑問やご意見を持たれた方は、[こちら](https://github.com/copilot-jp/project-sprint/discussions/381)のGitHub Discussionへお寄せください。
+★Project Sprint の内容に疑問やご意見を持たれた方は、[こちら](https://github.com/copilot-jp/project-sprint/discussions)のGitHub Discussionへお寄せください。
