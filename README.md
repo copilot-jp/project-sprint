@@ -1,5 +1,3 @@
-# TOP
-
 ![](images/pjs\_og.png)
 
 ## Project Sprint とは
@@ -8,20 +6,19 @@ Project Sprint は、定例会議を活用したプロジェクト推進のた�
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-**▼現在の最新ドキュメント**\
-Project Sprint (v4.0)
+## 現在の最新ドキュメント - Project Sprint (v4.0)
 
 ![](JA/v4.0/images/illust_documents.png)
 
-# [Introduction](JA/v4.0/introduction.md)
+### [Introduction](JA/v4.0/introduction.md)
 
 Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。この価値観にプロジェクトの新たな可能性を見出すチームのために、Project Sprint は構築されています。
 
-# [Definitions](JA/v4.0/definitions.md)
+### [Definitions](JA/v4.0/definitions.md)
 
 Definitionsでは、Project Sprint を理解するための前提となる、Project Sprint におけるプロジェクト観を説明し、その他の用語を定義します。
 
-# [Framework](JA/v4.0/framework.md)
+### [Framework](JA/v4.0/framework.md)
 
 Frameworkは、Project Sprint の核となる概念や価値観を示すものです。Project Sprint におけるプロジェクト推進の構造と、そのための価値観や推奨される振る舞いが記述されています。
 
