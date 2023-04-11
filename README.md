@@ -11,7 +11,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 **▼現在の最新ドキュメント**\
 Project Sprint (v4.0)
 
-![](images/illust_documents.png)
+![](JA/v4.0/images/illust_documents.png)
 
 ## [Introduction](JA/v4.0/introduction.md)
 
