@@ -13,21 +13,21 @@ Project Sprint (v4.0)
 
 ![](JA/v4.0/images/illust_documents.png)
 
-## [Introduction](JA/v4.0/introduction.md)
+# [Introduction](JA/v4.0/introduction.md)
 
 Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。この価値観にプロジェクトの新たな可能性を見出すチームのために、Project Sprint は構築されています。
 
-## [Definitions](JA/v4.0/definitions.md)
+# [Definitions](JA/v4.0/definitions.md)
 
 Definitionsでは、Project Sprint を理解するための前提となる、Project Sprint におけるプロジェクト観を説明し、その他の用語を定義します。
 
-## [Framework](JA/v4.0/framework.md)
+# [Framework](JA/v4.0/framework.md)
 
 Frameworkは、Project Sprint の核となる概念や価値観を示すものです。Project Sprint におけるプロジェクト推進の構造と、そのための価値観や推奨される振る舞いが記述されています。
 
 ## こんな方におすすめ
 
-Project Sprint は、「チームがプロジェクトを規定する」という新たな価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
+Project Sprint は、「チームがプロジェクトを規定する」という価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
 
 * チームが主体として自由にプロジェクトを規定しつづけられるという価値観に共感する
 * 従来の予測型のプロジェクトにおける管理的・中央集権的なアプローチがうまくいっていない
@@ -61,7 +61,7 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 * 不確実で変化の多いプロジェクトが増える中、プロジェクトに関わる人の苦悩を少しでも減らしたい
 * プロジェクトに関わるすべての人が、プロジェクトで自分の能力を最大限活かせるようしたい
 
-事務局のメンバーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。
+メンテナーはそんな思いで、今現在もProject Sprint を進化させるべく、試行錯誤を繰り返しています。
 
 プロジェクトに関わる方それぞれがご自身の実践知をフィードバックしてくださることで、Project Sprint はより使いやすく、多くの人にとって価値のあるものになってゆくでしょう。
 
