@@ -1,6 +1,6 @@
 # v4.0
 
-![](images/illust_documents.png)
+![文書構造](images/illust_documents.png)
 
 ## [Introduction](introduction.md)
 
