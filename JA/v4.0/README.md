@@ -4,7 +4,7 @@
 
 ## [Introduction](introduction.md)
 
-Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。この価値観にプロジェクトの新たな可能性を見出すチームのために、Project Sprint は構築されています。
+Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。
 
 ## [Definitions](definitions.md)
 
