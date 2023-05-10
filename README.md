@@ -1,28 +1,38 @@
+# TOP
+
 ![](images/pjs\_og.png)
 
-## Project Sprint とは
+### Project Sprint とは
 
 Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint をオープンソースのメソッドとして公開しているものです。
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-## 現在の最新ドキュメント - v4.0
+### 現在の最新ドキュメント - v4.0
 
-![](JA/v4.0/images/illust_documents.png)
+![](JA/v4.0/images/illust\_documents.png)
 
-**[Introduction](JA/v4.0/introduction.md)**
+[**Introduction**](JA/v4.0/introduction.md)
 
-  Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。この価値観にプロジェクトの新たな可能性を見出すチームのために、Project Sprint は構築されています。
+Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。この価値観にプロジェクトの新たな可能性を見出すチームのために、Project Sprint は構築されています。
 
-**[Definitions](JA/v4.0/definitions.md)**
+[**Definitions**](JA/v4.0/definitions.md)
 
-  Definitionsでは、Project Sprint を理解するための前提となる、Project Sprint におけるプロジェクト観を説明し、その他の用語を定義します。
+Definitionsでは、Project Sprint を理解するための前提となる、Project Sprint におけるプロジェクト観を説明し、その他の用語を定義します。
 
-**[Framework](JA/v4.0/framework.md)**
+[**Framework**](JA/v4.0/framework.md)
 
-  Frameworkは、Project Sprint の核となる概念や価値観を示すものです。Project Sprint におけるプロジェクト推進の構造と、そのための価値観や推奨される振る舞いが記述されています。
+Frameworkは、Project Sprint の核となる概念や価値観を示すものです。Project Sprint におけるプロジェクト推進の構造と、そのための価値観や推奨される振る舞いが記述されています。
 
-## こんな方におすすめ
+
+
+[**Practical Guide**](practical-guide.md)
+
+Practical Guide は、Project Sprint のフレームワークを実際のプロジェクトに導入し使いこなすためのガイドブックです。
+
+
+
+### こんな方におすすめ
 
 Project Sprint は、「チームがプロジェクトを規定する」という価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
 
@@ -34,7 +44,7 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 
 ※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](JA/v4.0/definitions.md)をご覧ください。
 
-## はじめての方へ
+### はじめての方へ
 
 本ドキュメントは、個々のプロジェクトチームの自律性や創造性の発揮を支援するための本質的な概念や価値観に重点を置きたいとの思いで記述されています。v4の公開に当たって、フレームワークとしての強度を高めることと文書管理をしやすくすることを目的として、v3までは本ドキュメントに含まれていた各概念の詳細な説明や実践の際の指針を、本ドキュメントから分離しました。
 
@@ -51,7 +61,7 @@ Frameworkの記述内容は抽象度が高く、厳密さを重視している�
 5. Frameworkを再読し、内容をより深く理解する\
    ☞ [Framework](JA/v4.0/framework.md)　(再読)
 
-## フィードバックを歓迎します！
+### フィードバックを歓迎します！
 
 Project Sprint は、プロジェクトの現場で得られた実践知のフィードバックを受けることにより、アップデートを繰り返してきました。
 

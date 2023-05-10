@@ -14,7 +14,7 @@
 
 Project Sprintの核となる行動規範がシンプルに述べられており、そこからProject Sprintが立脚する思想や価値観を理解することができます。Theoriesの通読後に改めてEssentialsをお読みいただくと、Project Sprintの最重要箇所をより把握しやすくなるでしょう。
 
-### [Reference](../v3.0/reference.md)
+### [Reference](../v3.3/reference.md)
 
 Project Sprintの背景にある諸メソッド・概念・文献について記載されており、Project Sprintの効率的な理解が可能になり、また今後のメソッドのアップデートに関わりそうな情報を知ることができます。さらに、背景を知ることでメソッドの応用も可能になります。
 
