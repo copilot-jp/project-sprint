@@ -2,6 +2,7 @@
 
 ## Version 4
 
+* [v4.1](v4.1/README.md)
 * [v4.0](v4.0/README.md)
 
 ## Version 3
