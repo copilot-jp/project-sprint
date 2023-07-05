@@ -10,7 +10,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 
 ### 現在の最新ドキュメント - v4.0
 
-[![文書構造](JA/v4.0/images/illust_documents.png)](JA/v4.0/README.md)
+<figure><img src=".gitbook/assets/documents.png" alt=""><figcaption></figcaption></figure>
 
 [**Introduction**](JA/v4.0/introduction.md)
 
@@ -24,13 +24,9 @@ Definitionsでは、Project Sprint を理解するための前提となる、Pro
 
 Frameworkは、Project Sprint の核となる概念や価値観を示すものです。Project Sprint におけるプロジェクト推進の構造と、そのための価値観や推奨される振る舞いが記述されています。
 
-
-
 [**Practical Guide**](practical-guide.md)
 
 Practical Guide は、Project Sprint のフレームワークを実際のプロジェクトに導入し使いこなすためのガイドブックです。
-
-
 
 ### こんな方におすすめ
 

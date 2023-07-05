@@ -12,11 +12,11 @@
 
 すでにプロジェクトマネジメントの経験がある方が新しい方法論としてProject Sprintをインプットするために読むことはもちろん、すでにProject Sprintを導入している方も、効果的な活用のための基盤固めとして読むことができます。
 
-### [Essentials](../v3.0/essentials.md)
+### [Essentials](../v3.1/essentials.md)
 
 Project Sprintの核となる行動規範がシンプルに述べられており、そこからProject Sprintが立脚する思想や価値観を理解することができます。Theoriesの通読後に改めてEssentialsをお読みいただくと、Project Sprintの最重要箇所をより把握しやすくなるでしょう。
 
-### [Reference](../v3.2/reference.md)
+### [Reference](../v3.0/reference.md)
 
 Project Sprintの背景にある諸メソッド・概念・文献について記載されており、Project Sprintの効率的な理解が可能になり、また今後のメソッドのアップデートに関わりそうな情報を知ることができます。さらに、背景を知ることでメソッドの応用も可能になります。
 

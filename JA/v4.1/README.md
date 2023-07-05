@@ -1,6 +1,6 @@
 # v4.1
 
-![文書構造](images/illust_documents.png)
+<figure><img src="../../.gitbook/assets/documents.png" alt=""><figcaption></figcaption></figure>
 
 ## [Introduction](introduction.md)
 
