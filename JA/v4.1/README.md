@@ -1,4 +1,4 @@
-# v4.0
+# v4.1
 
 ![文書構造](images/illust_documents.png)
 
