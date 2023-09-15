@@ -38,6 +38,7 @@
       * [ミーティング環境についてのノウハウ](JA/v3.3/practices/meeting_environments.md)
       * [アジェンダアイテムの要素](JA/v3.3/practices/agenda.md)
       * [情報共有環境の構築](JA/v3.3/practices/project_environments.md)
+      * [スタンドアップの導入](JA/v3.3/practices/stand-up_meetings.md)
       * [振り返り](JA/v3.3/practices/looking_back.md)
       * [テンショントリアージ](JA/v3.3/practices/tension_triage.md)
       * [ロールセッション](JA/v3.3/practices/role_session.md)
