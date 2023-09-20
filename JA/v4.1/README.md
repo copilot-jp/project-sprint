@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/documents.png" alt=""><figcaption></figcaption></figure>
 
-## [Introduction](introduction.md)
+## [Introduction](../v4.2/introduction.md)
 
 Introduction では、Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。
 
