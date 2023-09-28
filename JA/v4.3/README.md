@@ -1,6 +1,6 @@
 # v4.3
 
-<figure><img src="../../.gitbook/assets/documents.png" alt=""><figcaption></figcaption></figure>
+![](images/illust_documents.png)
 
 ## コンテンツ
 
