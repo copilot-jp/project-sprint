@@ -1,6 +1,6 @@
 # v4.3
 
-![](images/illust_documents.png)
+![](images/documents.png)
 
 ## コンテンツ
 
