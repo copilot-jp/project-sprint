@@ -194,6 +194,6 @@
       * [Tips14: The Purpose of an Agenda](EN/v2.0/tips/tips14.md)
     * [Advance](EN/v2.0/advance.md)
     * [Reference](EN/v2.0/reference.md)
-* [Practical Guide](practical-guide.md)
+* [Practical Guide](practical-guide/README.md)
 * [License](LICENSE.md)
 * [Release Notes](releasenotes.md)
