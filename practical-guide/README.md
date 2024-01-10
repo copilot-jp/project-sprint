@@ -9,7 +9,6 @@ Framework の記述を踏まえ、追加で理解しておくとよい概念や�
 - [タスクとアクション](/task_and_action.md)
 
 
-　　
 ▼ Project Sprint に基づいて設計されたサービス
 
 #### [**SuperGoodMeetings**](https://supergoodmeetings.com/)

@@ -195,5 +195,7 @@
     * [Advance](EN/v2.0/advance.md)
     * [Reference](EN/v2.0/reference.md)
 * [Practical Guide](practical-guide/README.md)
+  * [ビジュアル版・プラクティカルガイド]
+  * [ドキュメント版・タスクとアクション](practical-guide/task_and_action.md)
 * [License](LICENSE.md)
 * [Release Notes](releasenotes.md)
