@@ -67,7 +67,7 @@ Project Sprint は、プロジェクトを探索的な小さな実験と検証�
 * **フェーズ**　チームがある目的をもって活動する期間。
 * **プロジェクトストーリー**　プロジェクトチームが次の行動を決定するための指針として、目的達成までの過程をシンプルに時系列で表現したもの。各チームのフラッグが集まることで表現される。
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <img src="images/project_story.png" alt="フラッグによるプロジェクトストーリー">
 
@@ -75,7 +75,7 @@ Project Sprint は、プロジェクトを探索的な小さな実験と検証�
 
 * **フラッグ**　チームが、外部からの制約や実現したい価値・成果を踏まえ、ある目的をもって設定した到達点。以下の要素を持つ。
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <img src="images/elements_of_flag.png" alt="フラッグの要素">
 
