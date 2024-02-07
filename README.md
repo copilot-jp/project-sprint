@@ -4,13 +4,18 @@
   <img src='images/pjs_og.png' width=600>
 </p>
 
+<p align="center">
+    【📚 <a href="JA/v4.3/framework.md">Framework</a> | 🌏 <a href="JA/v4.3/definitions.md">Definitions</a> | 🚀 <a href="JA/v4.3/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a>】
+
+</p>
+
 ## 📍 Project Sprint とは
 
 Project Sprint は、定例会議を活用したプロジェクト推進のためのフレームワークです。本ドキュメントは、Project Sprint をオープンソースのメソッドとして公開しているものです。
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-## 📖 現在の最新ドキュメント
+▼ 現在の最新ドキュメント
 
 * [v4.3](JA/v4.3/README.md)
 
