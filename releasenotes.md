@@ -2,7 +2,7 @@
 
 ## CODE
 
-### [v4.3](JA/v4.3)
+### [v4.3](project-sprint/README.md)
 
 **v4.3 (January 11th, 2024)**
 
