@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【📚 <a href="project-sprint/framework.md">Framework</a> | 🌏 <a href="project-sprint/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a>】
+    【⚖️ <a href="project-sprint/framework.md">Framework</a> | 🌏 <a href="project-sprint/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
