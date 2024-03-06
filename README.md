@@ -1,7 +1,7 @@
 # Project Sprint
 
 <p align="center">
-  <img src='images/pjs_og.png' width=600>
+  <img src='project-sprint/images/pjs_og.png' width=600>
 </p>
 
 <p align="center">
