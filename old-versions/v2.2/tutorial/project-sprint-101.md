@@ -8,7 +8,7 @@
 
 **プロジェクトスプリント概念図**
 
-![Project Sprint CODE Essentialsより引用）](<../images/essentials (1) (16).png>)
+![Project Sprint CODE Essentialsより引用）](../images/essentials.png)
 
 * プログレス：プロジェクトの成果物やゴールにフォーカスした活動
 * プロセス：プロジェクトを推進させるための手続きにフォーカスした活動
