@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【⚖️ <a href="project-sprint/framework.md">Framework</a> | 🌏 <a href="project-sprint/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+    【⚖️ <a href="project-sprint/framework.md">Framework</a> | 🌏 <a href="project-sprint/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="old-versions/README.md">Old Versions</a> | 🪇 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
@@ -64,7 +64,7 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 GitHub上で、このリポジトリに関するあらゆることを自由に議論したり相談したりすることができます。
 
 <B>1. Pull Request</B>
-   
+
 Project Sprint上の記述に関して具体的な修正内容を提案したい場合は、Pull Request をご利用ください。 GitHub の画面右上にある Fork ボタンをクリックすると、ご利用の GitHub アカウントに紐付いた本リポジトリのコピーが作成されます。このコピーのことをフォークと呼びます。フォークリポジトリの中ではお好きなように変更を加えていただいて構いません。加えた変更をこのリポジトリに追加したい任意のタイミングで、フォークリポジトリから Pull Request を作成してください。なお、既に本リポジトリをフォークされている場合は、修正提案用のブランチを任意の名前で作成した上で、 Pull Request を作成してください。
 
 Pull Request が作成されると、コントリビューターの中のレビュー担当者が責任を持って明確かつ実用的なフィードバックを返します。 Pull Request の作成者が、ご自身の役目としてフィードバックに対応してください。 また、状況によっては2人以上のレビュー担当者からフィードバックが返されたり、アサインされていないレビュー担当者からのフィードバックが来ることがある点もご注意ください。
