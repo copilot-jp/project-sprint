@@ -1,19 +1,25 @@
-# v4.3
+# Project Sprint
 
-![](images/documents.png)
+Project Sprint は実践知を集めて体系化することによってかたちづくられ、今現在もプロジェクトの現場から日々新たな実践知を取り込みながら更新が続けられています。ここには、そんな Project Sprint の過去バージョンが格納されています。
 
-## 文書構成
+## 現時点での最新版
+* [v4.3](v4.3/README.md)
 
-* [**Introduction**](introduction.md)  
-  はじめにお読みいただきたい文書です。Project Sprint からの提案の概要を紹介した上で、その基盤となっている価値観を簡単に紹介します。
-* [**Definitions**](definitions.md)  
-  Project Sprint を理解するための前提を示す文書です。Project Sprint におけるプロジェクト観を説明し、その他の用語を定義します。
-* [**Framework**](framework.md)  
-  Project Sprint の核となる概念や価値観を示す文書です。Project Sprint におけるプロジェクト推進の構造と、そのための価値観や推奨される振る舞いが記述されています。
+## 過去バージョン
+v4 では、Project Sprint がこれまでも重視してきた「作成物を生む」という行為により重点を置き、プロジェクトを「出力」と「成果」の関係から捉えなおしました。
+* [v4.2](v4.2/README.md)
+* [v4.1](v4.1/README.md)
+* [v4.0](v4.0/README.md)
 
-## その他のコンテンツ
+v3 では、プロジェクトのすべての要素はプロジェクトチームによって規定されるものであるという思想に基づき、プロジェクトチームを主体とする記述に全面アップデートしました。また、Tutorial 内の 101 をアクションベースで再改訂する等、より分かりやすく汎用性のある形にアップデートしました。
 
-* [**Practical Guide**](https://miro.com/app/board/uXjVMX-zl6s=/)  
-Project Sprint のフレームワークを実際のプロジェクトに導入し使いこなすためのガイドブックです。諸概念を図解し、分かりやすく説明しています。
+* [v3.3](v3.3/README.md)
+* [v3.2](v3.2/README.md)
+* [v3.1](v3.1/README.md)
+* [v3.0](v3.0/README.md)
 
-★Project Sprint の内容に疑問やご意見を持たれた方は、[こちら](https://github.com/copilot-jp/project-sprint/discussions)のGitHub Discussionへお寄せください。
+v2 では、読みやすさ・使いやすさを考え、各種ドキュメント体系を再構築しました。
+
+* [v2.2](v2.2/README.md)
+
+各バージョンにおける変更内容の詳細は <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a> をご参照ください。

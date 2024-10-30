@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【⚖️ <a href="project-sprint/framework.md">Framework</a> | 🌏 <a href="project-sprint/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="old-versions/README.md">Old Versions</a> | 🪇 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+    【⚖️ <a href="project-sprint/v4.3/framework.md">Framework</a> | 🌏 <a href="project-sprint/v4.3/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/v4.3/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
@@ -17,7 +17,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 
 ▼ 現在の最新ドキュメント
 
-* [v4.3](project-sprint/README.md)
+* [v4.3](project-sprint/v4.3/README.md)
 
 ## 🙆‍♂️ こんな方におすすめ
 
