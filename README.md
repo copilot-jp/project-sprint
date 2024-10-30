@@ -1,7 +1,7 @@
 # Project Sprint
 
 <p align="center">
-  <img src='project-sprint/images/pjs_og.png' width=600>
+  <img src='project-sprint/v4.3/images/pjs_og.png' width=600>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 
 そんな方はぜひ一度、Project Sprint がご案内する適応型のプロジェクトの世界へ飛び込んでみませんか？
 
-※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](JA/v4.3/definitions.md)をご覧ください。
+※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](project-sprint/v4.3/definitions.md)をご覧ください。
 
 ## ⚡️ はじめての方へ
 
@@ -38,13 +38,13 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 Frameworkの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
 
 1. Project Sprint からの提案の概要や、その基盤となる価値観を把握する\
-   ☞ [Introduction](project-sprint/introduction.md)
+   ☞ [Introduction](project-sprint/v4.3/introduction.md)
 2. Project Sprint におけるプロジェクト観と用語の定義を理解する\
-   ☞ [Definitions](project-sprint/definitions.md)
+   ☞ [Definitions](project-sprint/v4.3/definitions.md)
 3. Project Sprint の核となる概念や価値観に触れる\
-   ☞ [Framework](project-sprint/framework.md)
+   ☞ [Framework](project-sprint/v4.3/framework.md)
 4. Frameworkを再読し、内容をより深く理解する\
-   ☞ [Framework](project-sprint/framework.md)　(再読)
+   ☞ [Framework](project-sprint/v4.3/framework.md)　(再読)
 
 ## 🤗 フィードバックを歓迎します！
 
