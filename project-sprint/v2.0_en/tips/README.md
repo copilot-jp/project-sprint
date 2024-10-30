@@ -4,7 +4,7 @@ This set of documents contains detailed and in-depth explanations of Project Spr
 
 ## Table of Contents
 
-1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](broken-reference)
+1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](tips1.md)
 2. [Using a Milestone Map](tips2.md)
 3. [What Are Some of the Things That Are Produced in a Project(outputs/deliverables)](tips3.md)
 4. [Preparing Project Environments](tips4.md)

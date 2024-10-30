@@ -4,7 +4,7 @@
 
 **CODE** is a generic term for a set of documents describing Project Sprint.
 
-## [**Tutorial**](tutorial/)
+## [**Tutorial**](tutorial/README.md)
 
 Tutorial provides step-by-step explanations of the basic concept of Project Sprint and how to put them into practice, also you can implement Project Sprint into actual projects while reading Tutorial.
 
@@ -12,7 +12,7 @@ Tutorial provides step-by-step explanations of the basic concept of Project Spri
 
 Essentials provides the big picture of Project Sprint also the core key concepts of Project Sprint.
 
-## [**Tips**](tips/)
+## [**Tips**](tips/README.md)
 
 Tips provide detailed and in-depth explanations related to Project Sprint, which will help you gain concrete know-how and better application of Project Sprint practices.
 
@@ -37,24 +37,24 @@ The way you use the document depends on the situation you are in. Here are some 
 
 **Case1. Those who lead the implementation of Project Sprint on their own.**
 
-1. Read through [Tutorial](tutorial/) to gain a basic understanding
+1. Read through [Tutorial](tutorial/README.md) to gain a basic understanding
 2. Read [Essentials](essentials.md) to get the big picture and the important point
-3. Read [Tips](tips/) to be prepared for different situations
+3. Read [Tips](tips/README.md) to be prepared for different situations
 4. If you are not sure about something, read [Reference](reference.md) for a better understanding
 
 **Case2. Project members who have decided to implement Project Sprint**
 
-1. Read through [Tutorial](tutorial/) to gain a basic understanding
-2. Pick up the [Tips](tips/) that interest you and read them to clear up any unclear points.
+1. Read through [Tutorial](tutorial/README.md) to gain a basic understanding
+2. Pick up the [Tips](tips/README.md) that interest you and read them to clear up any unclear points.
 
 **Case3. If you want to get a quick overview of what Project Sprint is.**
 
-1. Read “[Project Sprint 101](tutorial/project-sprint-101.md)” in [Tutorial](tutorial/)
+1. Read “[Project Sprint 101](tutorial/project-sprint-101.md)” in [Tutorial](tutorial/README.md)
 
 **Case4. People who want to contribute to the development of the Project Sprint method.**
 
-1. Read [Tutorial](tutorial/) to gain a basic understanding
+1. Read [Tutorial](tutorial/README.md) to gain a basic understanding
 2. Read [Essentials](essentials.md) to get the big picture and important points
-3. Read [Tips](tips/) to understand more detailed and in-depth explanations
+3. Read [Tips](tips/README.md) to understand more detailed and in-depth explanations
 4. Read [Advance](advance.md) to keep with the latest discussion
 5. Read [Reference](reference.md) for a deeper understanding of the background ideas

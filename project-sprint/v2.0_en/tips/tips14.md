@@ -1,6 +1,6 @@
 # Tips14: The Purpose of an Agenda
 
-As mentioned in [Project Sprint 101](broken-reference), an agenda in a Project Sprint is "a clear statement of a team member's activities in a project that is shared and recognized by other team members. And how to create a specific agenda is explained in[ Preparing for a meeting](../tutorial/2-1.md) and [All elements that should be included in the agenda](tips8.md).
+As mentioned in [Project Sprint 101](../tutorial/project-sprint-101.md), an agenda in a Project Sprint is "a clear statement of a team member's activities in a project that is shared and recognized by other team members. And how to create a specific agenda is explained in[ Preparing for a meeting](../tutorial/2-1.md) and [All elements that should be included in the agenda](tips8.md).
 
 In this article, we will discuss the purpose of an agenda in order to understand it more deeply. Agendas can be divided into three types, depending on the purpose of the discussion
 
