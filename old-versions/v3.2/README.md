@@ -4,17 +4,17 @@
 
 **CODE**とは、Project Sprintについて説明したドキュメント群の総称です。
 
-### [Theories](theories/) and [Practices](practices/)
+### [Theories and Practices](theories_and_practices.md)
 
 このドキュメント群では、Project Sprintの基本的な概念の説明と実践方法が順を追って説明されます。理論編であるTheories及び実践編であるPracticesから成り、それぞれを上から順番に読み進めていくことで、Project Sprintを概念として理解した上で、実際のプロジェクトに取り入れて使うための知識を得ることができるようになっています。
 
 すでにプロジェクトマネジメントの経験がある方が新しい方法論としてProject Sprintをインプットするために読むことはもちろん、すでにProject Sprintを導入している方も、効果的な活用のための基盤固めとして読むことができます。
 
-### [Essentials](../v3.3/essentials.md)
+### [Essentials](essentials.md)
 
 Project Sprintの核となる行動規範がシンプルに述べられており、そこからProject Sprintが立脚する思想や価値観を理解することができます。Theoriesの通読後に改めてEssentialsをお読みいただくと、Project Sprintの最重要箇所をより把握しやすくなるでしょう。
 
-### [Reference](../v3.0/reference.md)
+### [Reference](reference.md)
 
 Project Sprintの背景にある諸メソッド・概念・文献について記載されており、Project Sprintの効率的な理解が可能になり、また今後のメソッドのアップデートに関わりそうな情報を知ることができます。さらに、背景を知ることでメソッドの応用も可能になります。
 
