@@ -21,5 +21,6 @@ v3 では、プロジェクトのすべての要素はプロジェクトチー�
 v2 では、読みやすさ・使いやすさを考え、各種ドキュメント体系を再構築しました。
 
 * [v2.2](v2.2/README.md)
+* [v2.0(英文)](v2.0_en/README.md)
 
 各バージョンにおける変更内容の詳細は <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a> をご参照ください。

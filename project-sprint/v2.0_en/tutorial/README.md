@@ -12,7 +12,7 @@ It can be used as a first step for learning if you haven't done Project Sprint y
 
 This is an overview of Project Sprint that you should read first.
 
-* [Project Sprint 101](project-sorint-101.md)
+* [Project Sprint 101](project-sprint-101.md)
 
 **Let's Get Ready**
 
