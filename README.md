@@ -1,11 +1,11 @@
 # Project Sprint
 
 <p align="center">
-  <img src='project-sprint/images/pjs_og.png' width=600>
+  <img src='project-sprint/v4.3/images/pjs_og.png' width=600>
 </p>
 
 <p align="center">
-    【⚖️ <a href="project-sprint/framework.md">Framework</a> | 🌏 <a href="project-sprint/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+    【⚖️ <a href="project-sprint/v4.3/framework.md">Framework</a> | 🌏 <a href="project-sprint/v4.3/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/v4.3/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
@@ -17,7 +17,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 
 ▼ 現在の最新ドキュメント
 
-* [v4.3](project-sprint/README.md)
+* [v4.3](project-sprint/v4.3/README.md)
 
 ## 🙆‍♂️ こんな方におすすめ
 
@@ -29,7 +29,7 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 
 そんな方はぜひ一度、Project Sprint がご案内する適応型のプロジェクトの世界へ飛び込んでみませんか？
 
-※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](JA/v4.3/definitions.md)をご覧ください。
+※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](project-sprint/v4.3/definitions.md)をご覧ください。
 
 ## ⚡️ はじめての方へ
 
@@ -38,13 +38,13 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 Frameworkの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
 
 1. Project Sprint からの提案の概要や、その基盤となる価値観を把握する\
-   ☞ [Introduction](project-sprint/introduction.md)
+   ☞ [Introduction](project-sprint/v4.3/introduction.md)
 2. Project Sprint におけるプロジェクト観と用語の定義を理解する\
-   ☞ [Definitions](project-sprint/definitions.md)
+   ☞ [Definitions](project-sprint/v4.3/definitions.md)
 3. Project Sprint の核となる概念や価値観に触れる\
-   ☞ [Framework](project-sprint/framework.md)
+   ☞ [Framework](project-sprint/v4.3/framework.md)
 4. Frameworkを再読し、内容をより深く理解する\
-   ☞ [Framework](project-sprint/framework.md)　(再読)
+   ☞ [Framework](project-sprint/v4.3/framework.md)　(再読)
 
 ## 🤗 フィードバックを歓迎します！
 
@@ -64,7 +64,7 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 GitHub上で、このリポジトリに関するあらゆることを自由に議論したり相談したりすることができます。
 
 <B>1. Pull Request</B>
-   
+
 Project Sprint上の記述に関して具体的な修正内容を提案したい場合は、Pull Request をご利用ください。 GitHub の画面右上にある Fork ボタンをクリックすると、ご利用の GitHub アカウントに紐付いた本リポジトリのコピーが作成されます。このコピーのことをフォークと呼びます。フォークリポジトリの中ではお好きなように変更を加えていただいて構いません。加えた変更をこのリポジトリに追加したい任意のタイミングで、フォークリポジトリから Pull Request を作成してください。なお、既に本リポジトリをフォークされている場合は、修正提案用のブランチを任意の名前で作成した上で、 Pull Request を作成してください。
 
 Pull Request が作成されると、コントリビューターの中のレビュー担当者が責任を持って明確かつ実用的なフィードバックを返します。 Pull Request の作成者が、ご自身の役目としてフィードバックに対応してください。 また、状況によっては2人以上のレビュー担当者からフィードバックが返されたり、アサインされていないレビュー担当者からのフィードバックが来ることがある点もご注意ください。
