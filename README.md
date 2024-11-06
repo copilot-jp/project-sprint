@@ -1,11 +1,11 @@
 # Project Sprint
 
 <p align="center">
-  <img src='project-sprint/v4.3/images/pjs_og.png' width=600>
+  <img src='project-sprint/v4/.3_ja/images/pjs_og.png' width=600>
 </p>
 
 <p align="center">
-    【⚖️ <a href="project-sprint/v4.3/framework.md">Framework</a> | 🌏 <a href="project-sprint/v4.3/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/v4.3/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+    【⚖️ <a href="project-sprint/v4/.3_ja/framework.md">Framework</a> | 🌏 <a href="project-sprint/v4/.3_ja/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/v4/.3_ja/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
