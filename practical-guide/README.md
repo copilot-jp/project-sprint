@@ -10,7 +10,7 @@ Project Sprint の原理を、スライドをベースにビジュアル化し�
 
 Framework の記述を踏まえ、追加で理解しておくとよい概念や実践の際の考え方を説明したドキュメント群です。
 
-- [タスクとアクション](task_and_action.md)
+- [タスクとアクション](job_and_action.md)
 
 
 ## Project Sprint に基づいて設計されたサービス
