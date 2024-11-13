@@ -8,7 +8,10 @@ Project Sprint の原理を、スライドをベースにビジュアル化し�
 
 ## ドキュメント版・プラクティカルガイド
 
-Framework の記述を踏まえ、追加で理解しておくとよい概念や実践の際の考え方を説明したドキュメント群です。
+Minimum Guide では、Project Sprint を実際に体験するために必要な最小限の具体的な行動を記載しています。
+- [Project Sprint Minimum Guide](minimum_guide.md)  
+
+以下はFramework の記述を踏まえ、追加で理解しておくとよい概念や実践の際の考え方を説明したドキュメント群です。
 
 - [ジョブとアクション](job_and_action.md)
 
