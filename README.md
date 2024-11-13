@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    【⚖️ <a href="CODE/v4/.3_ja/framework.md">Framework</a> | 🌏 <a href="CODE/v4/.3_ja/definitions.md">Definitions</a> | 🚀 <a href="CODE/v4/.3_ja/introduction.md">Introduction</a> | 👪 <a href="practical-guide/CODEv4＿based／README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+    【⚖️ <a href="CODE/v4/.3_ja/framework.md">Framework</a> | 🌏 <a href="CODE/v4/.3_ja/definitions.md">Definitions</a> | 🚀 <a href="CODE/v4/.3_ja/introduction.md">Introduction</a> | 👪 <a href="practical-guide/CODEv4_based/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
@@ -77,7 +77,7 @@ Issue が作成されると、コントリビューターの中のレビュー�
 
 <B>3. Discussions</B>
 
-[Discussions](https://github.com/copilot-jp/project-sprint/discussions)　は気軽で自由なコミュニケーションの場です。Project Sprint に関して議論したい内容や質問、ご意見がおありの際には、Discussions をご利用ください。Project Sprintの記述に関することやデザイン・リンク構造等が主なトピックになりますが、こうした内容に限らず自由にDiscussionを作成することができます。漠然とした意見や感想から会話が広がり、議論や課題認識が生まれることも多くありますので、些細なことでもぜひ投稿してみてください。
+[Discussions](https://github.com/copilot-jp/project-sprint/discussions) は気軽で自由なコミュニケーションの場です。Project Sprint に関して議論したい内容や質問、ご意見がおありの際には、Discussions をご利用ください。Project Sprintの記述に関することやデザイン・リンク構造等が主なトピックになりますが、こうした内容に限らず自由にDiscussionを作成することができます。漠然とした意見や感想から会話が広がり、議論や課題認識が生まれることも多くありますので、些細なことでもぜひ投稿してみてください。
 
 主に次の３つのカテゴリーが活用されています。
 
