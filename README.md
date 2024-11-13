@@ -1,11 +1,11 @@
 # Project Sprint
 
 <p align="center">
-  <img src='project-sprint/v4/.3_ja/images/pjs_og.png' width=600>
+  <img src='CODE/v4/.3_ja/images/pjs_og.png' width=600>
 </p>
 
 <p align="center">
-    【⚖️ <a href="project-sprint/v4/.3_ja/framework.md">Framework</a> | 🌏 <a href="project-sprint/v4/.3_ja/definitions.md">Definitions</a> | 🚀 <a href="project-sprint/v4/.3_ja/introduction.md">Introduction</a> | 👪 <a href="practical-guide/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+    【⚖️ <a href="CODE/v4/.3_ja/framework.md">Framework</a> | 🌏 <a href="CODE/v4/.3_ja/definitions.md">Definitions</a> | 🚀 <a href="CODE/v4/.3_ja/introduction.md">Introduction</a> | 👪 <a href="practical-guide/CODEv4＿based／README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
 
 </p>
 
@@ -17,7 +17,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 
 ▼ 現在の最新ドキュメント
 
-* [v4.3](project-sprint/v4/.3_ja/README.md)
+* [v4.3](CODE/v4/.3_ja/README.md)
 
 ## 🙆‍♂️ こんな方におすすめ
 
@@ -29,7 +29,7 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 
 そんな方はぜひ一度、Project Sprint がご案内する適応型のプロジェクトの世界へ飛び込んでみませんか？
 
-※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](project-sprint/v4/.3/definitions.md)をご覧ください。
+※Project Sprint におけるプロジェクトの捉え方について、さらに詳しくは[こちら](CODE/v4/.3/definitions.md)をご覧ください。
 
 ## ⚡️ はじめての方へ
 
@@ -38,13 +38,13 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 Frameworkの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
 
 1. Project Sprint からの提案の概要や、その基盤となる価値観を把握する\
-   ☞ [Introduction](project-sprint/v4/.3_ja/introduction.md)
+   ☞ [Introduction](CODE/v4/.3_ja/introduction.md)
 2. Project Sprint におけるプロジェクト観と用語の定義を理解する\
-   ☞ [Definitions](project-sprint/v4/.3_ja/definitions.md)
+   ☞ [Definitions](CODE/v4/.3_ja/definitions.md)
 3. Project Sprint の核となる概念や価値観に触れる\
-   ☞ [Framework](project-sprint/v4/.3_ja/framework.md)
+   ☞ [Framework](CODE/v4/.3_ja/framework.md)
 4. Frameworkを再読し、内容をより深く理解する\
-   ☞ [Framework](project-sprint/v4/.3_ja/framework.md)　(再読)
+   ☞ [Framework](CODE/v4/.3_ja/framework.md)　(再読)
 
 ## 🤗 フィードバックを歓迎します！
 
