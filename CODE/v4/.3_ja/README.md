@@ -13,7 +13,7 @@
 
 ## その他のコンテンツ
 
-* [**Practical Guide**](https://miro.com/app/board/uXjVMX-zl6s=/)  
-Project Sprint のフレームワークを実際のプロジェクトに導入し使いこなすためのガイドブックです。諸概念を図解し、分かりやすく説明しています。
+* [**Practical Guide**](../../../practical-guide/CODEv4_based/README.md)  
+Project Sprint のフレームワークを実際のプロジェクトに導入し使いこなすためのガイドブックです。Project sprint の原理をビジュアル化して分かりやすく解説した Miro や、追加で理解しておくとよいドキュメント群が含まれます。
 
 ★Project Sprint の内容に疑問やご意見を持たれた方は、[こちら](https://github.com/copilot-jp/project-sprint/discussions)のGitHub Discussionへお寄せください。
