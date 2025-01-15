@@ -14,7 +14,7 @@
 
 **プロジェクトスプリント概念図**
 
-![](../images/essentials.png)
+![](images/essentials.png)
 
 ### ステータス
 
