@@ -1,6 +1,11 @@
 # TOP
 
-![](images/pjs\_og.png)
+![](images/pjs_og.png)
+
+### <mark style="color:red;">＝＝＝お知らせ＝＝＝</mark>
+
+このページは更新を停止しています。\
+最新版の Project Sprint は [こちら](https://github.com/ProjectSprintOrg/projectsprint.org) をご覧ください。
 
 ### Project Sprint とは
 
@@ -10,7 +15,7 @@ Project Sprint 及び本ドキュメントは、2020年のリリース以降大�
 
 ### 現在の最新ドキュメント
 
-* [v4.3](JA/v4.3/README.md)
+* [v4.3](JA/v4.3/)
 
 ### こんな方におすすめ
 
@@ -31,7 +36,7 @@ Project Sprint は、「チームがプロジェクトを規定する」とい�
 Frameworkの記述内容は抽象度が高く、厳密さを重視しているので、はじめての方にとっては少しとっつきにくいと感じられることもあるかと思います。理解を助けるため、必要に応じて過去バージョンを参照し、実践する際の具体的な行動をイメージしながらお読みいただければと思います。
 
 1. Project Sprint からの提案の概要や、その基盤となる価値観を把握する\
-   ☞ [Introduction](JA/v4.3/introduction.md)
+   ☞ [Introduction](JA/v4.2/introduction.md)
 2. Project Sprint におけるプロジェクト観と用語の定義を理解する\
    ☞ [Definitions](JA/v4.3/definitions.md)
 3. Project Sprint の核となる概念や価値観に触れる\
