@@ -11,10 +11,6 @@ Project Sprint は、定例会議を活用したプロジェクト推進のた�
 
 Project Sprint 及び本ドキュメントは、2020年のリリース以降大小さまざまなアップデートを繰り返し、今現在も進化し続けています。
 
-### 現在の最新ドキュメント
-
-* [v4.3](JA/v4.3/)
-
 ### こんな方におすすめ
 
 Project Sprint は、「チームがプロジェクトを規定する」という価値観に基づいて構築されています。もしあなたが、従来の価値観によるプロジェクトの固定的な枠組みの中で何らかの不自由さを感じているのなら、Project Sprint はあなたをそこから解放する手助けができるかもしれません。
@@ -59,7 +55,4 @@ Project Sprint は、プロジェクトの現場で得られた実践知のフ�
 
 **＜フィードバックの方法＞**
 
-GitHubの[Discussions](https://github.com/copilot-jp/project-sprint/discussions)へお寄せください。
-
-* Discussionsとは、GitHubのオープンなコメントシステムです。
-* 入力に当たっては、運用ルール（[Operation Rules](https://github.com/copilot-jp/project-sprint/wiki/Operation-Rules)）をご参照ください。
+[こちら](https://github.com/ProjectSprintOrg/projectsprint.org/wiki/Question-and-Suggestion)をご参照ください。
