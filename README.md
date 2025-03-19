@@ -2,11 +2,10 @@
 
 ![](images/pjs_og.png)
 
-### <mark style="color:red;">＝＝＝お知らせ＝＝＝</mark>
+### <mark style="color:red;">Latest Information</mark>
 
 このページは、2024年1月をもって更新を停止しています。\
-最新版の Project Sprint は [こちら](https://github.com/ProjectSprintOrg/projectsprint.org) をご覧ください。\
-（2025.2.27）
+最新版の Project Sprint は [こちら](https://github.com/ProjectSprintOrg/projectsprint.org) をご覧ください。（2025.2.27）
 
 ### Project Sprint とは
 
