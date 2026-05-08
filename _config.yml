@@ -9,3 +9,10 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
