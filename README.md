@@ -4,8 +4,8 @@
   <img src='CODE/v4/v4_3_ja/images/pjs_og.png' width=600>
 </p>
 
-<p align="center">
-    【⚖️ <a href="CODE/v4/v4_3_ja/framework.md">Framework</a> | 🌏 <a href="CODE/v4/v4_3_ja/definitions.md">Definitions</a> | 🚀 <a href="CODE/v4/v4_3_ja/introduction.md">Introduction</a> | 👪 <a href="practical-guide/CODEv4_based/README.md">Practical Guide</a> | 📚 <a href="https://github.com/copilot-jp/project-sprint/releases">Release Note</a>】
+<p align="center" markdown="1">
+    【⚖️ [Framework](CODE/v4/v4_3_ja/framework.md) | 🌏 [Definitions](CODE/v4/v4_3_ja/definitions.md) | 🚀 [Introduction](CODE/v4/v4_3_ja/introduction.md) | 👪 [Practical Guide](practical-guide/CODEv4_based/README.md) | 📚 [Release Note](https://github.com/copilot-jp/project-sprint/releases)】
 
 </p>
 
