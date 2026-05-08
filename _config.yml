@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: true
